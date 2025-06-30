@@ -1,0 +1,41 @@
+comparison_group,technology,country,avg_interest,analysis_date
+Python programming vs JavaScript programming vs Java programming,Python programming,FR,43.79,2025-06-30
+Python programming vs JavaScript programming vs Java programming,JavaScript programming,FR,1.4,2025-06-30
+Python programming vs JavaScript programming vs Java programming,Java programming,FR,5.28,2025-06-30
+Python programming vs JavaScript programming vs Java programming,Python programming,DE,68.7,2025-06-30
+Python programming vs JavaScript programming vs Java programming,JavaScript programming,DE,1.53,2025-06-30
+Python programming vs JavaScript programming vs Java programming,Java programming,DE,30.89,2025-06-30
+Python programming vs JavaScript programming vs Java programming,Python programming,NL,47.79,2025-06-30
+Python programming vs JavaScript programming vs Java programming,JavaScript programming,NL,0.23,2025-06-30
+Python programming vs JavaScript programming vs Java programming,Java programming,NL,4.94,2025-06-30
+Python programming vs JavaScript programming vs Java programming,Python programming,GB,68.15,2025-06-30
+Python programming vs JavaScript programming vs Java programming,JavaScript programming,GB,2.96,2025-06-30
+Python programming vs JavaScript programming vs Java programming,Java programming,GB,18.21,2025-06-30
+Python programming vs JavaScript programming vs Java programming,Python programming,IT,39.08,2025-06-30
+Python programming vs JavaScript programming vs Java programming,JavaScript programming,IT,1.89,2025-06-30
+Python programming vs JavaScript programming vs Java programming,Java programming,IT,1.7,2025-06-30
+React framework vs Angular framework vs Vue.js framework,React framework,FR,26.49,2025-06-30
+React framework vs Angular framework vs Vue.js framework,Angular framework,FR,4.17,2025-06-30
+React framework vs Angular framework vs Vue.js framework,Vue.js framework,FR,1.55,2025-06-30
+React framework vs Angular framework vs Vue.js framework,React framework,DE,27.36,2025-06-30
+React framework vs Angular framework vs Vue.js framework,Angular framework,DE,3.6,2025-06-30
+React framework vs Angular framework vs Vue.js framework,Vue.js framework,DE,1.49,2025-06-30
+React framework vs Angular framework vs Vue.js framework,React framework,NL,2.68,2025-06-30
+React framework vs Angular framework vs Vue.js framework,Angular framework,NL,0.26,2025-06-30
+React framework vs Angular framework vs Vue.js framework,Vue.js framework,NL,1.89,2025-06-30
+React framework vs Angular framework vs Vue.js framework,React framework,GB,41.25,2025-06-30
+React framework vs Angular framework vs Vue.js framework,Angular framework,GB,2.38,2025-06-30
+React framework vs Angular framework vs Vue.js framework,Vue.js framework,GB,0.0,2025-06-30
+React framework vs Angular framework vs Vue.js framework,React framework,IT,3.02,2025-06-30
+React framework vs Angular framework vs Vue.js framework,Angular framework,IT,0.55,2025-06-30
+React framework vs Angular framework vs Vue.js framework,Vue.js framework,IT,0.0,2025-06-30
+Docker container vs Kubernetes,Docker container,FR,29.68,2025-06-30
+Docker container vs Kubernetes,Kubernetes,FR,83.57,2025-06-30
+Docker container vs Kubernetes,Docker container,DE,52.51,2025-06-30
+Docker container vs Kubernetes,Kubernetes,DE,85.74,2025-06-30
+Docker container vs Kubernetes,Docker container,NL,40.62,2025-06-30
+Docker container vs Kubernetes,Kubernetes,NL,82.62,2025-06-30
+Docker container vs Kubernetes,Docker container,GB,39.02,2025-06-30
+Docker container vs Kubernetes,Kubernetes,GB,82.43,2025-06-30
+Docker container vs Kubernetes,Docker container,IT,41.79,2025-06-30
+Docker container vs Kubernetes,Kubernetes,IT,77.21,2025-06-30

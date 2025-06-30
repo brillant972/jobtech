@@ -1,0 +1,126 @@
+keyword,country,timeframe,avg_interest,max_interest,min_interest,trend_direction,trend_strength,data_points,analysis_date,category
+Python programming,FR,today 12-m,43.83,100,0,decreasing,12.77,53,2025-06-30,Programming Language
+JavaScript programming,FR,today 12-m,1.4,62,0,increasing,0.92,53,2025-06-30,Programming Language
+Java programming,FR,today 12-m,5.28,84,0,decreasing,4.08,53,2025-06-30,Programming Language
+TypeScript programming,FR,today 12-m,0.08,4,0,increasing,0.31,53,2025-06-30,Programming Language
+C# programming,FR,today 12-m,1.19,51,0,increasing,0.92,53,2025-06-30,Programming Language
+React framework,FR,today 12-m,26.51,100,0,decreasing,7.31,53,2025-06-30,Framework
+Angular framework,FR,today 12-m,4.57,71,0,stable,0.15,53,2025-06-30,Framework
+Vue.js framework,FR,today 12-m,1.55,82,0,decreasing,6.31,53,2025-06-30,Framework
+Node.js programming,FR,today 12-m,0.0,0,0,stable,0.0,53,2025-06-30,Framework
+Django framework,FR,today 12-m,17.98,71,0,decreasing,9.69,53,2025-06-30,Framework
+Docker container,FR,today 12-m,29.68,37,17,decreasing,6.0,53,2025-06-30,DevOps/Cloud
+Kubernetes,FR,today 12-m,83.58,100,51,stable,1.0,53,2025-06-30,DevOps/Cloud
+AWS cloud,FR,today 12-m,10.74,15,6,stable,0.31,53,2025-06-30,DevOps/Cloud
+Azure cloud,FR,today 12-m,7.06,11,0,decreasing,1.15,53,2025-06-30,DevOps/Cloud
+DevOps,FR,today 12-m,55.75,71,29,stable,2.54,53,2025-06-30,DevOps/Cloud
+Machine Learning,FR,today 12-m,73.7,100,46,stable,5.62,53,2025-06-30,AI/Data Science
+Data Science,FR,today 12-m,41.4,60,25,increasing,3.85,53,2025-06-30,AI/Data Science
+Artificial Intelligence,FR,today 12-m,39.42,64,19,increasing,9.23,53,2025-06-30,Technology
+TensorFlow,FR,today 12-m,22.21,31,10,decreasing,5.62,53,2025-06-30,AI/Data Science
+PyTorch,FR,today 12-m,42.32,58,24,stable,1.46,53,2025-06-30,Technology
+PostgreSQL,FR,today 12-m,71.23,87,38,stable,2.69,53,2025-06-30,Database
+MongoDB,FR,today 12-m,35.08,46,16,decreasing,7.46,53,2025-06-30,Database
+MySQL,FR,today 12-m,73.74,100,46,decreasing,12.92,53,2025-06-30,Database
+Redis database,FR,today 12-m,0.15,2,0,increasing,0.15,53,2025-06-30,Database
+Elasticsearch,FR,today 12-m,18.98,25,9,decreasing,4.62,53,2025-06-30,Technology
+Python programming,DE,today 12-m,68.72,100,40,decreasing,8.46,53,2025-06-30,Programming Language
+JavaScript programming,DE,today 12-m,1.53,39,0,increasing,4.23,53,2025-06-30,Programming Language
+Java programming,DE,today 12-m,30.91,54,0,decreasing,15.69,53,2025-06-30,Programming Language
+TypeScript programming,DE,today 12-m,0.09,3,0,increasing,0.38,53,2025-06-30,Programming Language
+C# programming,DE,today 12-m,4.81,37,0,increasing,0.77,53,2025-06-30,Programming Language
+React framework,DE,today 12-m,27.42,100,0,decreasing,3.15,53,2025-06-30,Framework
+Angular framework,DE,today 12-m,3.6,58,0,decreasing,9.62,53,2025-06-30,Framework
+Vue.js framework,DE,today 12-m,1.49,76,0,increasing,0.23,53,2025-06-30,Framework
+Node.js programming,DE,today 12-m,0.0,0,0,stable,0.0,53,2025-06-30,Framework
+Django framework,DE,today 12-m,20.21,72,0,decreasing,11.38,53,2025-06-30,Framework
+Docker container,DE,today 12-m,52.51,60,34,decreasing,5.46,53,2025-06-30,DevOps/Cloud
+Kubernetes,DE,today 12-m,85.74,100,40,decreasing,10.0,53,2025-06-30,DevOps/Cloud
+AWS cloud,DE,today 12-m,11.87,16,6,stable,0.77,53,2025-06-30,DevOps/Cloud
+Azure cloud,DE,today 12-m,9.6,14,4,decreasing,1.54,53,2025-06-30,DevOps/Cloud
+DevOps,DE,today 12-m,54.75,70,21,stable,5.15,53,2025-06-30,DevOps/Cloud
+Machine Learning,DE,today 12-m,84.08,100,56,stable,0.85,53,2025-06-30,AI/Data Science
+Data Science,DE,today 12-m,62.47,75,38,stable,1.69,53,2025-06-30,AI/Data Science
+Artificial Intelligence,DE,today 12-m,50.96,75,36,increasing,7.77,53,2025-06-30,Technology
+TensorFlow,DE,today 12-m,25.19,36,14,decreasing,7.54,53,2025-06-30,AI/Data Science
+PyTorch,DE,today 12-m,58.55,79,35,decreasing,9.69,53,2025-06-30,Technology
+PostgreSQL,DE,today 12-m,47.55,58,20,stable,4.0,53,2025-06-30,Database
+MongoDB,DE,today 12-m,33.21,42,19,decreasing,7.38,53,2025-06-30,Database
+MySQL,DE,today 12-m,81.28,100,44,decreasing,20.77,53,2025-06-30,Database
+Redis database,DE,today 12-m,0.08,2,0,stable,0.0,53,2025-06-30,Database
+Elasticsearch,DE,today 12-m,15.19,20,6,decreasing,4.15,53,2025-06-30,Technology
+Python programming,NL,today 12-m,47.7,100,0,decreasing,19.0,53,2025-06-30,Programming Language
+JavaScript programming,NL,today 12-m,0.23,8,0,increasing,0.92,53,2025-06-30,Programming Language
+Java programming,NL,today 12-m,4.94,70,0,decreasing,8.31,53,2025-06-30,Programming Language
+TypeScript programming,NL,today 12-m,0.0,0,0,stable,0.0,53,2025-06-30,Programming Language
+C# programming,NL,today 12-m,2.7,81,0,decreasing,5.0,53,2025-06-30,Programming Language
+React framework,NL,today 12-m,1.55,53,0,increasing,2.23,53,2025-06-30,Framework
+Angular framework,NL,today 12-m,0.15,4,0,increasing,0.62,53,2025-06-30,Framework
+Vue.js framework,NL,today 12-m,1.08,57,0,increasing,4.38,53,2025-06-30,Framework
+Node.js programming,NL,today 12-m,2.92,100,0,increasing,4.23,53,2025-06-30,Framework
+Django framework,NL,today 12-m,0.36,10,0,increasing,1.46,53,2025-06-30,Framework
+Docker container,NL,today 12-m,31.49,40,20,decreasing,3.77,53,2025-06-30,DevOps/Cloud
+Kubernetes,NL,today 12-m,64.11,78,31,decreasing,7.46,53,2025-06-30,DevOps/Cloud
+AWS cloud,NL,today 12-m,6.42,12,0,decreasing,0.69,53,2025-06-30,DevOps/Cloud
+Azure cloud,NL,today 12-m,9.45,15,0,stable,0.15,53,2025-06-30,DevOps/Cloud
+DevOps,NL,today 12-m,80.09,100,29,decreasing,9.46,53,2025-06-30,DevOps/Cloud
+Machine Learning,NL,today 12-m,74.0,100,34,stable,3.54,53,2025-06-30,AI/Data Science
+Data Science,NL,today 12-m,63.13,81,28,stable,1.54,53,2025-06-30,AI/Data Science
+Artificial Intelligence,NL,today 12-m,55.25,71,30,stable,0.15,53,2025-06-30,Technology
+TensorFlow,NL,today 12-m,15.4,25,0,stable,0.23,53,2025-06-30,AI/Data Science
+PyTorch,NL,today 12-m,35.38,52,15,stable,1.54,53,2025-06-30,Technology
+PostgreSQL,NL,today 12-m,44.06,60,21,stable,4.31,53,2025-06-30,Database
+MongoDB,NL,today 12-m,25.25,41,11,decreasing,2.62,53,2025-06-30,Database
+MySQL,NL,today 12-m,82.43,100,49,decreasing,17.85,53,2025-06-30,Database
+Redis database,NL,today 12-m,0.04,1,0,increasing,0.15,53,2025-06-30,Database
+Elasticsearch,NL,today 12-m,16.15,22,7,decreasing,2.77,53,2025-06-30,Technology
+Python programming,GB,today 12-m,68.17,100,43,stable,1.77,53,2025-06-30,Programming Language
+JavaScript programming,GB,today 12-m,2.91,15,0,decreasing,1.54,53,2025-06-30,Programming Language
+Java programming,GB,today 12-m,18.23,34,0,decreasing,2.85,53,2025-06-30,Programming Language
+TypeScript programming,GB,today 12-m,0.08,2,0,increasing,0.31,53,2025-06-30,Programming Language
+C# programming,GB,today 12-m,5.96,17,0,decreasing,2.0,53,2025-06-30,Programming Language
+React framework,GB,today 12-m,41.15,100,0,increasing,15.69,53,2025-06-30,Framework
+Angular framework,GB,today 12-m,2.66,55,0,increasing,6.69,53,2025-06-30,Framework
+Vue.js framework,GB,today 12-m,0.0,0,0,stable,0.0,53,2025-06-30,Framework
+Node.js programming,GB,today 12-m,0.0,0,0,stable,0.0,53,2025-06-30,Framework
+Django framework,GB,today 12-m,21.45,86,0,decreasing,19.46,53,2025-06-30,Framework
+Docker container,GB,today 12-m,32.92,43,19,decreasing,4.46,53,2025-06-30,DevOps/Cloud
+Kubernetes,GB,today 12-m,69.45,84,33,stable,5.85,53,2025-06-30,DevOps/Cloud
+AWS cloud,GB,today 12-m,24.13,30,12,stable,1.69,53,2025-06-30,DevOps/Cloud
+Azure cloud,GB,today 12-m,15.36,22,6,stable,1.54,53,2025-06-30,DevOps/Cloud
+DevOps,GB,today 12-m,87.15,100,44,stable,7.77,53,2025-06-30,DevOps/Cloud
+Machine Learning,GB,today 12-m,80.23,100,51,stable,3.08,53,2025-06-30,AI/Data Science
+Data Science,GB,today 12-m,73.55,95,44,stable,0.46,53,2025-06-30,AI/Data Science
+Artificial Intelligence,GB,today 12-m,57.08,75,42,increasing,9.0,53,2025-06-30,Technology
+TensorFlow,GB,today 12-m,12.34,19,7,decreasing,3.62,53,2025-06-30,AI/Data Science
+PyTorch,GB,today 12-m,28.38,38,15,decreasing,5.69,53,2025-06-30,Technology
+PostgreSQL,GB,today 12-m,37.45,45,20,stable,3.15,53,2025-06-30,Database
+MongoDB,GB,today 12-m,36.47,46,20,decreasing,8.46,53,2025-06-30,Database
+MySQL,GB,today 12-m,79.51,100,43,decreasing,18.62,53,2025-06-30,Database
+Redis database,GB,today 12-m,0.09,3,0,decreasing,0.08,53,2025-06-30,Database
+Elasticsearch,GB,today 12-m,14.96,20,7,decreasing,4.08,53,2025-06-30,Technology
+Python programming,IT,today 12-m,39.13,100,0,decreasing,4.08,53,2025-06-30,Programming Language
+JavaScript programming,IT,today 12-m,1.89,86,0,increasing,1.08,53,2025-06-30,Programming Language
+Java programming,IT,today 12-m,1.7,52,0,decreasing,1.08,53,2025-06-30,Programming Language
+TypeScript programming,IT,today 12-m,0.92,45,0,decreasing,3.15,53,2025-06-30,Programming Language
+C# programming,IT,today 12-m,0.25,7,0,increasing,1.0,53,2025-06-30,Programming Language
+React framework,IT,today 12-m,2.6,86,0,increasing,4.0,53,2025-06-30,Framework
+Angular framework,IT,today 12-m,0.47,13,0,increasing,1.92,53,2025-06-30,Framework
+Vue.js framework,IT,today 12-m,0.0,0,0,stable,0.0,53,2025-06-30,Framework
+Node.js programming,IT,today 12-m,0.0,0,0,stable,0.0,53,2025-06-30,Framework
+Django framework,IT,today 12-m,8.08,100,0,increasing,2.92,53,2025-06-30,Framework
+Docker container,IT,today 12-m,41.79,60,22,decreasing,4.54,53,2025-06-30,DevOps/Cloud
+Kubernetes,IT,today 12-m,77.19,100,39,stable,1.54,53,2025-06-30,DevOps/Cloud
+AWS cloud,IT,today 12-m,15.43,22,8,decreasing,1.54,53,2025-06-30,DevOps/Cloud
+Azure cloud,IT,today 12-m,9.4,17,0,stable,0.08,53,2025-06-30,DevOps/Cloud
+DevOps,IT,today 12-m,53.25,70,20,stable,1.62,53,2025-06-30,DevOps/Cloud
+Machine Learning,IT,today 12-m,79.96,100,42,increasing,11.31,53,2025-06-30,AI/Data Science
+Data Science,IT,today 12-m,45.96,63,29,stable,0.31,53,2025-06-30,AI/Data Science
+Artificial Intelligence,IT,today 12-m,71.42,92,40,increasing,15.08,53,2025-06-30,Technology
+TensorFlow,IT,today 12-m,14.91,21,9,decreasing,3.15,53,2025-06-30,AI/Data Science
+PyTorch,IT,today 12-m,27.55,40,17,decreasing,4.69,53,2025-06-30,Technology
+PostgreSQL,IT,today 12-m,29.87,40,16,stable,0.15,53,2025-06-30,Database
+MongoDB,IT,today 12-m,28.4,37,13,stable,0.31,53,2025-06-30,Database
+MySQL,IT,today 12-m,78.75,100,44,decreasing,8.46,53,2025-06-30,Database
+Redis database,IT,today 12-m,0.08,3,0,increasing,0.08,53,2025-06-30,Database
+Elasticsearch,IT,today 12-m,8.42,13,3,decreasing,1.31,53,2025-06-30,Technology
