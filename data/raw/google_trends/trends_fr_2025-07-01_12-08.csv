@@ -1,0 +1,21 @@
+keyword,country,timeframe,avg_interest,max_interest,min_interest,trend_direction,trend_strength,data_points,analysis_date,category
+Python programming,FR,today 12-m,43.08,100,0,decreasing,13.08,53,2025-07-01,Programming Language
+JavaScript programming,FR,today 12-m,1.4,62,0,increasing,0.92,53,2025-07-01,Programming Language
+Java programming,FR,today 12-m,5.26,84,0,decreasing,4.15,53,2025-07-01,Programming Language
+TypeScript programming,FR,today 12-m,0.09,5,0,increasing,0.38,53,2025-07-01,Programming Language
+C# programming,FR,today 12-m,0.21,7,0,increasing,0.85,53,2025-07-01,Programming Language
+React framework,FR,today 12-m,26.51,100,0,decreasing,6.08,53,2025-07-01,Framework
+Angular framework,FR,today 12-m,4.15,71,0,decreasing,1.92,53,2025-07-01,Framework
+Vue.js framework,FR,today 12-m,1.55,82,0,decreasing,6.31,53,2025-07-01,Framework
+Node.js programming,FR,today 12-m,0.0,0,0,stable,0.0,53,2025-07-01,Framework
+Django framework,FR,today 12-m,14.09,67,0,decreasing,7.0,53,2025-07-01,Framework
+Docker container,FR,today 12-m,29.64,37,17,decreasing,4.92,53,2025-07-01,DevOps/Cloud
+Kubernetes,FR,today 12-m,83.26,100,51,stable,0.15,53,2025-07-01,DevOps/Cloud
+AWS cloud,FR,today 12-m,10.66,15,5,stable,0.15,53,2025-07-01,DevOps/Cloud
+Azure cloud,FR,today 12-m,7.13,10,3,stable,0.46,53,2025-07-01,DevOps/Cloud
+DevOps,FR,today 12-m,55.15,70,29,stable,1.54,53,2025-07-01,DevOps/Cloud
+PostgreSQL,FR,today 12-m,70.23,86,37,stable,1.69,53,2025-07-01,Database
+MongoDB,FR,today 12-m,34.15,44,17,decreasing,7.38,53,2025-07-01,Database
+MySQL,FR,today 12-m,72.51,100,45,decreasing,12.0,53,2025-07-01,Database
+Redis database,FR,today 12-m,0.08,3,0,increasing,0.08,53,2025-07-01,Database
+Elasticsearch,FR,today 12-m,18.75,24,9,decreasing,3.85,53,2025-07-01,Technology

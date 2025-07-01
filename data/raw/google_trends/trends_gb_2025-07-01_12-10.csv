@@ -1,0 +1,16 @@
+keyword,country,timeframe,avg_interest,max_interest,min_interest,trend_direction,trend_strength,data_points,analysis_date,category
+React framework,GB,today 12-m,37.75,95,0,increasing,19.23,53,2025-07-01,Framework
+Angular framework,GB,today 12-m,1.25,52,0,increasing,5.08,53,2025-07-01,Framework
+Vue.js framework,GB,today 12-m,0.0,0,0,stable,0.0,53,2025-07-01,Framework
+Node.js programming,GB,today 12-m,0.0,0,0,stable,0.0,53,2025-07-01,Framework
+Django framework,GB,today 12-m,17.7,100,0,decreasing,13.69,53,2025-07-01,Framework
+Machine Learning,GB,today 12-m,80.43,100,49,stable,2.69,53,2025-07-01,AI/Data Science
+Data Science,GB,today 12-m,73.83,95,43,stable,0.23,53,2025-07-01,AI/Data Science
+Artificial Intelligence,GB,today 12-m,57.23,74,42,increasing,8.85,53,2025-07-01,Technology
+TensorFlow,GB,today 12-m,12.51,19,7,decreasing,3.54,53,2025-07-01,AI/Data Science
+PyTorch,GB,today 12-m,28.4,38,15,decreasing,5.62,53,2025-07-01,Technology
+PostgreSQL,GB,today 12-m,37.62,45,20,stable,3.08,53,2025-07-01,Database
+MongoDB,GB,today 12-m,36.64,46,20,decreasing,8.31,53,2025-07-01,Database
+MySQL,GB,today 12-m,79.58,100,43,decreasing,17.54,53,2025-07-01,Database
+Redis database,GB,today 12-m,0.25,3,0,increasing,0.23,53,2025-07-01,Database
+Elasticsearch,GB,today 12-m,15.0,22,5,decreasing,4.23,53,2025-07-01,Technology

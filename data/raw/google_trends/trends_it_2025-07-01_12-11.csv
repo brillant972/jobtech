@@ -1,0 +1,26 @@
+keyword,country,timeframe,avg_interest,max_interest,min_interest,trend_direction,trend_strength,data_points,analysis_date,category
+Python programming,IT,today 12-m,30.83,100,0,decreasing,2.54,53,2025-07-01,Programming Language
+JavaScript programming,IT,today 12-m,1.4,69,0,increasing,0.38,53,2025-07-01,Programming Language
+Java programming,IT,today 12-m,1.49,42,0,decreasing,0.38,53,2025-07-01,Programming Language
+TypeScript programming,IT,today 12-m,0.85,45,0,stable,0.0,53,2025-07-01,Programming Language
+C# programming,IT,today 12-m,0.19,5,0,increasing,0.77,53,2025-07-01,Programming Language
+React framework,IT,today 12-m,2.28,77,0,increasing,3.38,53,2025-07-01,Framework
+Angular framework,IT,today 12-m,0.36,10,0,increasing,1.46,53,2025-07-01,Framework
+Vue.js framework,IT,today 12-m,0.0,0,0,stable,0.0,53,2025-07-01,Framework
+Node.js programming,IT,today 12-m,0.0,0,0,stable,0.0,53,2025-07-01,Framework
+Django framework,IT,today 12-m,7.28,100,0,decreasing,10.31,53,2025-07-01,Framework
+Docker container,IT,today 12-m,41.85,59,22,stable,3.85,53,2025-07-01,DevOps/Cloud
+Kubernetes,IT,today 12-m,77.23,100,39,stable,0.08,53,2025-07-01,DevOps/Cloud
+AWS cloud,IT,today 12-m,15.23,23,8,stable,0.15,53,2025-07-01,DevOps/Cloud
+Azure cloud,IT,today 12-m,9.72,22,0,increasing,2.15,53,2025-07-01,DevOps/Cloud
+DevOps,IT,today 12-m,53.02,70,17,stable,1.15,53,2025-07-01,DevOps/Cloud
+Machine Learning,IT,today 12-m,79.26,100,43,increasing,12.23,53,2025-07-01,AI/Data Science
+Data Science,IT,today 12-m,45.28,62,27,stable,0.69,53,2025-07-01,AI/Data Science
+Artificial Intelligence,IT,today 12-m,70.36,95,41,increasing,14.31,53,2025-07-01,Technology
+TensorFlow,IT,today 12-m,14.62,23,8,decreasing,3.08,53,2025-07-01,AI/Data Science
+PyTorch,IT,today 12-m,27.26,40,16,decreasing,3.62,53,2025-07-01,Technology
+PostgreSQL,IT,today 12-m,29.64,40,16,stable,0.69,53,2025-07-01,Database
+MongoDB,IT,today 12-m,28.21,36,16,stable,0.31,53,2025-07-01,Database
+MySQL,IT,today 12-m,78.45,100,44,decreasing,8.85,53,2025-07-01,Database
+Redis database,IT,today 12-m,0.0,0,0,stable,0.0,53,2025-07-01,Database
+Elasticsearch,IT,today 12-m,8.53,12,0,decreasing,1.0,53,2025-07-01,Technology
