@@ -72,7 +72,7 @@ def download_stackoverflow_survey(year=2023):
     
     try:
         # Creer le dossier de destination
-        os.makedirs('raw/stackoverflow', exist_ok=True)
+        os.makedirs('../data/raw/stackoverflow', exist_ok=True)
         
         print("Telechargement en cours...")
         response = requests.get(url, stream=True, timeout=120)
@@ -324,7 +324,7 @@ def save_stackoverflow_data(data, year):
     
     # Sauvegarde globale
     timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M')
-    global_filename = f"raw/stackoverflow/stackoverflow_all_countries_{year}_{timestamp}.csv"
+    global_filename = f"../data/raw/stackoverflow/stackoverflow_all_countries_{year}_{timestamp}.csv"
     df.to_csv(global_filename, index=False, encoding='utf-8')
     
     print(f"SAUVEGARDE GLOBALE: {global_filename}")

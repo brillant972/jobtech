@@ -320,13 +320,13 @@ def save_github_data(repos_data, language_stats):
     """Sauvegarde les donnees GitHub"""
     
     # Creer le dossier
-    os.makedirs('raw/github', exist_ok=True)
+    os.makedirs('../data/raw/github', exist_ok=True)
     
     timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M')
     
     # Sauvegarder repositories
     if repos_data:
-        repos_filename = f"raw/github/github_trending_repos_{timestamp}.csv"
+        repos_filename = f"../data/raw/github/github_trending_repos_{timestamp}.csv"
         df_repos = pd.DataFrame(repos_data)
         df_repos.to_csv(repos_filename, index=False, encoding='utf-8')
         print(f"SAUVEGARDE repos: {repos_filename}")
@@ -334,14 +334,14 @@ def save_github_data(repos_data, language_stats):
         # Filtrer repos europeens
         european_repos = [repo for repo in repos_data if repo['owner_country']]
         if european_repos:
-            eu_filename = f"raw/github/github_trending_repos_europe_{timestamp}.csv"
+            eu_filename = f"../data/raw/github/github_trending_repos_europe_{timestamp}.csv"
             df_eu = pd.DataFrame(european_repos)
             df_eu.to_csv(eu_filename, index=False, encoding='utf-8')
             print(f"SAUVEGARDE repos EU: {eu_filename}")
     
     # Sauvegarder statistiques langages
     if language_stats:
-        stats_filename = f"raw/github/github_language_stats_{timestamp}.csv"
+        stats_filename = f"../data/raw/github/github_language_stats_{timestamp}.csv"
         df_stats = pd.DataFrame(language_stats)
         df_stats.to_csv(stats_filename, index=False, encoding='utf-8')
         print(f"SAUVEGARDE stats: {stats_filename}")

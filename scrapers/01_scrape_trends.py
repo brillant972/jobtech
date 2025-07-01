@@ -252,16 +252,16 @@ def save_trends_data(trends_data, country_code=None):
     
     if not trends_data:
         return None
-    
-    os.makedirs('raw/google_trends', exist_ok=True)
-    
+
+    os.makedirs('../data/raw/google_trends', exist_ok=True)
+
     timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M')
     
     if country_code:
-        filename = f"raw/google_trends/trends_{country_code.lower()}_{timestamp}.csv"
+        filename = f"../data/raw/google_trends/trends_{country_code.lower()}_{timestamp}.csv"
     else:
-        filename = f"raw/google_trends/trends_all_countries_{timestamp}.csv"
-    
+        filename = f"../data/raw/google_trends/trends_all_countries_{timestamp}.csv"
+
     df = pd.DataFrame(trends_data)
     df.to_csv(filename, index=False, encoding='utf-8')
     
@@ -371,7 +371,7 @@ def main():
     
     # Sauvegarder comparaisons
     if comparison_data:
-        comp_file = f"raw/google_trends/tech_comparisons_{datetime.now().strftime('%Y-%m-%d_%H-%M')}.csv"
+        comp_file = f"../data/raw/google_trends/tech_comparisons_{datetime.now().strftime('%Y-%m-%d_%H-%M')}.csv"
         df_comp = pd.DataFrame(comparison_data)
         df_comp.to_csv(comp_file, index=False, encoding='utf-8')
         print(f"\nComparaisons sauvegardees: {comp_file}")

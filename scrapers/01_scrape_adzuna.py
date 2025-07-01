@@ -170,9 +170,9 @@ def save_data(jobs_data, country_code):
     if not jobs_data:
         return None
 
-    os.makedirs('raw/adzuna', exist_ok=True)
+    os.makedirs('../data/raw/adzuna', exist_ok=True)
     timestamp = datetime.now().strftime('%Y-%m-%d_%H-%M')
-    filename = f"raw/adzuna/adzuna_{country_code.lower()}_{timestamp}.csv"
+    filename = f"../data/raw/adzuna/adzuna_{country_code.lower()}_{timestamp}.csv"
 
     df = pd.DataFrame(jobs_data)
     df.to_csv(filename, index=False, encoding='utf-8')

@@ -12,10 +12,10 @@ import pandas as pd
 def setup_directories():
     """Cree la structure de dossiers necessaire"""
     directories = [
-        'raw/adzuna',
-        'raw/stackoverflow', 
-        'raw/github',
-        'raw/google_trends',
+        'data/raw/adzuna',
+        'data/raw/stackoverflow', 
+        'data/raw/github',
+        'data/raw/google_trends',
         'logs'
     ]
     
@@ -163,16 +163,16 @@ def count_generated_files(script_name):
     """Compte les fichiers generes par un scraper"""
     source_map = {
         '01_scrape_adzuna.py': 'adzuna',
-        '02_scrape_stackoverflow.py': 'stackoverflow',
-        '03_scrape_github.py': 'github',
-        '05_scrape_trends.py': 'google_trends'
+        '01_scrape_stackoverflow.py': 'stackoverflow',
+        '01_scrape_github.py': 'github',
+        '01_scrape_trends.py': 'google_trends'
     }
     
     source_dir = source_map.get(script_name)
     if not source_dir:
         return 0
     
-    directory = f"raw/{source_dir}"
+    directory = f"data/raw/{source_dir}"
     if not os.path.exists(directory):
         return 0
     
@@ -272,17 +272,17 @@ def main():
             'duration_estimate': '3-5 minutes'
         },
         {
-            'script': '02_scrape_stackoverflow.py',
+            'script': '01_scrape_stackoverflow.py',
             'description': 'Stack Overflow Survey',
             'duration_estimate': '4-6 minutes'
         },
         {
-            'script': '03_scrape_github.py',
+            'script': '01_scrape_github.py',
             'description': 'GitHub Trending',
             'duration_estimate': '2-4 minutes'
         },
         {
-            'script': '05_scrape_trends.py',
+            'script': '01_scrape_trends.py',
             'description': 'Google Trends',
             'duration_estimate': '3-5 minutes'
         }
@@ -325,16 +325,16 @@ def main():
     print(f"Resultats: {len([r for r in results if r['status'] == 'success'])}/{len(results)} succes")
     
     # 7. Instructions suite
-    print(f"\nFICHIERS GENERES dans raw/:")
+    print(f"\nFICHIERS GENERES dans data/raw/:")
     for source in ['adzuna', 'stackoverflow', 'github', 'google_trends']:
-        source_dir = f"raw/{source}"
+        source_dir = f"data/raw/{source}"
         if os.path.exists(source_dir):
             files = [f for f in os.listdir(source_dir) if f.endswith('.csv')]
             if files:
                 print(f"  {source}/: {len(files)} fichiers CSV")
     
     print(f"\nTRANSMISSION A LA PERSONNE 2:")
-    print(f"Dossier a traiter: raw/")
+    print(f"Dossier a traiter: data/raw/")
     print(f"Logs disponibles: logs/")
     print(f"Etape suivante: Nettoyage et normalisation des donnees")
 
@@ -342,9 +342,9 @@ def run_single_scraper():
     """Mode scraper individuel"""
     scrapers = {
         '1': ('01_scrape_adzuna.py', 'Adzuna Jobs API'),
-        '2': ('02_scrape_stackoverflow.py', 'Stack Overflow Survey'),
-        '3': ('03_scrape_github.py', 'GitHub Trending'),
-        '4': ('05_scrape_trends.py', 'Google Trends')
+        '2': ('01_scrape_stackoverflow.py', 'Stack Overflow Survey'),
+        '3': ('01_scrape_github.py', 'GitHub Trending'),
+        '4': ('01_scrape_trends.py', 'Google Trends')
     }
     
     print("\nMODE SCRAPER INDIVIDUEL")
