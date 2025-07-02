@@ -122,7 +122,7 @@ def download_stackoverflow_survey(year=2023):
                 print(f"Fichier principal: {main_csv} ({max_size} bytes)")
                 
                 # Extraire le fichier CSV
-                extract_path = f'raw/stackoverflow/survey_{year}.csv'
+                extract_path = f'../data/raw/stackoverflow/survey_{year}.csv'
                 
                 with zip_ref.open(main_csv) as source, open(extract_path, 'wb') as target:
                     target.write(source.read())
@@ -336,7 +336,7 @@ def save_stackoverflow_data(data, year):
         country_data = df[df['country'] == country_code]
         
         if len(country_data) > 0:
-            country_filename = f"raw/stackoverflow/stackoverflow_{country_code.lower()}_{year}_{timestamp}.csv"
+            country_filename = f"../data/raw/stackoverflow/stackoverflow_{country_code.lower()}_{year}_{timestamp}.csv"
             country_data.to_csv(country_filename, index=False, encoding='utf-8')
             countries_saved.append(country_code)
             print(f"SAUVEGARDE {country_code}: {country_filename} ({len(country_data)} reponses)")
