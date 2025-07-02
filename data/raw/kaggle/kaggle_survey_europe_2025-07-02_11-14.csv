@@ -1,0 +1,908 @@
+id,source,job_title,company,country_code,country_name,salary_eur,currency,experience_level,skills,skills_count,data_source,collected_at
+kaggle_survey_14275,kaggle_survey,Project Manager,Survey_Company_75,IT,Italy,57211.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.410511
+kaggle_survey_24133,kaggle_survey,Collections Strategist,Survey_Company_33,IT,Italy,56000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.410511
+kaggle_survey_9502,kaggle_survey,Assistant Librarian,Survey_Company_2,IE,Ireland,41428.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.410511
+kaggle_survey_1045,kaggle_survey,Art Coordinator,Survey_Company_45,IT,Italy,31200.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.411509
+kaggle_survey_19287,kaggle_survey,Paralegal,Survey_Company_87,GB,United Kingdom,25000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.411509
+kaggle_survey_15220,kaggle_survey,Data Analyst,Survey_Company_20,IT,Italy,90000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.411509
+kaggle_survey_18891,kaggle_survey,Data Engineer,Survey_Company_91,GB,United Kingdom,31930.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.411509
+kaggle_survey_18868,kaggle_survey,Head of Eccomerce,Survey_Company_68,UK,United Kingdom,24900.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.412508
+kaggle_survey_4405,kaggle_survey,Medical Education Coordinator,Survey_Company_5,IT,Italy,52000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.413510
+kaggle_survey_16358,kaggle_survey,Data Engineer,Survey_Company_58,GB,United Kingdom,66000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.413510
+kaggle_survey_12163,kaggle_survey,Director,Survey_Company_63,IT,Italy,74000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.413510
+kaggle_survey_7724,kaggle_survey,Communications Coordinator,Survey_Company_24,GB,United Kingdom,31831.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.413510
+kaggle_survey_12698,kaggle_survey,"Vice President, Senior Counsel",Survey_Company_98,IT,Italy,142000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.413510
+kaggle_survey_4097,kaggle_survey,Accountant,Survey_Company_97,IT,Italy,31000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.414508
+kaggle_survey_23366,kaggle_survey,DevSecOps,Survey_Company_66,IT,Italy,180000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.414508
+kaggle_survey_3169,kaggle_survey,Data Engineer,Survey_Company_69,IT,Italy,116000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.414508
+kaggle_survey_24785,kaggle_survey,Data Scientist,Survey_Company_85,IT,Italy,91200.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.414508
+kaggle_survey_3589,kaggle_survey,Data Engineer,Survey_Company_89,IT,Italy,108000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.414508
+kaggle_survey_25606,kaggle_survey,Director General,Survey_Company_6,UK,United Kingdom,115000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.415540
+kaggle_survey_9798,kaggle_survey,Vice President of Operations,Survey_Company_98,IT,Italy,175000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.415540
+kaggle_survey_23907,kaggle_survey,Compliance Manager,Survey_Company_7,IT,Italy,93400.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.415540
+kaggle_survey_13725,kaggle_survey,Data Engineer,Survey_Company_25,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.415540
+kaggle_survey_15181,kaggle_survey,Account Executive,Survey_Company_81,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.415540
+kaggle_survey_22038,kaggle_survey,Development Coordinator,Survey_Company_38,IT,Italy,37500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.418546
+kaggle_survey_13862,kaggle_survey,US Service Delivery Team Lead,Survey_Company_62,IT,Italy,86000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.418546
+kaggle_survey_17219,kaggle_survey,Archivist/Records Manager,Survey_Company_19,IT,Italy,55000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.418546
+kaggle_survey_19511,kaggle_survey,Data Engineer,Survey_Company_11,GB,United Kingdom,115000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.419544
+kaggle_survey_18955,kaggle_survey,In house executive recruiter,Survey_Company_55,GB,United Kingdom,52000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.419544
+kaggle_survey_5252,kaggle_survey,Data Analyst,Survey_Company_52,IT,Italy,105426.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.419544
+kaggle_survey_17963,kaggle_survey,Data Analyst,Survey_Company_63,IT,Italy,60650.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.420540
+kaggle_survey_5191,kaggle_survey,Project Manager,Survey_Company_91,IT,Italy,102000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.420540
+kaggle_survey_23789,kaggle_survey,Manager People Analytics,Survey_Company_89,IT,Italy,140000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.420540
+kaggle_survey_26174,kaggle_survey,Data Analyst,Survey_Company_74,UK,United Kingdom,42000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.420540
+kaggle_survey_6225,kaggle_survey,External Relations Coordinator,Survey_Company_25,IT,Italy,71500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.420540
+kaggle_survey_19775,kaggle_survey,Ebook Coder,Survey_Company_75,IT,Italy,39520.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.421537
+kaggle_survey_15548,kaggle_survey,Software Developer,Survey_Company_48,IT,Italy,83500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.421537
+kaggle_survey_4303,kaggle_survey,Grant Management Specialist,Survey_Company_3,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.421537
+kaggle_survey_26095,kaggle_survey,Digital Experience Expert,Survey_Company_95,IT,Italy,37000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.421537
+kaggle_survey_24875,kaggle_survey,Wildlife Care Specialist,Survey_Company_75,IT,Italy,62000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.422539
+kaggle_survey_4048,kaggle_survey,Manager,Survey_Company_48,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.422539
+kaggle_survey_1923,kaggle_survey,Senior Director,Survey_Company_23,IT,Italy,225000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.423540
+kaggle_survey_25231,kaggle_survey,Data Engineer,Survey_Company_31,IT,Italy,129400.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.423540
+kaggle_survey_22916,kaggle_survey,Lead Purchasing Agent,Survey_Company_16,IT,Italy,39249.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.423540
+kaggle_survey_19859,kaggle_survey,Staff Accountant,Survey_Company_59,IT,Italy,51000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.423540
+kaggle_survey_21902,kaggle_survey,Pharmacist,Survey_Company_2,IT,Italy,139000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.423540
+kaggle_survey_2009,kaggle_survey,Patient Coordinator,Survey_Company_9,IT,Italy,53000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.424536
+kaggle_survey_4148,kaggle_survey,Risk Manager,Survey_Company_48,IT,Italy,132000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.424536
+kaggle_survey_5128,kaggle_survey,Data Analyst,Survey_Company_28,IT,Italy,65000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.424536
+kaggle_survey_12157,kaggle_survey,Senior Events Planner,Survey_Company_57,IT,Italy,82000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.424536
+kaggle_survey_24221,kaggle_survey,Senior Consultant,Survey_Company_21,IT,Italy,151000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.425534
+kaggle_survey_3398,kaggle_survey,Senior Data Specialist,Survey_Company_98,BE,Belgium,45500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.425534
+kaggle_survey_18059,kaggle_survey,Marketing & Communications Director,Survey_Company_59,IT,Italy,125000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.425534
+kaggle_survey_25719,kaggle_survey,Executive Director of Communications,Survey_Company_19,UK,United Kingdom,80000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.425534
+kaggle_survey_21375,kaggle_survey,Lawyer,Survey_Company_75,DE,Germany,,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.426534
+kaggle_survey_26166,kaggle_survey,Copy Writer,Survey_Company_66,IT,Italy,36500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.426534
+kaggle_survey_15311,kaggle_survey,Data Analyst,Survey_Company_11,UK,United Kingdom,45000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.426534
+kaggle_survey_345,kaggle_survey,Developer,Survey_Company_45,IT,Italy,72500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.426534
+kaggle_survey_8939,kaggle_survey,Data Analyst,Survey_Company_39,IT,Italy,134782.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.426534
+kaggle_survey_16278,kaggle_survey,Commercial Developer,Survey_Company_78,UK,United Kingdom,33500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.427533
+kaggle_survey_24838,kaggle_survey,Product Manager,Survey_Company_38,IT,Italy,138000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.427533
+kaggle_survey_17204,kaggle_survey,Senior Field Specialist,Survey_Company_4,IT,Italy,215000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.427533
+kaggle_survey_23679,kaggle_survey,Activities Coordinator,Survey_Company_79,IT,Italy,54600.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.427533
+kaggle_survey_13259,kaggle_survey,Departmental Business Manager,Survey_Company_59,IT,Italy,44000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.427533
+kaggle_survey_21194,kaggle_survey,"Associate Director, Culture and Talent",Survey_Company_94,IT,Italy,82000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.428534
+kaggle_survey_19749,kaggle_survey,Data Engineer,Survey_Company_49,IT,Italy,152000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.428534
+kaggle_survey_21757,kaggle_survey,Publicist,Survey_Company_57,IT,Italy,81000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.428534
+kaggle_survey_3396,kaggle_survey,Account Supervisor- PR,Survey_Company_96,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.429533
+kaggle_survey_23213,kaggle_survey,Frontend developer,Survey_Company_13,UK,United Kingdom,92000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.429533
+kaggle_survey_14446,kaggle_survey,Design Researcher,Survey_Company_46,IT,Italy,135000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.429533
+kaggle_survey_15952,kaggle_survey,Job board manager,Survey_Company_52,IT,Italy,54500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.429533
+kaggle_survey_15478,kaggle_survey,Executive Director,Survey_Company_78,IT,Italy,97500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.429533
+kaggle_survey_11398,kaggle_survey,Data Engineer,Survey_Company_98,IT,Italy,112000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.430534
+kaggle_survey_17894,kaggle_survey,Data Engineer,Survey_Company_94,IT,Italy,193000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.430534
+kaggle_survey_4202,kaggle_survey,Regional Planning Manager,Survey_Company_2,IT,Italy,132000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.430534
+kaggle_survey_23848,kaggle_survey,Data Engineer,Survey_Company_48,IT,Italy,76688.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.431536
+kaggle_survey_6545,kaggle_survey,Registered nurse,Survey_Company_45,IT,Italy,56000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.431536
+kaggle_survey_2533,kaggle_survey,Registration coordinator,Survey_Company_33,IT,Italy,28000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.432537
+kaggle_survey_1915,kaggle_survey,Instructional coach,Survey_Company_15,IT,Italy,13560.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.432537
+kaggle_survey_17120,kaggle_survey,Staff Attorney,Survey_Company_20,IT,Italy,52000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.432537
+kaggle_survey_21700,kaggle_survey,Integrated Marketing Campaign Manager,Survey_Company_0,IT,Italy,120000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.432537
+kaggle_survey_21865,kaggle_survey,Attorney Advisor,Survey_Company_65,IT,Italy,148000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.432537
+kaggle_survey_10933,kaggle_survey,Director of Donor Relations & Communications,Survey_Company_33,IT,Italy,125000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.433535
+kaggle_survey_14412,kaggle_survey,Program Coordinator,Survey_Company_12,IT,Italy,61000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.433535
+kaggle_survey_19130,kaggle_survey,Human Resources Manager,Survey_Company_30,IT,Italy,78000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.433535
+kaggle_survey_16847,kaggle_survey,Clinical trial coordinator,Survey_Company_47,IT,Italy,64500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.433535
+kaggle_survey_24083,kaggle_survey,Product Manager,Survey_Company_83,IT,Italy,127000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.433535
+kaggle_survey_7985,kaggle_survey,Associate Director of Operations,Survey_Company_85,IT,Italy,77112.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.434534
+kaggle_survey_13185,kaggle_survey,Data Analyst,Survey_Company_85,IT,Italy,105000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.434534
+kaggle_survey_14366,kaggle_survey,Legal Assistant,Survey_Company_66,IT,Italy,34000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.434534
+kaggle_survey_19432,kaggle_survey,Data Engineer,Survey_Company_32,IT,Italy,166400.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.435533
+kaggle_survey_8074,kaggle_survey,Senior HR Business Partner,Survey_Company_74,IT,Italy,122500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.435533
+kaggle_survey_18089,kaggle_survey,Marketing Manager,Survey_Company_89,IT,Italy,155000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.435533
+kaggle_survey_25091,kaggle_survey,Assistant Director,Survey_Company_91,IT,Italy,56000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.435533
+kaggle_survey_11765,kaggle_survey,Quality Manager,Survey_Company_65,GB,United Kingdom,43500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.436534
+kaggle_survey_15948,kaggle_survey,Campaign Manager,Survey_Company_48,IT,Italy,118000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.436534
+kaggle_survey_15040,kaggle_survey,Research Manager,Survey_Company_40,IT,Italy,56000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.436534
+kaggle_survey_9909,kaggle_survey,Mental health outpatient therapist,Survey_Company_9,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.437533
+kaggle_survey_14171,kaggle_survey,Senior Graphic Designer,Survey_Company_71,IT,Italy,82000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.437533
+kaggle_survey_20282,kaggle_survey,Talent Advisor,Survey_Company_82,IT,Italy,50000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.437533
+kaggle_survey_23260,kaggle_survey,Project Manager,Survey_Company_60,IT,Italy,66000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.437533
+kaggle_survey_19161,kaggle_survey,Human Resources Manager,Survey_Company_61,IT,Italy,132000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.437533
+kaggle_survey_4156,kaggle_survey,Customer Success Manager,Survey_Company_56,IT,Italy,72500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.438533
+kaggle_survey_2752,kaggle_survey,"Program Coordinator, Accreditation & Regulatory Compliance",Survey_Company_52,IT,Italy,80000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.438533
+kaggle_survey_230,kaggle_survey,Data Analyst,Survey_Company_30,IT,Italy,62000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.438533
+kaggle_survey_3172,kaggle_survey,Vice President,Survey_Company_72,IT,Italy,106000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.438533
+kaggle_survey_12416,kaggle_survey,Legal Assistant,Survey_Company_16,IT,Italy,42000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.438533
+kaggle_survey_17250,kaggle_survey,Medical Social Worker,Survey_Company_50,IT,Italy,53000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.439533
+kaggle_survey_8582,kaggle_survey,Data Analyst,Survey_Company_82,IT,Italy,70200.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.439533
+kaggle_survey_5437,kaggle_survey,In-house attorney,Survey_Company_37,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.439533
+kaggle_survey_491,kaggle_survey,Internal communications specialist,Survey_Company_91,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.439533
+kaggle_survey_6428,kaggle_survey,Marketing Manager,Survey_Company_28,IT,Italy,85600.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.439533
+kaggle_survey_17179,kaggle_survey,Proposal coordinator,Survey_Company_79,IT,Italy,68000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.439533
+kaggle_survey_22742,kaggle_survey,User Experience Designer,Survey_Company_42,IT,Italy,103500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.440534
+kaggle_survey_11180,kaggle_survey,Contracts Manager,Survey_Company_80,IT,Italy,95000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.440534
+kaggle_survey_2641,kaggle_survey,Instructor,Survey_Company_41,IT,Italy,47000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.440534
+kaggle_survey_2748,kaggle_survey,Senior Editor,Survey_Company_48,IT,Italy,74000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.440534
+kaggle_survey_11537,kaggle_survey,Page/Shelver,Survey_Company_37,IT,Italy,18720.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.440534
+kaggle_survey_12385,kaggle_survey,Talent operations associate,Survey_Company_85,IT,Italy,51000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.440534
+kaggle_survey_674,kaggle_survey,Project Manager,Survey_Company_74,IT,Italy,65818.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.441534
+kaggle_survey_10879,kaggle_survey,Data Engineer,Survey_Company_79,IT,Italy,180000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.441534
+kaggle_survey_15843,kaggle_survey,Software Developer,Survey_Company_43,IT,Italy,100260.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.441534
+kaggle_survey_4110,kaggle_survey,Deputy General Counsel,Survey_Company_10,IT,Italy,178000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.441534
+kaggle_survey_1668,kaggle_survey,Trainer,Survey_Company_68,IT,Italy,50000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.441534
+kaggle_survey_6595,kaggle_survey,Principal Product Marketing Manager,Survey_Company_95,IT,Italy,152350.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.441534
+kaggle_survey_8453,kaggle_survey,Data Analyst,Survey_Company_53,IT,Italy,58500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.442535
+kaggle_survey_7739,kaggle_survey,Board certified physician,Survey_Company_39,PL,Poland,145000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.442535
+kaggle_survey_12024,kaggle_survey,Playwright,Survey_Company_24,UK,United Kingdom,50000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.442535
+kaggle_survey_6198,kaggle_survey,Planning Process Coordinator,Survey_Company_98,IT,Italy,45500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.442535
+kaggle_survey_17344,kaggle_survey,Data Engineer,Survey_Company_44,IT,Italy,170000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.442535
+kaggle_survey_23945,kaggle_survey,Sr. Program Manager,Survey_Company_45,IT,Italy,162854.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.443534
+kaggle_survey_6438,kaggle_survey,Genius,Survey_Company_38,IT,Italy,57869.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.443534
+kaggle_survey_17210,kaggle_survey,Local Newspaper Reporter,Survey_Company_10,IT,Italy,45000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.443534
+kaggle_survey_14237,kaggle_survey,Patent Attorney,Survey_Company_37,UK,United Kingdom,90000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.443534
+kaggle_survey_10755,kaggle_survey,Health Systems Specialist,Survey_Company_55,IT,Italy,119200.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.443534
+kaggle_survey_19713,kaggle_survey,Paralegal,Survey_Company_13,IT,Italy,80000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.443534
+kaggle_survey_17877,kaggle_survey,Data Analyst,Survey_Company_77,IT,Italy,65000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.444534
+kaggle_survey_11505,kaggle_survey,Lab Technician,Survey_Company_5,IT,Italy,29120.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.444534
+kaggle_survey_15516,kaggle_survey,Senior Content Marketing Manager,Survey_Company_16,GB,United Kingdom,67000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.444534
+kaggle_survey_3023,kaggle_survey,Director of Web Development,Survey_Company_23,IT,Italy,65000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.444534
+kaggle_survey_3181,kaggle_survey,Director of Grants Admin,Survey_Company_81,IT,Italy,92000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.444534
+kaggle_survey_23535,kaggle_survey,Data Engineer,Survey_Company_35,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.445533
+kaggle_survey_19062,kaggle_survey,Human Resources/Business Office Manager,Survey_Company_62,IT,Italy,51600.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.445533
+kaggle_survey_7132,kaggle_survey,Supervisor,Survey_Company_32,IT,Italy,125000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.445533
+kaggle_survey_12465,kaggle_survey,Data Analyst,Survey_Company_65,IT,Italy,89500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.445533
+kaggle_survey_20535,kaggle_survey,Data Engineer,Survey_Company_35,IT,Italy,200000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.445533
+kaggle_survey_11605,kaggle_survey,Senior technician,Survey_Company_5,GB,United Kingdom,24500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.445533
+kaggle_survey_20490,kaggle_survey,Billing specialist,Survey_Company_90,IT,Italy,30800.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.446533
+kaggle_survey_7937,kaggle_survey,Finance Assistant,Survey_Company_37,IT,Italy,37000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.446533
+kaggle_survey_22888,kaggle_survey,Data Analyst,Survey_Company_88,UK,United Kingdom,22000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.446533
+kaggle_survey_14919,kaggle_survey,Data Engineer,Survey_Company_19,IT,Italy,76000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.447534
+kaggle_survey_8318,kaggle_survey,claims specialist,Survey_Company_18,IT,Italy,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.448549
+kaggle_survey_13984,kaggle_survey,Teacher,Survey_Company_84,IT,Italy,51588.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.448549
+kaggle_survey_21728,kaggle_survey,Group Credit Manager,Survey_Company_28,UK,United Kingdom,64000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.448549
+kaggle_survey_22104,kaggle_survey,Aquatics Director,Survey_Company_4,IT,Italy,47000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.448549
+kaggle_survey_17781,kaggle_survey,"Manager, Program Management",Survey_Company_81,IT,Italy,210000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.448549
+kaggle_survey_13154,kaggle_survey,Philanthropic Advisor,Survey_Company_54,IT,Italy,114000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.449544
+kaggle_survey_19981,kaggle_survey,Senior Administration Officer,Survey_Company_81,GB,United Kingdom,28750.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.449544
+kaggle_survey_21702,kaggle_survey,Chief operating officer,Survey_Company_2,UK,United Kingdom,40000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.450543
+kaggle_survey_12787,kaggle_survey,Financial Controller,Survey_Company_87,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.450543
+kaggle_survey_3843,kaggle_survey,Legal Assistant,Survey_Company_43,IT,Italy,47840.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.450543
+kaggle_survey_15477,kaggle_survey,Data Engineer,Survey_Company_77,IT,Italy,110000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.450543
+kaggle_survey_16592,kaggle_survey,Statehouse Reporter,Survey_Company_92,IT,Italy,45000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.451544
+kaggle_survey_1512,kaggle_survey,Governance Manager,Survey_Company_12,GB,United Kingdom,37000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.451544
+kaggle_survey_19992,kaggle_survey,Program Assistant,Survey_Company_92,IT,Italy,40768.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.451544
+kaggle_survey_7547,kaggle_survey,Talent Development Manager,Survey_Company_47,IT,Italy,90000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.451544
+kaggle_survey_12492,kaggle_survey,Regulatory counsel,Survey_Company_92,IT,Italy,120000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.452546
+kaggle_survey_7090,kaggle_survey,Advanced Research Associate,Survey_Company_90,IT,Italy,55000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.452546
+kaggle_survey_17765,kaggle_survey,"Partner, Support Lead",Survey_Company_65,IT,Italy,180000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.452546
+kaggle_survey_26106,kaggle_survey,Data Analyst,Survey_Company_6,IT,Italy,58822.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.452546
+kaggle_survey_18737,kaggle_survey,VP Technology,Survey_Company_37,UK,United Kingdom,120000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.452546
+kaggle_survey_26097,kaggle_survey,Editor in chief,Survey_Company_97,IT,Italy,32000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.452546
+kaggle_survey_3901,kaggle_survey,Legal Secretary,Survey_Company_1,IT,Italy,97000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.453544
+kaggle_survey_18558,kaggle_survey,Data Engineer,Survey_Company_58,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.453544
+kaggle_survey_11165,kaggle_survey,Associate Director,Survey_Company_65,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.453544
+kaggle_survey_25528,kaggle_survey,Data Analyst,Survey_Company_28,IT,Italy,50000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.453544
+kaggle_survey_15293,kaggle_survey,Data Analyst,Survey_Company_93,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.453544
+kaggle_survey_18641,kaggle_survey,Production Coordinator,Survey_Company_41,IT,Italy,80000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.453544
+kaggle_survey_18465,kaggle_survey,Data Engineer,Survey_Company_65,DE,Germany,140000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.454544
+kaggle_survey_11378,kaggle_survey,Program Manager II,Survey_Company_78,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.454544
+kaggle_survey_2518,kaggle_survey,Freelance copywriter,Survey_Company_18,DE,Germany,160000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.454544
+kaggle_survey_20809,kaggle_survey,Hospice chaplain,Survey_Company_9,IT,Italy,58000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.454544
+kaggle_survey_4744,kaggle_survey,program manager,Survey_Company_44,IT,Italy,90000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.454544
+kaggle_survey_1710,kaggle_survey,Data Analyst,Survey_Company_10,IT,Italy,61500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.454544
+kaggle_survey_21537,kaggle_survey,Data Analyst,Survey_Company_37,ES,Spain,30000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.455544
+kaggle_survey_5719,kaggle_survey,Marketing Director,Survey_Company_19,IT,Italy,78600.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.455544
+kaggle_survey_24251,kaggle_survey,Data Engineer,Survey_Company_51,NL,Netherlands,51420.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.455544
+kaggle_survey_2300,kaggle_survey,Director of Strategic Partnerships,Survey_Company_0,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.455544
+kaggle_survey_14564,kaggle_survey,Interior designer,Survey_Company_64,IT,Italy,48000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.455544
+kaggle_survey_12425,kaggle_survey,Data Analyst,Survey_Company_25,IT,Italy,74000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.455544
+kaggle_survey_3110,kaggle_survey,Senior Administrative Assistant,Survey_Company_10,IT,Italy,55000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.455544
+kaggle_survey_5998,kaggle_survey,Data Analyst,Survey_Company_98,IT,Italy,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.456544
+kaggle_survey_8317,kaggle_survey,Executive Director,Survey_Company_17,IT,Italy,100000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.456544
+kaggle_survey_23662,kaggle_survey,Driver,Survey_Company_62,IT,Italy,30000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.456544
+kaggle_survey_4404,kaggle_survey,Data Strategist,Survey_Company_4,UK,United Kingdom,42000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.456544
+kaggle_survey_5535,kaggle_survey,Sr. Development Coordinator,Survey_Company_35,IT,Italy,68000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.456544
+kaggle_survey_9976,kaggle_survey,Associate Production Planning Manager,Survey_Company_76,IT,Italy,67000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.457544
+kaggle_survey_993,kaggle_survey,Director of Development and Communications,Survey_Company_93,IT,Italy,100000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.457544
+kaggle_survey_8477,kaggle_survey,Library Associate,Survey_Company_77,IT,Italy,38000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.457544
+kaggle_survey_20371,kaggle_survey,Dir of Marketing,Survey_Company_71,IT,Italy,165000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.457544
+kaggle_survey_3394,kaggle_survey,Data Engineer,Survey_Company_94,IT,Italy,260000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.458544
+kaggle_survey_17470,kaggle_survey,Senior Program Officer,Survey_Company_70,IT,Italy,57500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.458544
+kaggle_survey_16561,kaggle_survey,Museum Director,Survey_Company_61,IT,Italy,19500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.458544
+kaggle_survey_8310,kaggle_survey,Senior Leadership Development Consultant,Survey_Company_10,IT,Italy,188000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.458544
+kaggle_survey_17720,kaggle_survey,Data Analyst,Survey_Company_20,IT,Italy,105000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.458544
+kaggle_survey_20257,kaggle_survey,Administrative assistant,Survey_Company_57,IT,Italy,27000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.459544
+kaggle_survey_4168,kaggle_survey,Data Analyst,Survey_Company_68,IT,Italy,76000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.459544
+kaggle_survey_9421,kaggle_survey,General Counsel,Survey_Company_21,IT,Italy,80000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.459544
+kaggle_survey_10963,kaggle_survey,Communications and Marketing Manager,Survey_Company_63,IT,Italy,40000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.459544
+kaggle_survey_11550,kaggle_survey,Content Marketing Manager,Survey_Company_50,IT,Italy,55000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.460544
+kaggle_survey_12058,kaggle_survey,Research Instructor,Survey_Company_58,IT,Italy,64000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.460544
+kaggle_survey_4813,kaggle_survey,Research Consultant,Survey_Company_13,UK,United Kingdom,55000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.460544
+kaggle_survey_18614,kaggle_survey,Data Engineer,Survey_Company_14,IT,Italy,185000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.460544
+kaggle_survey_2583,kaggle_survey,"Senior Manager, Statistics",Survey_Company_83,IT,Italy,145000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.460544
+kaggle_survey_8714,kaggle_survey,Grants Manager,Survey_Company_14,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.461544
+kaggle_survey_12038,kaggle_survey,Development Officer,Survey_Company_38,GB,United Kingdom,22400.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.461544
+kaggle_survey_12636,kaggle_survey,Data Analyst,Survey_Company_36,IT,Italy,86659.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.461544
+kaggle_survey_17971,kaggle_survey,Project Manager,Survey_Company_71,IT,Italy,68000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.461544
+kaggle_survey_26216,kaggle_survey,Science teacher,Survey_Company_16,IT,Italy,68000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.461544
+kaggle_survey_3058,kaggle_survey,Software Developer,Survey_Company_58,IT,Italy,120000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.461544
+kaggle_survey_10249,kaggle_survey,Data Engineer,Survey_Company_49,IT,Italy,123000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.461544
+kaggle_survey_873,kaggle_survey,Senior Editor,Survey_Company_73,IT,Italy,71800.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.461544
+kaggle_survey_11610,kaggle_survey,Records manager,Survey_Company_10,NO,Norway,,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.463056
+kaggle_survey_3820,kaggle_survey,Director of Operations,Survey_Company_20,IT,Italy,37000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.463056
+kaggle_survey_19172,kaggle_survey,Internal Communications Manager,Survey_Company_72,IT,Italy,100000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.463056
+kaggle_survey_20560,kaggle_survey,Executive Assistant to Functional Directors,Survey_Company_60,UK,United Kingdom,30300.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.463056
+kaggle_survey_13531,kaggle_survey,Training Associate,Survey_Company_31,IT,Italy,58784.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.464077
+kaggle_survey_15230,kaggle_survey,Project Manager,Survey_Company_30,IT,Italy,102000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.464077
+kaggle_survey_25632,kaggle_survey,Business Liaison Consultant 3,Survey_Company_32,IT,Italy,100000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.464077
+kaggle_survey_5019,kaggle_survey,Program Manager,Survey_Company_19,IT,Italy,98000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.464077
+kaggle_survey_12102,kaggle_survey,DevOps Lead,Survey_Company_2,AT,Austria,120000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.465075
+kaggle_survey_20901,kaggle_survey,Senior software developer,Survey_Company_1,IT,Italy,128000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.465075
+kaggle_survey_7751,kaggle_survey,Finance manager,Survey_Company_51,UK,United Kingdom,46165.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.465075
+kaggle_survey_19359,kaggle_survey,HR Business Partner,Survey_Company_59,IT,Italy,79000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.465075
+kaggle_survey_11898,kaggle_survey,Head of Marketing,Survey_Company_98,GB,United Kingdom,35000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.465075
+kaggle_survey_17324,kaggle_survey,Data Analyst,Survey_Company_24,IT,Italy,72000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.465075
+kaggle_survey_15583,kaggle_survey,Research Manager,Survey_Company_83,GB,United Kingdom,41250.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.466074
+kaggle_survey_23961,kaggle_survey,Account Manager,Survey_Company_61,IT,Italy,57000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.466074
+kaggle_survey_19974,kaggle_survey,Licensed Clinical Social Worker,Survey_Company_74,IT,Italy,58236.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.466074
+kaggle_survey_20639,kaggle_survey,VP,Survey_Company_39,IT,Italy,140000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.466074
+kaggle_survey_21551,kaggle_survey,Sternman,Survey_Company_51,IT,Italy,26000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.466074
+kaggle_survey_8868,kaggle_survey,Youth Program Counselor,Survey_Company_68,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.467075
+kaggle_survey_13867,kaggle_survey,Data Engineer,Survey_Company_67,IT,Italy,150000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.467075
+kaggle_survey_21348,kaggle_survey,Group HR Manager,Survey_Company_48,UK,United Kingdom,56250.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.467075
+kaggle_survey_24320,kaggle_survey,Head of Global Business Taxes,Survey_Company_20,UK,United Kingdom,106000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.467075
+kaggle_survey_16183,kaggle_survey,Associate,Survey_Company_83,GB,United Kingdom,130000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.467075
+kaggle_survey_21073,kaggle_survey,Office manager,Survey_Company_73,IT,Italy,72000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.467075
+kaggle_survey_16065,kaggle_survey,Data Engineer,Survey_Company_65,IT,Italy,128000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.467075
+kaggle_survey_26018,kaggle_survey,Senior Director,Survey_Company_18,IT,Italy,99000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.468075
+kaggle_survey_12264,kaggle_survey,Project Lead,Survey_Company_64,IT,Italy,98000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.468075
+kaggle_survey_23982,kaggle_survey,Receptionist,Survey_Company_82,IT,Italy,60320.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.468075
+kaggle_survey_22827,kaggle_survey,Financial controller,Survey_Company_27,FR,France,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.468075
+kaggle_survey_21347,kaggle_survey,Group HR Manager,Survey_Company_47,GB,United Kingdom,56250.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.469075
+kaggle_survey_7449,kaggle_survey,Legal Specialist,Survey_Company_49,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.469075
+kaggle_survey_22211,kaggle_survey,Marketing Coordinator,Survey_Company_11,IT,Italy,38480.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.469075
+kaggle_survey_18849,kaggle_survey,Solutions Architect,Survey_Company_49,DE,Germany,57000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.469075
+kaggle_survey_25930,kaggle_survey,Data Engineer,Survey_Company_30,IT,Italy,82000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.470074
+kaggle_survey_2008,kaggle_survey,Benefits Administror,Survey_Company_8,IT,Italy,57845.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.470074
+kaggle_survey_23086,kaggle_survey,Data Engineer,Survey_Company_86,IT,Italy,154000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.470074
+kaggle_survey_20140,kaggle_survey,Performance Marketing Manager,Survey_Company_40,IT,Italy,80000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.470074
+kaggle_survey_11377,kaggle_survey,Development and Communications Manager,Survey_Company_77,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.470074
+kaggle_survey_15066,kaggle_survey,Data Engineer,Survey_Company_66,IT,Italy,78277.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.470074
+kaggle_survey_7220,kaggle_survey,Executive Assistant to CEO,Survey_Company_20,IE,Ireland,40000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.471075
+kaggle_survey_7731,kaggle_survey,Program Manager,Survey_Company_31,IT,Italy,102000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.471075
+kaggle_survey_26127,kaggle_survey,Project Leader,Survey_Company_27,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.471075
+kaggle_survey_12906,kaggle_survey,CISO,Survey_Company_6,IT,Italy,225000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.471075
+kaggle_survey_14197,kaggle_survey,Data Analyst,Survey_Company_97,IT,Italy,,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.472074
+kaggle_survey_20286,kaggle_survey,HR business partner,Survey_Company_86,GB,United Kingdom,30000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.472074
+kaggle_survey_3548,kaggle_survey,Data Analyst,Survey_Company_48,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.473074
+kaggle_survey_10791,kaggle_survey,Audiologist,Survey_Company_91,IT,Italy,65000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.473074
+kaggle_survey_20242,kaggle_survey,Early Head Start Co-Lead Teacher,Survey_Company_42,IT,Italy,40000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.473074
+kaggle_survey_15936,kaggle_survey,Associate,Survey_Company_36,IT,Italy,180000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.474075
+kaggle_survey_11985,kaggle_survey,Instructor,Survey_Company_85,IT,Italy,84000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.474075
+kaggle_survey_16809,kaggle_survey,CEO,Survey_Company_9,GB,United Kingdom,78000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.474075
+kaggle_survey_13469,kaggle_survey,Data Analyst,Survey_Company_69,IT,Italy,91112.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.474075
+kaggle_survey_11778,kaggle_survey,Monitoring & Evaluation Manager,Survey_Company_78,UK,United Kingdom,30950.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.475075
+kaggle_survey_2730,kaggle_survey,Paralegal,Survey_Company_30,IT,Italy,43680.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.475075
+kaggle_survey_21694,kaggle_survey,Associate Director,Survey_Company_94,IT,Italy,92000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.475075
+kaggle_survey_17254,kaggle_survey,Associate Professor of Political Science,Survey_Company_54,IT,Italy,91000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.475075
+kaggle_survey_20868,kaggle_survey,Developer,Survey_Company_68,DE,Germany,52000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.476074
+kaggle_survey_14668,kaggle_survey,Senior Regional Sales Manager,Survey_Company_68,IT,Italy,130000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.476074
+kaggle_survey_11743,kaggle_survey,Data Engineer,Survey_Company_43,UK,United Kingdom,97000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.476074
+kaggle_survey_6872,kaggle_survey,Vice President,Survey_Company_72,IT,Italy,250000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.476074
+kaggle_survey_5762,kaggle_survey,Executive Assistant,Survey_Company_62,GB,United Kingdom,47000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.476074
+kaggle_survey_7811,kaggle_survey,Data Scientist,Survey_Company_11,IT,Italy,105000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.476074
+kaggle_survey_16891,kaggle_survey,Human Resources Generalist,Survey_Company_91,IT,Italy,54600.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.476074
+kaggle_survey_2140,kaggle_survey,Operations Supervisor,Survey_Company_40,IT,Italy,52000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.476074
+kaggle_survey_5749,kaggle_survey,Senior Administrator,Survey_Company_49,IT,Italy,55500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.477075
+kaggle_survey_15975,kaggle_survey,PR Account Manager,Survey_Company_75,IE,Ireland,40000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.477075
+kaggle_survey_11854,kaggle_survey,Senior consultant,Survey_Company_54,GB,United Kingdom,55000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.477075
+kaggle_survey_6245,kaggle_survey,SEO Supervisor,Survey_Company_45,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.477075
+kaggle_survey_7304,kaggle_survey,"Director, Application Development",Survey_Company_4,IT,Italy,87445.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.478074
+kaggle_survey_8854,kaggle_survey,Senior Policy Specialist,Survey_Company_54,IT,Italy,65000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.478074
+kaggle_survey_16356,kaggle_survey,Domain Architect,Survey_Company_56,IT,Italy,155000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.478074
+kaggle_survey_22538,kaggle_survey,Science teacher,Survey_Company_38,IT,Italy,35000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.479589
+kaggle_survey_2907,kaggle_survey,Account Supervisor,Survey_Company_7,IT,Italy,72500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.479589
+kaggle_survey_14659,kaggle_survey,Data Analyst,Survey_Company_59,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.480633
+kaggle_survey_20105,kaggle_survey,Data Analyst,Survey_Company_5,IT,Italy,72000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.480633
+kaggle_survey_17125,kaggle_survey,Senior Vice President,Survey_Company_25,IT,Italy,152000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.480633
+kaggle_survey_23877,kaggle_survey,Research Coordinator,Survey_Company_77,IT,Italy,54000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.480633
+kaggle_survey_15744,kaggle_survey,Paid media manager,Survey_Company_44,IT,Italy,67500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.481635
+kaggle_survey_3594,kaggle_survey,Associate Director of Housing Operations,Survey_Company_94,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.481635
+kaggle_survey_15337,kaggle_survey,Assistant Brand Manager,Survey_Company_37,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.481635
+kaggle_survey_25786,kaggle_survey,Senior Client Services Manager,Survey_Company_86,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.482637
+kaggle_survey_25649,kaggle_survey,EHS specialist consultant,Survey_Company_49,IT,Italy,42000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.482637
+kaggle_survey_12423,kaggle_survey,Principal Consultant,Survey_Company_23,IT,Italy,132000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.482637
+kaggle_survey_4504,kaggle_survey,staff writer,Survey_Company_4,IT,Italy,57750.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.483642
+kaggle_survey_16717,kaggle_survey,Data Engineer,Survey_Company_17,IT,Italy,145500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.483642
+kaggle_survey_18054,kaggle_survey,Graphic designer,Survey_Company_54,IT,Italy,40000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.483642
+kaggle_survey_5155,kaggle_survey,Data Analyst,Survey_Company_55,IT,Italy,51500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.483642
+kaggle_survey_25906,kaggle_survey,Geologist,Survey_Company_6,IT,Italy,67000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.484950
+kaggle_survey_6909,kaggle_survey,Editor,Survey_Company_9,DE,Germany,,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.484950
+kaggle_survey_5954,kaggle_survey,Salesforce Administrator,Survey_Company_54,IT,Italy,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.484950
+kaggle_survey_12481,kaggle_survey,Director of Human Resources,Survey_Company_81,IT,Italy,94000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.484950
+kaggle_survey_10311,kaggle_survey,Data Analyst,Survey_Company_11,IT,Italy,67000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.484950
+kaggle_survey_6258,kaggle_survey,Middle School History Faculty,Survey_Company_58,IT,Italy,75552.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.486007
+kaggle_survey_6483,kaggle_survey,Architect,Survey_Company_83,IT,Italy,112000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.486007
+kaggle_survey_15973,kaggle_survey,Data Engineer,Survey_Company_73,IT,Italy,166560.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.486007
+kaggle_survey_1822,kaggle_survey,Secretary,Survey_Company_22,IT,Italy,34000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.486007
+kaggle_survey_21440,kaggle_survey,Trauma Therapist,Survey_Company_40,IT,Italy,48700.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.486007
+kaggle_survey_15818,kaggle_survey,Teacher,Survey_Company_18,IT,Italy,58000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.486007
+kaggle_survey_15837,kaggle_survey,Data Engineer,Survey_Company_37,IT,Italy,78650.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.487007
+kaggle_survey_9391,kaggle_survey,Teacher,Survey_Company_91,IT,Italy,47000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.487007
+kaggle_survey_15341,kaggle_survey,PhD student,Survey_Company_41,IT,Italy,72000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.487007
+kaggle_survey_4659,kaggle_survey,"Associate Director, Medical Affairs",Survey_Company_59,IT,Italy,165000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.487007
+kaggle_survey_11912,kaggle_survey,Consultant,Survey_Company_12,UK,United Kingdom,55000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.487007
+kaggle_survey_18808,kaggle_survey,Assistant Manager,Survey_Company_8,GB,United Kingdom,42000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.487007
+kaggle_survey_12263,kaggle_survey,Accounting Manager,Survey_Company_63,IT,Italy,88000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.488007
+kaggle_survey_16719,kaggle_survey,Assistant District Attorney,Survey_Company_19,IT,Italy,71933.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.488007
+kaggle_survey_896,kaggle_survey,Attorney,Survey_Company_96,IT,Italy,146220.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.488007
+kaggle_survey_9620,kaggle_survey,Senior Program Manager,Survey_Company_20,IT,Italy,174000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.489007
+kaggle_survey_17735,kaggle_survey,Case Manager,Survey_Company_35,IT,Italy,48000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.489007
+kaggle_survey_14797,kaggle_survey,Sales Planner,Survey_Company_97,IT,Italy,59600.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.489007
+kaggle_survey_10202,kaggle_survey,Sales Operations Manager,Survey_Company_2,IT,Italy,108000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.490007
+kaggle_survey_10347,kaggle_survey,Data Analyst,Survey_Company_47,IT,Italy,64700.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.490007
+kaggle_survey_21978,kaggle_survey,Director of Sponsored Programs and Research Compliance,Survey_Company_78,IT,Italy,91000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.490007
+kaggle_survey_18687,kaggle_survey,Software developer,Survey_Company_87,NL,Netherlands,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.491007
+kaggle_survey_16114,kaggle_survey,Content marketing specialist,Survey_Company_14,IT,Italy,57000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.491007
+kaggle_survey_24450,kaggle_survey,Data Analyst,Survey_Company_50,IT,Italy,88000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.491007
+kaggle_survey_6062,kaggle_survey,Production Manager,Survey_Company_62,IT,Italy,55000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.491007
+kaggle_survey_23493,kaggle_survey,Social Media Manager,Survey_Company_93,DE,Germany,54991.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.491007
+kaggle_survey_11222,kaggle_survey,Data Analyst,Survey_Company_22,IT,Italy,70800.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.491007
+kaggle_survey_23065,kaggle_survey,Director of Finance,Survey_Company_65,IT,Italy,140000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.491007
+kaggle_survey_17134,kaggle_survey,Data Engineer,Survey_Company_34,IT,Italy,170000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.492007
+kaggle_survey_2221,kaggle_survey,Administrative Assistant,Survey_Company_21,IT,Italy,35000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.492007
+kaggle_survey_14272,kaggle_survey,Radiation Therapist,Survey_Company_72,IT,Italy,83000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.492007
+kaggle_survey_18036,kaggle_survey,Manager,Survey_Company_36,IT,Italy,144000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.492007
+kaggle_survey_6215,kaggle_survey,Recruitment Consultant,Survey_Company_15,GB,United Kingdom,20000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.493007
+kaggle_survey_25737,kaggle_survey,Data Analyst,Survey_Company_37,IT,Italy,79000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.493007
+kaggle_survey_20925,kaggle_survey,Program Manager,Survey_Company_25,IT,Italy,80000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.493007
+kaggle_survey_7908,kaggle_survey,Museum Executive Director,Survey_Company_8,IT,Italy,48000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.493007
+kaggle_survey_16030,kaggle_survey,Librarian,Survey_Company_30,IT,Italy,50000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.493007
+kaggle_survey_1834,kaggle_survey,Department Services Manager,Survey_Company_34,IT,Italy,40000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.494007
+kaggle_survey_52,kaggle_survey,"Senior Manager, Programmatic",Survey_Company_52,IT,Italy,95000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.494007
+kaggle_survey_14983,kaggle_survey,Grad Student,Survey_Company_83,IT,Italy,30000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.495009
+kaggle_survey_16731,kaggle_survey,Director of Rehabilitation,Survey_Company_31,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.495009
+kaggle_survey_17092,kaggle_survey,Investigator,Survey_Company_92,IT,Italy,41000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.495009
+kaggle_survey_13823,kaggle_survey,Data Analyst,Survey_Company_23,UK,United Kingdom,30220.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.495009
+kaggle_survey_243,kaggle_survey,Associate,Survey_Company_43,IT,Italy,125000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.495009
+kaggle_survey_21317,kaggle_survey,Product Manager,Survey_Company_17,GB,United Kingdom,79900.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.496007
+kaggle_survey_25259,kaggle_survey,Supervisor of Judicial Programs,Survey_Company_59,IT,Italy,78000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.496007
+kaggle_survey_23436,kaggle_survey,Senior associate,Survey_Company_36,UK,United Kingdom,47500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.496007
+kaggle_survey_20745,kaggle_survey,Design Lead,Survey_Company_45,IT,Italy,165000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.496007
+kaggle_survey_23262,kaggle_survey,Project manager,Survey_Company_62,IT,Italy,62000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.496007
+kaggle_survey_1190,kaggle_survey,Admin Asst to VP and Development,Survey_Company_90,IT,Italy,39000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.496007
+kaggle_survey_4057,kaggle_survey,Data Analyst,Survey_Company_57,IT,Italy,52500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.497003
+kaggle_survey_25069,kaggle_survey,Senior researcher,Survey_Company_69,DE,Germany,116000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.497003
+kaggle_survey_6234,kaggle_survey,Executive Assistant,Survey_Company_34,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.497003
+kaggle_survey_15259,kaggle_survey,Associate,Survey_Company_59,IT,Italy,95000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.497003
+kaggle_survey_10779,kaggle_survey,Project Manager,Survey_Company_79,IT,Italy,93000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.497003
+kaggle_survey_8725,kaggle_survey,"Associate Director, Grants and Scientific Programs",Survey_Company_25,IT,Italy,95000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.497003
+kaggle_survey_15003,kaggle_survey,CBT Therapist,Survey_Company_3,GB,United Kingdom,38890.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.498007
+kaggle_survey_20944,kaggle_survey,Software Architect,Survey_Company_44,IT,Italy,170000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.498007
+kaggle_survey_1729,kaggle_survey,Data Analyst,Survey_Company_29,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.498007
+kaggle_survey_5345,kaggle_survey,Communications Director,Survey_Company_45,IT,Italy,45000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.498007
+kaggle_survey_6664,kaggle_survey,Data Engineer,Survey_Company_64,IT,Italy,137000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.498007
+kaggle_survey_2420,kaggle_survey,IT Manager,Survey_Company_20,GB,United Kingdom,38000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.499007
+kaggle_survey_1122,kaggle_survey,Software Developer,Survey_Company_22,IT,Italy,100000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.499007
+kaggle_survey_21751,kaggle_survey,Talent Acquisition Manager,Survey_Company_51,IT,Italy,80000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.499007
+kaggle_survey_12699,kaggle_survey,Research Associate,Survey_Company_99,DE,Germany,54000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.499007
+kaggle_survey_20650,kaggle_survey,Recruiter,Survey_Company_50,IT,Italy,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.499007
+kaggle_survey_15239,kaggle_survey,Manager,Survey_Company_39,IT,Italy,130000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.500007
+kaggle_survey_10949,kaggle_survey,Data Engineer,Survey_Company_49,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.500007
+kaggle_survey_11850,kaggle_survey,Executive Officer,Survey_Company_50,IE,Ireland,33689.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.500007
+kaggle_survey_5500,kaggle_survey,Law Librarian,Survey_Company_0,IT,Italy,58000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.500007
+kaggle_survey_9889,kaggle_survey,"Executive Assistant, Financial Crime Compliance - Surveillance",Survey_Company_89,GB,United Kingdom,45800.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.500007
+kaggle_survey_19424,kaggle_survey,Senior Marketing Specialist,Survey_Company_24,IT,Italy,64000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.500988
+kaggle_survey_3806,kaggle_survey,Adminitrative Assistant,Survey_Company_6,IT,Italy,52000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.500988
+kaggle_survey_3745,kaggle_survey,Environmental Specialist,Survey_Company_45,IT,Italy,69000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.500988
+kaggle_survey_22004,kaggle_survey,Talent Development Specialist,Survey_Company_4,IT,Italy,78000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.500988
+kaggle_survey_5485,kaggle_survey,Data Engineer,Survey_Company_85,UK,United Kingdom,43000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.500988
+kaggle_survey_20820,kaggle_survey,Director of Strategy,Survey_Company_20,IT,Italy,137000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.500988
+kaggle_survey_18611,kaggle_survey,Data Analyst,Survey_Company_11,IT,Italy,56000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.502350
+kaggle_survey_11712,kaggle_survey,Project Management Officer,Survey_Company_12,FR,France,36600.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.502350
+kaggle_survey_25517,kaggle_survey,Children's Librarian,Survey_Company_17,IT,Italy,62000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.502350
+kaggle_survey_19882,kaggle_survey,Recruiter,Survey_Company_82,IT,Italy,49000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.502350
+kaggle_survey_13608,kaggle_survey,Yard Manager,Survey_Company_8,IT,Italy,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.503340
+kaggle_survey_19110,kaggle_survey,Retail Operations Assistant Manager,Survey_Company_10,IT,Italy,37000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.503340
+kaggle_survey_10941,kaggle_survey,Data Analyst,Survey_Company_41,IT,Italy,78250.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.503340
+kaggle_survey_8943,kaggle_survey,Senior Consultant,Survey_Company_43,UK,United Kingdom,72000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.503340
+kaggle_survey_15725,kaggle_survey,Staff Accountant II,Survey_Company_25,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.504358
+kaggle_survey_3813,kaggle_survey,International Program Sales Operations Coordinator,Survey_Company_13,IT,Italy,51500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.504358
+kaggle_survey_10939,kaggle_survey,Data Engineer,Survey_Company_39,IT,Italy,167000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.504358
+kaggle_survey_17691,kaggle_survey,Project Manager,Survey_Company_91,IT,Italy,105000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.504358
+kaggle_survey_21473,kaggle_survey,HR Director,Survey_Company_73,IT,Italy,103000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.504358
+kaggle_survey_14416,kaggle_survey,RN Navigator,Survey_Company_16,IT,Italy,101000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.505603
+kaggle_survey_16572,kaggle_survey,Attorney,Survey_Company_72,IT,Italy,200000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.505603
+kaggle_survey_7800,kaggle_survey,General Manager,Survey_Company_0,IT,Italy,42000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.505603
+kaggle_survey_2281,kaggle_survey,Research Program Manager,Survey_Company_81,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.505603
+kaggle_survey_10513,kaggle_survey,Project Manager,Survey_Company_13,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.505603
+kaggle_survey_1475,kaggle_survey,Data Engineer,Survey_Company_75,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.507103
+kaggle_survey_5117,kaggle_survey,Senior Data Planner,Survey_Company_17,GB,United Kingdom,68000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.507103
+kaggle_survey_15633,kaggle_survey,Data Engineer,Survey_Company_33,IT,Italy,63500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.507103
+kaggle_survey_14305,kaggle_survey,(Hotel) Sales Manager,Survey_Company_5,IT,Italy,31200.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.507103
+kaggle_survey_16297,kaggle_survey,Data Engineer,Survey_Company_97,DE,Germany,66000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.507103
+kaggle_survey_16123,kaggle_survey,Development programmer,Survey_Company_23,UK,United Kingdom,37850.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.508267
+kaggle_survey_23452,kaggle_survey,"Director, Digital Marketing",Survey_Company_52,IT,Italy,90000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.508267
+kaggle_survey_13063,kaggle_survey,Assistant SEO Manager,Survey_Company_63,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.508267
+kaggle_survey_18897,kaggle_survey,Associate Director,Survey_Company_97,UK,United Kingdom,64000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.509279
+kaggle_survey_6138,kaggle_survey,Sales Manager,Survey_Company_38,DE,Germany,45000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.509279
+kaggle_survey_8857,kaggle_survey,Data Analyst,Survey_Company_57,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.509279
+kaggle_survey_8174,kaggle_survey,Preschool Teacher,Survey_Company_74,IT,Italy,34000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.510763
+kaggle_survey_3362,kaggle_survey,Director of Lifespan Faith Development,Survey_Company_62,IT,Italy,31200.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.510763
+kaggle_survey_1815,kaggle_survey,Data Engineer,Survey_Company_15,UK,United Kingdom,45000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.510763
+kaggle_survey_3776,kaggle_survey,Director of Development and Communications,Survey_Company_76,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.510763
+kaggle_survey_5210,kaggle_survey,Project Manager,Survey_Company_10,IT,Italy,98000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.511957
+kaggle_survey_11227,kaggle_survey,Data Engineer,Survey_Company_27,IT,Italy,120000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.511957
+kaggle_survey_20300,kaggle_survey,Product designer III,Survey_Company_0,IT,Italy,55000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.511957
+kaggle_survey_3923,kaggle_survey,Data Engineer,Survey_Company_23,IT,Italy,165000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.511957
+kaggle_survey_9687,kaggle_survey,Immigration Paralegal,Survey_Company_87,IT,Italy,66000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.513001
+kaggle_survey_25295,kaggle_survey,Public Information Officer & Community Engagement,Survey_Company_95,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.513001
+kaggle_survey_25004,kaggle_survey,Compliance,Survey_Company_4,BE,Belgium,180000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.513001
+kaggle_survey_10159,kaggle_survey,Senior Consultant,Survey_Company_59,IT,Italy,105000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.513001
+kaggle_survey_11845,kaggle_survey,Digital Marketing Manager,Survey_Company_45,IT,Italy,82000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.513001
+kaggle_survey_18483,kaggle_survey,Senior software developer,Survey_Company_83,IT,Italy,120000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.513001
+kaggle_survey_23129,kaggle_survey,Lead Developer,Survey_Company_29,IT,Italy,165000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.514005
+kaggle_survey_16919,kaggle_survey,Tech Consultant,Survey_Company_19,IT,Italy,32448.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.514005
+kaggle_survey_501,kaggle_survey,Data Analyst,Survey_Company_1,IT,Italy,53895.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.514005
+kaggle_survey_8516,kaggle_survey,Library Assistant,Survey_Company_16,IT,Italy,25480.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.515009
+kaggle_survey_18768,kaggle_survey,Data Scientist,Survey_Company_68,IT,Italy,133000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.515009
+kaggle_survey_21784,kaggle_survey,Senior lead auditor,Survey_Company_84,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.515009
+kaggle_survey_13077,kaggle_survey,Data Analyst,Survey_Company_77,IT,Italy,95000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.515009
+kaggle_survey_18236,kaggle_survey,Nurse Supervisor,Survey_Company_36,IT,Italy,110000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.516010
+kaggle_survey_25619,kaggle_survey,Research Associate,Survey_Company_19,GB,United Kingdom,40500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.516010
+kaggle_survey_16492,kaggle_survey,Multi Media Designer,Survey_Company_92,IT,Italy,72500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.516010
+kaggle_survey_13595,kaggle_survey,Barrister,Survey_Company_95,GB,United Kingdom,102000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.516010
+kaggle_survey_24446,kaggle_survey,Program Director,Survey_Company_46,IT,Italy,100000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.516010
+kaggle_survey_15536,kaggle_survey,Cyber Security consultant,Survey_Company_36,GB,United Kingdom,40000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.517323
+kaggle_survey_25704,kaggle_survey,Development & Implementation Specialist,Survey_Company_4,IT,Italy,73000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.517323
+kaggle_survey_9400,kaggle_survey,Organized Play Associate,Survey_Company_0,IT,Italy,40200.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.517323
+kaggle_survey_13167,kaggle_survey,Managing Editor,Survey_Company_67,IT,Italy,62000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.517323
+kaggle_survey_20482,kaggle_survey,Programme Manager,Survey_Company_82,GB,United Kingdom,38700.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.517323
+kaggle_survey_8608,kaggle_survey,Administrative Assistant,Survey_Company_8,IT,Italy,81473.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.518380
+kaggle_survey_22842,kaggle_survey,Data Engineer,Survey_Company_42,IT,Italy,99000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.518380
+kaggle_survey_25220,kaggle_survey,Data Analyst,Survey_Company_20,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.518380
+kaggle_survey_9099,kaggle_survey,Head of Access and Widening Participation,Survey_Company_99,UK,United Kingdom,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.518380
+kaggle_survey_24186,kaggle_survey,Data Engineer,Survey_Company_86,IT,Italy,127500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.519380
+kaggle_survey_14808,kaggle_survey,User Experience Researcher & Designer,Survey_Company_8,IT,Italy,100000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.519380
+kaggle_survey_5260,kaggle_survey,Data Analyst,Survey_Company_60,IT,Italy,65300.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.519380
+kaggle_survey_3350,kaggle_survey,Data Analyst,Survey_Company_50,IT,Italy,31200.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.519380
+kaggle_survey_3256,kaggle_survey,Human Resources,Survey_Company_56,IT,Italy,41000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.519380
+kaggle_survey_22484,kaggle_survey,Sr PHP Developer,Survey_Company_84,IT,Italy,112000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.519380
+kaggle_survey_1569,kaggle_survey,Digitization Specialist,Survey_Company_69,IT,Italy,42000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.520381
+kaggle_survey_25102,kaggle_survey,Community Outreach Director,Survey_Company_2,IT,Italy,90000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.520381
+kaggle_survey_4252,kaggle_survey,Data Analyst,Survey_Company_52,IT,Italy,67000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.520381
+kaggle_survey_24629,kaggle_survey,Consultant,Survey_Company_29,DE,Germany,,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.520381
+kaggle_survey_12701,kaggle_survey,Registered Nurse,Survey_Company_1,IT,Italy,83200.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.520381
+kaggle_survey_12129,kaggle_survey,"Manager, Information Security",Survey_Company_29,IT,Italy,189000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.520381
+kaggle_survey_24747,kaggle_survey,Associate Director of Admission,Survey_Company_47,IT,Italy,79000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.521380
+kaggle_survey_14857,kaggle_survey,Program Coordinator,Survey_Company_57,IT,Italy,52606.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.521380
+kaggle_survey_17316,kaggle_survey,Data Analyst,Survey_Company_16,GB,United Kingdom,23000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.521380
+kaggle_survey_23688,kaggle_survey,Director,Survey_Company_88,IT,Italy,250000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.521380
+kaggle_survey_150,kaggle_survey,PhD Candidate,Survey_Company_50,UK,United Kingdom,19000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.521380
+kaggle_survey_6726,kaggle_survey,healthcare commissioner,Survey_Company_26,UK,United Kingdom,52000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.522380
+kaggle_survey_2541,kaggle_survey,Data Engineer,Survey_Company_41,IT,Italy,79000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.522380
+kaggle_survey_2195,kaggle_survey,Director of Financial Services,Survey_Company_95,IT,Italy,124000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.522380
+kaggle_survey_10475,kaggle_survey,"Manager, Operations",Survey_Company_75,IT,Italy,78000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.522380
+kaggle_survey_2034,kaggle_survey,Data Analyst,Survey_Company_34,IT,Italy,86700.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.522380
+kaggle_survey_23977,kaggle_survey,Data Analyst,Survey_Company_77,IT,Italy,98000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.523380
+kaggle_survey_5915,kaggle_survey,Software developer,Survey_Company_15,DE,Germany,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.523380
+kaggle_survey_24742,kaggle_survey,Data Analyst,Survey_Company_42,IT,Italy,57000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.523380
+kaggle_survey_23607,kaggle_survey,"Director, Digital Communications Strategy",Survey_Company_7,IT,Italy,91500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.523380
+kaggle_survey_11297,kaggle_survey,Data Engineer,Survey_Company_97,IT,Italy,180000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.524380
+kaggle_survey_5653,kaggle_survey,Talent Acquisition Partner,Survey_Company_53,IT,Italy,77000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.524380
+kaggle_survey_7306,kaggle_survey,Program Director,Survey_Company_6,IT,Italy,114000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.524380
+kaggle_survey_11448,kaggle_survey,Director of Digital Media,Survey_Company_48,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.524380
+kaggle_survey_2393,kaggle_survey,Academic Advisor,Survey_Company_93,IT,Italy,54000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.525353
+kaggle_survey_20424,kaggle_survey,Data Engineer,Survey_Company_24,IT,Italy,57000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.525353
+kaggle_survey_20614,kaggle_survey,HR Generalist,Survey_Company_14,IT,Italy,55000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.525353
+kaggle_survey_3035,kaggle_survey,Cfo,Survey_Company_35,FR,France,38000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.525353
+kaggle_survey_14977,kaggle_survey,Consultant,Survey_Company_77,IT,Italy,165000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.526428
+kaggle_survey_18492,kaggle_survey,Senior Art Director,Survey_Company_92,IT,Italy,96000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.526428
+kaggle_survey_4739,kaggle_survey,Funding Coordinator,Survey_Company_39,AT,Austria,40000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.526428
+kaggle_survey_19305,kaggle_survey,Archivist,Survey_Company_5,IT,Italy,37000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.526428
+kaggle_survey_12709,kaggle_survey,Data Scientist,Survey_Company_9,IT,Italy,56000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.526428
+kaggle_survey_512,kaggle_survey,Director,Survey_Company_12,IE,Ireland,45000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.526428
+kaggle_survey_20742,kaggle_survey,Vendor Manager,Survey_Company_42,IT,Italy,65000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.526428
+kaggle_survey_6148,kaggle_survey,Senior Research Assistant,Survey_Company_48,IT,Italy,48000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.527709
+kaggle_survey_18464,kaggle_survey,Assistant Professor,Survey_Company_64,IT,Italy,54000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.527709
+kaggle_survey_12606,kaggle_survey,Counsel,Survey_Company_6,UK,United Kingdom,175000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.527709
+kaggle_survey_1588,kaggle_survey,Medical scribe,Survey_Company_88,IT,Italy,31000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.527709
+kaggle_survey_1598,kaggle_survey,Technical Support Executive,Survey_Company_98,GB,United Kingdom,39140.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.527709
+kaggle_survey_15746,kaggle_survey,Cyber Security Manager,Survey_Company_46,GB,United Kingdom,61000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.527709
+kaggle_survey_18331,kaggle_survey,City Prosecutor,Survey_Company_31,IT,Italy,80000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.528850
+kaggle_survey_9355,kaggle_survey,PreK teacher,Survey_Company_55,IT,Italy,62000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.528850
+kaggle_survey_5018,kaggle_survey,Instructional Technologist,Survey_Company_18,IT,Italy,56000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.528850
+kaggle_survey_14137,kaggle_survey,Contributing Editor/Community Manager,Survey_Company_37,IT,Italy,65000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.528850
+kaggle_survey_8151,kaggle_survey,Associate Creative Director,Survey_Company_51,IT,Italy,150000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.528850
+kaggle_survey_13495,kaggle_survey,Machine operator,Survey_Company_95,IT,Italy,39000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.528850
+kaggle_survey_20971,kaggle_survey,Data Scientist,Survey_Company_71,GB,United Kingdom,31300.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.529854
+kaggle_survey_11288,kaggle_survey,Taxonomist,Survey_Company_88,IT,Italy,175000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.529854
+kaggle_survey_2171,kaggle_survey,Sr Finance / HR Specialist,Survey_Company_71,IT,Italy,131100.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.529854
+kaggle_survey_3698,kaggle_survey,HR Manager,Survey_Company_98,IT,Italy,88500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.529854
+kaggle_survey_23914,kaggle_survey,Commodity Manager,Survey_Company_14,IT,Italy,97000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.530854
+kaggle_survey_1804,kaggle_survey,Electrical construction estimator,Survey_Company_4,IT,Italy,80000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.530854
+kaggle_survey_17038,kaggle_survey,Nonclinical Manager,Survey_Company_38,IT,Italy,90000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.530854
+kaggle_survey_19899,kaggle_survey,"Director, Maternal, Child, and Adolescent Health",Survey_Company_99,IT,Italy,100000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.530854
+kaggle_survey_13952,kaggle_survey,Speech Language Pathologist,Survey_Company_52,IT,Italy,143000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.531854
+kaggle_survey_15606,kaggle_survey,Data Analyst,Survey_Company_6,IT,Italy,57500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.531854
+kaggle_survey_13958,kaggle_survey,Data Analyst,Survey_Company_58,IT,Italy,68500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.531854
+kaggle_survey_1664,kaggle_survey,Curator,Survey_Company_64,IT,Italy,75544.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.531854
+kaggle_survey_12065,kaggle_survey,Data Analyst,Survey_Company_65,IT,Italy,64200.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.531854
+kaggle_survey_1227,kaggle_survey,Data Engineer,Survey_Company_27,IT,Italy,130000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.532854
+kaggle_survey_6179,kaggle_survey,Geologist,Survey_Company_79,IT,Italy,53800.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.532854
+kaggle_survey_6576,kaggle_survey,Data Analyst,Survey_Company_76,IT,Italy,55000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.532854
+kaggle_survey_3525,kaggle_survey,Data Analyst,Survey_Company_25,IT,Italy,74000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.533854
+kaggle_survey_8316,kaggle_survey,IT Specialist,Survey_Company_16,IT,Italy,103550.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.533854
+kaggle_survey_11995,kaggle_survey,Senior Manager,Survey_Company_95,NL,Netherlands,78000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.533854
+kaggle_survey_4160,kaggle_survey,Representative Payee Reviewer,Survey_Company_60,IT,Italy,37000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.533854
+kaggle_survey_18034,kaggle_survey,Data Analyst,Survey_Company_34,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.534854
+kaggle_survey_167,kaggle_survey,Production Technician,Survey_Company_67,IT,Italy,65000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.534854
+kaggle_survey_19603,kaggle_survey,Digital PR & Content Executive,Survey_Company_3,UK,United Kingdom,28000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.534854
+kaggle_survey_10999,kaggle_survey,IT Manager,Survey_Company_99,NL,Netherlands,56364.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.535854
+kaggle_survey_14791,kaggle_survey,Vice President Account Director,Survey_Company_91,IT,Italy,160000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.535854
+kaggle_survey_11272,kaggle_survey,Financial Aid Counselor,Survey_Company_72,IT,Italy,56062.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.535854
+kaggle_survey_5676,kaggle_survey,Senior Service Technician,Survey_Company_76,IT,Italy,51000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.536854
+kaggle_survey_18069,kaggle_survey,Software Development Manager,Survey_Company_69,IT,Italy,160000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.536854
+kaggle_survey_17455,kaggle_survey,Researcher,Survey_Company_55,IT,Italy,110000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.536854
+kaggle_survey_487,kaggle_survey,Data Analyst,Survey_Company_87,IT,Italy,70600.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.536854
+kaggle_survey_4157,kaggle_survey,Fundraiser,Survey_Company_57,IT,Italy,120000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.538094
+kaggle_survey_11409,kaggle_survey,Diplomat,Survey_Company_9,DE,Germany,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.538094
+kaggle_survey_19876,kaggle_survey,Project Accountant,Survey_Company_76,IT,Italy,51000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.538094
+kaggle_survey_17962,kaggle_survey,Senior Product Designer,Survey_Company_62,IT,Italy,140000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.538094
+kaggle_survey_1530,kaggle_survey,Executive Assistant to the CEO,Survey_Company_30,IT,Italy,71000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.539151
+kaggle_survey_9363,kaggle_survey,Communications Manager,Survey_Company_63,IT,Italy,81000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.539151
+kaggle_survey_13153,kaggle_survey,Reporter,Survey_Company_53,IT,Italy,111192.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.539151
+kaggle_survey_24615,kaggle_survey,Director,Survey_Company_15,IT,Italy,130000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.539151
+kaggle_survey_953,kaggle_survey,Communication Manager,Survey_Company_53,GB,United Kingdom,39000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.539151
+kaggle_survey_20826,kaggle_survey,Head of Technical Services,Survey_Company_26,IT,Italy,62000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.540151
+kaggle_survey_9414,kaggle_survey,"Senior Manager, Workplace Programs",Survey_Company_14,IT,Italy,135000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.540151
+kaggle_survey_15209,kaggle_survey,"Sr Associate, Project Manager",Survey_Company_9,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.541158
+kaggle_survey_17349,kaggle_survey,Team Manager,Survey_Company_49,GB,United Kingdom,41000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.541158
+kaggle_survey_16686,kaggle_survey,Data Engineer,Survey_Company_86,IT,Italy,76000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.542157
+kaggle_survey_15322,kaggle_survey,Technology Lead,Survey_Company_22,IT,Italy,128000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.542157
+kaggle_survey_18685,kaggle_survey,Data Analyst,Survey_Company_85,DE,Germany,52200.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.542157
+kaggle_survey_9541,kaggle_survey,Operations Manager,Survey_Company_41,IT,Italy,50000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.542157
+kaggle_survey_25112,kaggle_survey,Creative Director,Survey_Company_12,IT,Italy,68000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.542157
+kaggle_survey_14957,kaggle_survey,Digital Marketing Manager,Survey_Company_57,IT,Italy,55000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.542157
+kaggle_survey_22518,kaggle_survey,Associate,Survey_Company_18,IT,Italy,115000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.542157
+kaggle_survey_21844,kaggle_survey,Trustee Officer,Survey_Company_44,IE,Ireland,45000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.542157
+kaggle_survey_12860,kaggle_survey,Library Assistant,Survey_Company_60,IT,Italy,39520.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.543151
+kaggle_survey_1246,kaggle_survey,Recruiter,Survey_Company_46,IT,Italy,93000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.543151
+kaggle_survey_9774,kaggle_survey,Renewable Energy Program Manager,Survey_Company_74,IT,Italy,96000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.543151
+kaggle_survey_7676,kaggle_survey,Information Manager,Survey_Company_76,IT,Italy,81000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.543151
+kaggle_survey_25187,kaggle_survey,Data Engineer,Survey_Company_87,IT,Italy,98000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.544151
+kaggle_survey_21641,kaggle_survey,Library Director,Survey_Company_41,IT,Italy,57000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.544151
+kaggle_survey_15391,kaggle_survey,Data Engineer,Survey_Company_91,GB,United Kingdom,74900.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.544151
+kaggle_survey_15500,kaggle_survey,Benefits Administrator,Survey_Company_0,IT,Italy,86000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.544151
+kaggle_survey_19084,kaggle_survey,Office Manager,Survey_Company_84,IT,Italy,36000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.545152
+kaggle_survey_18280,kaggle_survey,Director Business and Legal Affairs,Survey_Company_80,IT,Italy,165000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.545152
+kaggle_survey_14491,kaggle_survey,Data Engineer,Survey_Company_91,IT,Italy,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.545152
+kaggle_survey_13238,kaggle_survey,Chief Commercial Officer,Survey_Company_38,UK,United Kingdom,86000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.545152
+kaggle_survey_25968,kaggle_survey,Data Engineer,Survey_Company_68,IT,Italy,61800.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.545152
+kaggle_survey_21196,kaggle_survey,Data Analyst,Survey_Company_96,IT,Italy,63204.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.546152
+kaggle_survey_20598,kaggle_survey,Managing Director,Survey_Company_98,IT,Italy,180000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.546152
+kaggle_survey_280,kaggle_survey,Senior Property Manager,Survey_Company_80,IT,Italy,90000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.546152
+kaggle_survey_11799,kaggle_survey,Project Manager,Survey_Company_99,UK,United Kingdom,40000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.546152
+kaggle_survey_10806,kaggle_survey,Developer,Survey_Company_6,IT,Italy,80000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.546152
+kaggle_survey_23142,kaggle_survey,PC support Tech 2,Survey_Company_42,IT,Italy,58000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.547151
+kaggle_survey_10543,kaggle_survey,Attorney,Survey_Company_43,IT,Italy,137000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.547151
+kaggle_survey_18094,kaggle_survey,Receptionist,Survey_Company_94,IT,Italy,24900.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.547151
+kaggle_survey_22159,kaggle_survey,Associate Consultant,Survey_Company_59,IT,Italy,65000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.547151
+kaggle_survey_11923,kaggle_survey,Operations Management Consultant 2,Survey_Company_23,IT,Italy,62540.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.547151
+kaggle_survey_15244,kaggle_survey,Senior Accountant,Survey_Company_44,IT,Italy,90000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.548471
+kaggle_survey_22102,kaggle_survey,Director,Survey_Company_2,IT,Italy,153000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.548471
+kaggle_survey_20154,kaggle_survey,Auto Liability Claims Adjuster,Survey_Company_54,IT,Italy,69000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.548471
+kaggle_survey_5001,kaggle_survey,client service coordinator,Survey_Company_1,IT,Italy,44000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.548471
+kaggle_survey_20065,kaggle_survey,Fuel hauler (CDL),Survey_Company_65,IT,Italy,78000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.548471
+kaggle_survey_15505,kaggle_survey,Senior Program Manager,Survey_Company_5,IT,Italy,155000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.548471
+kaggle_survey_10021,kaggle_survey,Electronic Resources Librarian,Survey_Company_21,IT,Italy,56000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.549524
+kaggle_survey_5549,kaggle_survey,Content Marketing Manager,Survey_Company_49,IT,Italy,100000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.549524
+kaggle_survey_22840,kaggle_survey,Clinical Documentation Specialist,Survey_Company_40,IT,Italy,160000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.549524
+kaggle_survey_23602,kaggle_survey,Data Analyst,Survey_Company_2,IT,Italy,144000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.549524
+kaggle_survey_2982,kaggle_survey,Director of Marketing and Programs,Survey_Company_82,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.549524
+kaggle_survey_738,kaggle_survey,Data Analyst,Survey_Company_38,IT,Italy,66000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.550528
+kaggle_survey_19080,kaggle_survey,Marketing and communications,Survey_Company_80,NL,Netherlands,35000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.550528
+kaggle_survey_5551,kaggle_survey,Technical editor,Survey_Company_51,IT,Italy,82000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.550528
+kaggle_survey_1056,kaggle_survey,Sr. Director of Marketing,Survey_Company_56,IT,Italy,175000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.550528
+kaggle_survey_13028,kaggle_survey,Outreach Specialist,Survey_Company_28,IT,Italy,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.551528
+kaggle_survey_16213,kaggle_survey,Social Media Manager,Survey_Company_13,UK,United Kingdom,36000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.551528
+kaggle_survey_11840,kaggle_survey,CMS Production Artist,Survey_Company_40,ES,Spain,21000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.551528
+kaggle_survey_34,kaggle_survey,Administrative and HR Manager,Survey_Company_34,IT,Italy,50000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.551528
+kaggle_survey_8088,kaggle_survey,Process Manager,Survey_Company_88,IT,Italy,61200.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.552528
+kaggle_survey_25592,kaggle_survey,Data Engineer,Survey_Company_92,IT,Italy,103000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.552528
+kaggle_survey_20885,kaggle_survey,Software Consultant,Survey_Company_85,IT,Italy,100000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.552528
+kaggle_survey_20149,kaggle_survey,Investment Supervisor (Media),Survey_Company_49,IT,Italy,88550.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.552528
+kaggle_survey_19509,kaggle_survey,Associate creative director,Survey_Company_9,IT,Italy,117500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.552528
+kaggle_survey_3455,kaggle_survey,Librarian,Survey_Company_55,IT,Italy,52275.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.552528
+kaggle_survey_16350,kaggle_survey,Director,Survey_Company_50,UK,United Kingdom,39000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.552528
+kaggle_survey_15939,kaggle_survey,Pharmacy technician,Survey_Company_39,IT,Italy,38230.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.552528
+kaggle_survey_626,kaggle_survey,Sr. Project Coordinator,Survey_Company_26,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.553528
+kaggle_survey_14449,kaggle_survey,Data Analyst,Survey_Company_49,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.553528
+kaggle_survey_16664,kaggle_survey,Marketing Coordinator,Survey_Company_64,IT,Italy,50000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.553528
+kaggle_survey_21946,kaggle_survey,Registered Nurse,Survey_Company_46,IT,Italy,73800.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.553528
+kaggle_survey_601,kaggle_survey,Lecturer,Survey_Company_1,IT,Italy,25000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.553528
+kaggle_survey_20660,kaggle_survey,Data Analyst,Survey_Company_60,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.553528
+kaggle_survey_8193,kaggle_survey,Library Associate Outreach,Survey_Company_93,IT,Italy,65083.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.553528
+kaggle_survey_15423,kaggle_survey,Associate Librarian,Survey_Company_23,IT,Italy,90960.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.554528
+kaggle_survey_2714,kaggle_survey,Accountant,Survey_Company_14,IT,Italy,82700.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.554528
+kaggle_survey_24410,kaggle_survey,Data Analyst,Survey_Company_10,IT,Italy,52000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.554528
+kaggle_survey_22943,kaggle_survey,Data Analyst,Survey_Company_43,IT,Italy,105188.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.554528
+kaggle_survey_12428,kaggle_survey,Data Scientist,Survey_Company_28,IT,Italy,120000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.554528
+kaggle_survey_8025,kaggle_survey,Human Resources Manager,Survey_Company_25,IT,Italy,65000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.554528
+kaggle_survey_22020,kaggle_survey,Therapist,Survey_Company_20,IT,Italy,50000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.555528
+kaggle_survey_12741,kaggle_survey,Clerical Officer,Survey_Company_41,IE,Ireland,25000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.555528
+kaggle_survey_2111,kaggle_survey,Technology Manager,Survey_Company_11,IT,Italy,98000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.555528
+kaggle_survey_21824,kaggle_survey,Data Analyst,Survey_Company_24,IT,Italy,97000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.555528
+kaggle_survey_15811,kaggle_survey,LPN,Survey_Company_11,IT,Italy,34112.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.556968
+kaggle_survey_13676,kaggle_survey,Service Manager,Survey_Company_76,IT,Italy,72000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.556968
+kaggle_survey_5436,kaggle_survey,Marketing Pursuit Team Manager,Survey_Company_36,IT,Italy,105000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.556968
+kaggle_survey_2622,kaggle_survey,Data Governance,Survey_Company_22,IT,Italy,130000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.556968
+kaggle_survey_15739,kaggle_survey,Technology and Media Services Coordinator,Survey_Company_39,IT,Italy,40000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.556968
+kaggle_survey_22110,kaggle_survey,Grants Manager,Survey_Company_10,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.558024
+kaggle_survey_11389,kaggle_survey,Marketing Director,Survey_Company_89,IT,Italy,127500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.558024
+kaggle_survey_2404,kaggle_survey,Assistant Director,Survey_Company_4,IT,Italy,44335.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.558024
+kaggle_survey_11782,kaggle_survey,Data Engineer,Survey_Company_82,GB,United Kingdom,47500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.559172
+kaggle_survey_2227,kaggle_survey,Sr Marketing manager,Survey_Company_27,IT,Italy,98000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.559172
+kaggle_survey_4254,kaggle_survey,Customer Success Manager,Survey_Company_54,IT,Italy,98000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.559172
+kaggle_survey_26222,kaggle_survey,Data Analyst,Survey_Company_22,GB,United Kingdom,48000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.559172
+kaggle_survey_18170,kaggle_survey,Business Development Manager,Survey_Company_70,IT,Italy,125000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.560219
+kaggle_survey_22615,kaggle_survey,Business partner,Survey_Company_15,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.560219
+kaggle_survey_3197,kaggle_survey,Director of Faith Formation,Survey_Company_97,IT,Italy,55000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.560219
+kaggle_survey_11395,kaggle_survey,Data Engineer,Survey_Company_95,IT,Italy,114100.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.560219
+kaggle_survey_20019,kaggle_survey,Data Engineer,Survey_Company_19,IT,Italy,95000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.560219
+kaggle_survey_13246,kaggle_survey,Senior Library Manager,Survey_Company_46,IT,Italy,65000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.561339
+kaggle_survey_13587,kaggle_survey,Marketing Manager,Survey_Company_87,IT,Italy,144000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.561339
+kaggle_survey_1422,kaggle_survey,Director of Development,Survey_Company_22,IT,Italy,110000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.561339
+kaggle_survey_7542,kaggle_survey,International Banking Specialist,Survey_Company_42,IT,Italy,52400.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.561339
+kaggle_survey_12321,kaggle_survey,Data Analyst,Survey_Company_21,IT,Italy,61750.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.561339
+kaggle_survey_6633,kaggle_survey,Operations Manager and Executive Assistant,Survey_Company_33,IT,Italy,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.562385
+kaggle_survey_2119,kaggle_survey,Payroll Manager,Survey_Company_19,IT,Italy,64000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.562385
+kaggle_survey_8928,kaggle_survey,Support Manager,Survey_Company_28,IT,Italy,95000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.562385
+kaggle_survey_14358,kaggle_survey,Data Engineer,Survey_Company_58,DE,Germany,88000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.562385
+kaggle_survey_16204,kaggle_survey,Electronic Systems Product Specialist,Survey_Company_4,IT,Italy,105000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.562385
+kaggle_survey_13134,kaggle_survey,Art and Humanities Librarian,Survey_Company_34,IT,Italy,61500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.562385
+kaggle_survey_7747,kaggle_survey,Senior Publicist,Survey_Company_47,IT,Italy,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.563389
+kaggle_survey_15076,kaggle_survey,Administrative Support Specialist,Survey_Company_76,IT,Italy,52000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.563389
+kaggle_survey_11467,kaggle_survey,Director of measurement and learning,Survey_Company_67,IT,Italy,100360.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.563902
+kaggle_survey_21560,kaggle_survey,Marketing Manager,Survey_Company_60,UK,United Kingdom,32000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.563902
+kaggle_survey_6883,kaggle_survey,Math Teacher,Survey_Company_83,IT,Italy,40000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.563902
+kaggle_survey_21853,kaggle_survey,Music Editor,Survey_Company_53,UK,United Kingdom,30000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.563902
+kaggle_survey_15443,kaggle_survey,Data Analyst,Survey_Company_43,IT,Italy,86000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.564942
+kaggle_survey_9014,kaggle_survey,Grant writer,Survey_Company_14,IT,Italy,65000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.564942
+kaggle_survey_17954,kaggle_survey,Development Manager,Survey_Company_54,IT,Italy,140000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.564942
+kaggle_survey_16291,kaggle_survey,Consultant,Survey_Company_91,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.565942
+kaggle_survey_21985,kaggle_survey,Youth Pastor,Survey_Company_85,IT,Italy,42000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.565942
+kaggle_survey_6741,kaggle_survey,Data Engineer,Survey_Company_41,IT,Italy,134000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.565942
+kaggle_survey_23872,kaggle_survey,Global Head of Communications,Survey_Company_72,IT,Italy,215000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.565942
+kaggle_survey_18811,kaggle_survey,Data Engineer,Survey_Company_11,UK,United Kingdom,29000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.565942
+kaggle_survey_17931,kaggle_survey,Online learning librarian,Survey_Company_31,IT,Italy,69300.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.565942
+kaggle_survey_18861,kaggle_survey,Data Engineer,Survey_Company_61,UK,United Kingdom,38996.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.565942
+kaggle_survey_25262,kaggle_survey,Circulation Coordinator,Survey_Company_62,IT,Italy,43500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.566942
+kaggle_survey_10189,kaggle_survey,Finance and Sponsored Projects Officer,Survey_Company_89,IT,Italy,78000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.566942
+kaggle_survey_22913,kaggle_survey,Internet Marketing Specialist,Survey_Company_13,IT,Italy,42000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.566942
+kaggle_survey_8710,kaggle_survey,Senior Project Manager,Survey_Company_10,DE,Germany,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.566942
+kaggle_survey_1108,kaggle_survey,Digital Marketing Coordinator,Survey_Company_8,IT,Italy,45000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.566942
+kaggle_survey_16219,kaggle_survey,Director of Special Projects,Survey_Company_19,IT,Italy,105000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.567942
+kaggle_survey_3874,kaggle_survey,Director of Academic Affairs,Survey_Company_74,IT,Italy,62000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.567942
+kaggle_survey_7627,kaggle_survey,Physical Therapist,Survey_Company_27,IT,Italy,96428.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.567942
+kaggle_survey_17009,kaggle_survey,Assistant Director,Survey_Company_9,IT,Italy,64900.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.567942
+kaggle_survey_16316,kaggle_survey,Tax Accountant- Public Accounting,Survey_Company_16,IT,Italy,59200.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.567942
+kaggle_survey_15661,kaggle_survey,Data Analyst,Survey_Company_61,IT,Italy,77000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.567942
+kaggle_survey_22977,kaggle_survey,Lifecycle marketing manager,Survey_Company_77,FR,France,27500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.568942
+kaggle_survey_11715,kaggle_survey,Reader Services Librarian,Survey_Company_15,UK,United Kingdom,30877.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.568942
+kaggle_survey_12033,kaggle_survey,Contractor,Survey_Company_33,PT,Portugal,75140.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.568942
+kaggle_survey_25672,kaggle_survey,Project Coordinator,Survey_Company_72,IT,Italy,70040.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.568942
+kaggle_survey_11794,kaggle_survey,Research Associate,Survey_Company_94,UK,United Kingdom,40322.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.568942
+kaggle_survey_12892,kaggle_survey,Customer Service,Survey_Company_92,IT,Italy,36000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.568942
+kaggle_survey_11740,kaggle_survey,Programme Officer,Survey_Company_40,UK,United Kingdom,37500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.570181
+kaggle_survey_18795,kaggle_survey,Data Engineer,Survey_Company_95,UK,United Kingdom,90000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.570181
+kaggle_survey_16595,kaggle_survey,Controller,Survey_Company_95,IT,Italy,82500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.570181
+kaggle_survey_15569,kaggle_survey,Data Engineer,Survey_Company_69,IT,Italy,171500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.570181
+kaggle_survey_21002,kaggle_survey,Senior Manager,Survey_Company_2,IT,Italy,120000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.570181
+kaggle_survey_18341,kaggle_survey,Data Analyst,Survey_Company_41,IT,Italy,77000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.571238
+kaggle_survey_9747,kaggle_survey,Graphic Designer,Survey_Company_47,IT,Italy,42000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.571238
+kaggle_survey_10322,kaggle_survey,Director,Survey_Company_22,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.571238
+kaggle_survey_17537,kaggle_survey,Infrastructure Specialist,Survey_Company_37,IT,Italy,68220.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.572434
+kaggle_survey_24437,kaggle_survey,Applications Developer,Survey_Company_37,IT,Italy,112400.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.572434
+kaggle_survey_4375,kaggle_survey,Program Manager,Survey_Company_75,IT,Italy,165000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.572434
+kaggle_survey_1808,kaggle_survey,Senior Advocacy Manager,Survey_Company_8,IT,Italy,69000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.572434
+kaggle_survey_24608,kaggle_survey,Manager,Survey_Company_8,IT,Italy,101000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.572434
+kaggle_survey_15978,kaggle_survey,Sr Technical Program Manager,Survey_Company_78,IT,Italy,155000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.573492
+kaggle_survey_2662,kaggle_survey,Team Manager,Survey_Company_62,IT,Italy,74618.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.573492
+kaggle_survey_15013,kaggle_survey,Design Director,Survey_Company_13,IT,Italy,90000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.573492
+kaggle_survey_17934,kaggle_survey,Director of B2B Marketing,Survey_Company_34,IT,Italy,135000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.573492
+kaggle_survey_14297,kaggle_survey,Data Engineer,Survey_Company_97,GB,United Kingdom,170000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.574493
+kaggle_survey_96,kaggle_survey,Director of Development,Survey_Company_96,IT,Italy,63500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.574493
+kaggle_survey_5732,kaggle_survey,Business Intelligence Associate,Survey_Company_32,IT,Italy,47500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.574493
+kaggle_survey_20712,kaggle_survey,Senior Community Organizer,Survey_Company_12,IT,Italy,41000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.575493
+kaggle_survey_18422,kaggle_survey,Graphic Artist,Survey_Company_22,IT,Italy,27040.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.575493
+kaggle_survey_12968,kaggle_survey,Enrollment Coordinator,Survey_Company_68,IT,Italy,39000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.575493
+kaggle_survey_13205,kaggle_survey,Research Manager,Survey_Company_5,UK,United Kingdom,36000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.576493
+kaggle_survey_12802,kaggle_survey,Lead L&D specialist,Survey_Company_2,UK,United Kingdom,67500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.576493
+kaggle_survey_2084,kaggle_survey,Trainer/Curriculum Developer,Survey_Company_84,IT,Italy,79000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.576493
+kaggle_survey_11717,kaggle_survey,Library clerk,Survey_Company_17,IT,Italy,37000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.576493
+kaggle_survey_16581,kaggle_survey,Project Specialist,Survey_Company_81,IT,Italy,47500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.576493
+kaggle_survey_14189,kaggle_survey,Data Engineer,Survey_Company_89,GB,United Kingdom,105000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.577493
+kaggle_survey_23464,kaggle_survey,Human Resources director,Survey_Company_64,IT,Italy,100000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.577493
+kaggle_survey_12238,kaggle_survey,Senior Associate General Counsel,Survey_Company_38,IT,Italy,175000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.577493
+kaggle_survey_4489,kaggle_survey,Vice President,Survey_Company_89,IT,Italy,99221.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.577493
+kaggle_survey_250,kaggle_survey,teacher,Survey_Company_50,IT,Italy,94000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.578493
+kaggle_survey_20407,kaggle_survey,Admissions Coordinator,Survey_Company_7,IT,Italy,40000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.578493
+kaggle_survey_9350,kaggle_survey,Research Associate II,Survey_Company_50,IT,Italy,51000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.578493
+kaggle_survey_11848,kaggle_survey,Senior Auditor,Survey_Company_48,IT,Italy,110000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.578493
+kaggle_survey_9434,kaggle_survey,Software Consultant,Survey_Company_34,UK,United Kingdom,46000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.578493
+kaggle_survey_18387,kaggle_survey,Data Engineer,Survey_Company_87,IT,Italy,153000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.579493
+kaggle_survey_9000,kaggle_survey,"Senior Manager, Strategic Communications",Survey_Company_0,IT,Italy,130000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.579493
+kaggle_survey_20653,kaggle_survey,Creative Strategist,Survey_Company_53,IT,Italy,38000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.579493
+kaggle_survey_18828,kaggle_survey,Data Architect,Survey_Company_28,GB,United Kingdom,100000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.579493
+kaggle_survey_23786,kaggle_survey,Instructor,Survey_Company_86,IT,Italy,98000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.579493
+kaggle_survey_1972,kaggle_survey,Administrative Assistant,Survey_Company_72,IT,Italy,57000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.580704
+kaggle_survey_5219,kaggle_survey,Associate Editor,Survey_Company_19,IT,Italy,45000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.580704
+kaggle_survey_9761,kaggle_survey,Data Engineer,Survey_Company_61,IT,Italy,123000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.580704
+kaggle_survey_19141,kaggle_survey,Marketing Manager,Survey_Company_41,IT,Italy,138000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.580704
+kaggle_survey_25055,kaggle_survey,Senior Policy Advisor,Survey_Company_55,GB,United Kingdom,37911.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.580704
+kaggle_survey_5218,kaggle_survey,Director,Survey_Company_18,IT,Italy,95000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.580704
+kaggle_survey_17192,kaggle_survey,Data Engineer,Survey_Company_92,IT,Italy,110500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.581761
+kaggle_survey_11097,kaggle_survey,IS Implementation Principle Project Manager,Survey_Company_97,IT,Italy,116500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.581761
+kaggle_survey_5405,kaggle_survey,Librarian,Survey_Company_5,IT,Italy,92500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.581761
+kaggle_survey_24567,kaggle_survey,Data Analyst,Survey_Company_67,IT,Italy,87000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.582761
+kaggle_survey_21222,kaggle_survey,Community Project Manager,Survey_Company_22,IT,Italy,40000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.582761
+kaggle_survey_18234,kaggle_survey,Data Analyst,Survey_Company_34,IT,Italy,55240.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.582761
+kaggle_survey_14299,kaggle_survey,Director,Survey_Company_99,IT,Italy,87000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.582761
+kaggle_survey_6275,kaggle_survey,Technical Director,Survey_Company_75,IT,Italy,155000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.582761
+kaggle_survey_17996,kaggle_survey,Marketing Coordinator,Survey_Company_96,IT,Italy,87000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.583761
+kaggle_survey_21461,kaggle_survey,Data Engineer,Survey_Company_61,IT,Italy,262650.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.583761
+kaggle_survey_6340,kaggle_survey,Tax Accountant,Survey_Company_40,IT,Italy,40000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.583761
+kaggle_survey_12509,kaggle_survey,Sr Software Eng,Survey_Company_9,IT,Italy,130000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.583761
+kaggle_survey_18468,kaggle_survey,Support Operations Specialist,Survey_Company_68,IT,Italy,57000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.583761
+kaggle_survey_11786,kaggle_survey,Laboratory assistant,Survey_Company_86,IT,Italy,32000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.584761
+kaggle_survey_516,kaggle_survey,"Manager, Production",Survey_Company_16,IT,Italy,90000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.584761
+kaggle_survey_7049,kaggle_survey,Campaign Manager,Survey_Company_49,IT,Italy,50000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.585761
+kaggle_survey_17610,kaggle_survey,Medical Credentialing Specialist,Survey_Company_10,IT,Italy,35500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.585761
+kaggle_survey_13761,kaggle_survey,HR M&A,Survey_Company_61,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.586761
+kaggle_survey_10504,kaggle_survey,Prevention and Administrative Support Specialist,Survey_Company_4,IT,Italy,32000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.586761
+kaggle_survey_21428,kaggle_survey,English Instructor,Survey_Company_28,IT,Italy,42900.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.587739
+kaggle_survey_23583,kaggle_survey,Part Handler,Survey_Company_83,IT,Italy,41329.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.587739
+kaggle_survey_8929,kaggle_survey,Data Analyst,Survey_Company_29,IT,Italy,68000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.587739
+kaggle_survey_21211,kaggle_survey,Senior Program Manager,Survey_Company_11,IT,Italy,120000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.587739
+kaggle_survey_10669,kaggle_survey,Legal Assistant,Survey_Company_69,IT,Italy,69000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.588787
+kaggle_survey_20771,kaggle_survey,Copywriter,Survey_Company_71,IT,Italy,65000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.588787
+kaggle_survey_25411,kaggle_survey,"Senior Manager, Operations",Survey_Company_11,IT,Italy,129000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.588787
+kaggle_survey_9093,kaggle_survey,Office Manager,Survey_Company_93,IT,Italy,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.589839
+kaggle_survey_20163,kaggle_survey,Schedule Planner,Survey_Company_63,IT,Italy,50386.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.589839
+kaggle_survey_2229,kaggle_survey,Project Manager / Account Manager,Survey_Company_29,DE,Germany,33000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.589839
+kaggle_survey_2740,kaggle_survey,Assistant Director - Medical Library,Survey_Company_40,IT,Italy,67000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.589839
+kaggle_survey_10432,kaggle_survey,Special Education Teacher,Survey_Company_32,IT,Italy,49000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.589839
+kaggle_survey_14145,kaggle_survey,Vice President,Survey_Company_45,IT,Italy,68000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.589839
+kaggle_survey_1510,kaggle_survey,Project Manager,Survey_Company_10,UK,United Kingdom,65000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.589839
+kaggle_survey_25050,kaggle_survey,CEO,Survey_Company_50,UK,United Kingdom,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.589839
+kaggle_survey_3778,kaggle_survey,Team Leader,Survey_Company_78,IT,Italy,46000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.589839
+kaggle_survey_22203,kaggle_survey,Junior Delivery Lead,Survey_Company_3,IT,Italy,50000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.591350
+kaggle_survey_24674,kaggle_survey,Data Analyst,Survey_Company_74,IT,Italy,95000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.591350
+kaggle_survey_24470,kaggle_survey,Data Engineer,Survey_Company_70,IT,Italy,110000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.591350
+kaggle_survey_15488,kaggle_survey,Principal Product Manager,Survey_Company_88,IE,Ireland,107000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.591350
+kaggle_survey_8227,kaggle_survey,Data Engineer,Survey_Company_27,IT,Italy,138000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.592393
+kaggle_survey_24080,kaggle_survey,Marketing Analytics Lead,Survey_Company_80,IT,Italy,215000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.592393
+kaggle_survey_22924,kaggle_survey,Marketing Content Writer,Survey_Company_24,IT,Italy,52000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.592393
+kaggle_survey_194,kaggle_survey,UX designer,Survey_Company_94,FR,France,36000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.592393
+kaggle_survey_9948,kaggle_survey,Medical Librarian,Survey_Company_48,IT,Italy,,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.593385
+kaggle_survey_3451,kaggle_survey,Staff Writer,Survey_Company_51,IT,Italy,65000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.593385
+kaggle_survey_19560,kaggle_survey,Senior Director of Education,Survey_Company_60,IT,Italy,140000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.593385
+kaggle_survey_2464,kaggle_survey,HR Business Partner,Survey_Company_64,IT,Italy,125000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.593385
+kaggle_survey_5928,kaggle_survey,"Director, Business Strategy",Survey_Company_28,IT,Italy,150000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.593385
+kaggle_survey_16041,kaggle_survey,Consumer Care Associate,Survey_Company_41,UK,United Kingdom,22000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.593385
+kaggle_survey_25622,kaggle_survey,Data Engineer,Survey_Company_22,IT,Italy,92700.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.593385
+kaggle_survey_14702,kaggle_survey,Data Engineer,Survey_Company_2,IT,Italy,103000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.594385
+kaggle_survey_19957,kaggle_survey,Learning and Development Manager,Survey_Company_57,IT,Italy,110000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.594385
+kaggle_survey_25321,kaggle_survey,acquisitions editor/book editor,Survey_Company_21,IT,Italy,73000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.594385
+kaggle_survey_7952,kaggle_survey,Research Advisor,Survey_Company_52,IT,Italy,122000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.594385
+kaggle_survey_5174,kaggle_survey,Accountant,Survey_Company_74,IT,Italy,53000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.595385
+kaggle_survey_9902,kaggle_survey,Physics teacher,Survey_Company_2,IT,Italy,55000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.595385
+kaggle_survey_12715,kaggle_survey,VP Services,Survey_Company_15,IT,Italy,90000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.595385
+kaggle_survey_18705,kaggle_survey,Senior Policy Advisor,Survey_Company_5,GB,United Kingdom,47000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.595385
+kaggle_survey_19277,kaggle_survey,HR Manager,Survey_Company_77,IT,Italy,86000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.595385
+kaggle_survey_14445,kaggle_survey,Data Analyst,Survey_Company_45,IT,Italy,122530.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.596384
+kaggle_survey_2157,kaggle_survey,Research Associate,Survey_Company_57,IT,Italy,76000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.596384
+kaggle_survey_14084,kaggle_survey,Preconstruction Manager,Survey_Company_84,IT,Italy,116700.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.596384
+kaggle_survey_25607,kaggle_survey,Research manager,Survey_Company_7,UK,United Kingdom,38000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.596384
+kaggle_survey_25063,kaggle_survey,Communication specialist,Survey_Company_63,DE,Germany,,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.596384
+kaggle_survey_20347,kaggle_survey,Software Developer,Survey_Company_47,IT,Italy,80000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.596384
+kaggle_survey_22367,kaggle_survey,Environmental Protection Specialist,Survey_Company_67,IT,Italy,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.597384
+kaggle_survey_3686,kaggle_survey,Executive Director,Survey_Company_86,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.597384
+kaggle_survey_25813,kaggle_survey,Networking PM,Survey_Company_13,IT,Italy,91000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.598384
+kaggle_survey_18411,kaggle_survey,Data Engineer,Survey_Company_11,AT,Austria,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.598384
+kaggle_survey_15877,kaggle_survey,Medicare Sales,Survey_Company_77,IT,Italy,33280.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.598384
+kaggle_survey_1052,kaggle_survey,Librarian,Survey_Company_52,IT,Italy,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.598384
+kaggle_survey_16563,kaggle_survey,Content Strategist,Survey_Company_63,IT,Italy,66500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.598384
+kaggle_survey_26145,kaggle_survey,Account Manager,Survey_Company_45,IT,Italy,80000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.598384
+kaggle_survey_3366,kaggle_survey,Director of Finance,Survey_Company_66,IT,Italy,97760.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.599385
+kaggle_survey_3753,kaggle_survey,Senior Executive Assistant,Survey_Company_53,IT,Italy,120000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.599385
+kaggle_survey_16952,kaggle_survey,Patient Access Specialist,Survey_Company_52,IT,Italy,50595.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.599385
+kaggle_survey_8082,kaggle_survey,Registrar,Survey_Company_82,IT,Italy,75212.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.599385
+kaggle_survey_20916,kaggle_survey,Paralegal,Survey_Company_16,IT,Italy,50000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.600384
+kaggle_survey_23854,kaggle_survey,Director of Social,Survey_Company_54,IT,Italy,159000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.600384
+kaggle_survey_718,kaggle_survey,Program Manager,Survey_Company_18,IT,Italy,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.601385
+kaggle_survey_16849,kaggle_survey,Event Department Manager,Survey_Company_49,IT,Italy,75000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.601385
+kaggle_survey_3002,kaggle_survey,JUVENILE CASE MANAGEMENT SPECIALIST,Survey_Company_2,IT,Italy,50000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.601385
+kaggle_survey_12287,kaggle_survey,Freelance props artisan,Survey_Company_87,IT,Italy,52000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.601385
+kaggle_survey_9936,kaggle_survey,Program Manager,Survey_Company_36,IT,Italy,90410.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.602384
+kaggle_survey_5165,kaggle_survey,Corporate Strategy Senior Manager,Survey_Company_65,IT,Italy,150000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.602384
+kaggle_survey_20138,kaggle_survey,Assistant Media Buyer,Survey_Company_38,IT,Italy,49753.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.602384
+kaggle_survey_5859,kaggle_survey,Data Engineer,Survey_Company_59,IT,Italy,86000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.603380
+kaggle_survey_25232,kaggle_survey,Customer Service Supervisor,Survey_Company_32,IT,Italy,52000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.603380
+kaggle_survey_25131,kaggle_survey,Data Analyst,Survey_Company_31,IT,Italy,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.603380
+kaggle_survey_2209,kaggle_survey,Data Engineer,Survey_Company_9,IT,Italy,131000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.603380
+kaggle_survey_12754,kaggle_survey,Associate Counsel,Survey_Company_54,IT,Italy,150000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.603380
+kaggle_survey_13954,kaggle_survey,Data Analyst,Survey_Company_54,IT,Italy,42840.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.603380
+kaggle_survey_25633,kaggle_survey,Learning Designer,Survey_Company_33,GB,United Kingdom,39000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.603380
+kaggle_survey_538,kaggle_survey,Director of Student Life,Survey_Company_38,IT,Italy,73000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.604381
+kaggle_survey_20736,kaggle_survey,Data Engineer,Survey_Company_36,IT,Italy,162000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.604381
+kaggle_survey_15885,kaggle_survey,Data Scientist,Survey_Company_85,IT,Italy,240.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.604381
+kaggle_survey_17659,kaggle_survey,"Project Manager, Real Estate Development",Survey_Company_59,IT,Italy,76000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.604381
+kaggle_survey_22929,kaggle_survey,Department Administrator,Survey_Company_29,IT,Italy,153000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.605379
+kaggle_survey_19536,kaggle_survey,Teaching practicum supervisor,Survey_Company_36,IT,Italy,1000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.605379
+kaggle_survey_4580,kaggle_survey,Data Analyst,Survey_Company_80,IT,Italy,95000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.605379
+kaggle_survey_9841,kaggle_survey,Associate Partner,Survey_Company_41,IT,Italy,250000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.605379
+kaggle_survey_16360,kaggle_survey,Manager,Survey_Company_60,DE,Germany,70000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.606378
+kaggle_survey_23107,kaggle_survey,Associate Director HR,Survey_Company_7,UK,United Kingdom,87500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.606378
+kaggle_survey_18043,kaggle_survey,"Manager, Institutional Partnerships",Survey_Company_43,IT,Italy,80000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.606378
+kaggle_survey_14338,kaggle_survey,Senior cloud Solutions architect,Survey_Company_38,UK,United Kingdom,90000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.606378
+kaggle_survey_18802,kaggle_survey,Solutions architect,Survey_Company_2,DE,Germany,290000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.606378
+kaggle_survey_11852,kaggle_survey,Data Engineer,Survey_Company_52,IT,Italy,115000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.606378
+kaggle_survey_21558,kaggle_survey,Administration,Survey_Company_58,IT,Italy,47000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.606378
+kaggle_survey_8896,kaggle_survey,Senior Executive Assistant,Survey_Company_96,IT,Italy,80000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.607378
+kaggle_survey_19044,kaggle_survey,Executive Assistant,Survey_Company_44,IT,Italy,51200.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.607378
+kaggle_survey_16536,kaggle_survey,Program manager,Survey_Company_36,IT,Italy,97000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.608378
+kaggle_survey_8616,kaggle_survey,Engagement Manager,Survey_Company_16,IT,Italy,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.608378
+kaggle_survey_13106,kaggle_survey,Assistant Principal,Survey_Company_6,IT,Italy,86000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.608378
+kaggle_survey_3265,kaggle_survey,Store manager,Survey_Company_65,IT,Italy,42000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.608378
+kaggle_survey_13312,kaggle_survey,Legal Secretary,Survey_Company_12,GB,United Kingdom,36028.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.608378
+kaggle_survey_9044,kaggle_survey,Reference Services,Survey_Company_44,IT,Italy,34500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.609378
+kaggle_survey_8028,kaggle_survey,Chief of Staff,Survey_Company_28,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.609378
+kaggle_survey_25346,kaggle_survey,Enterprise Content Manager,Survey_Company_46,IT,Italy,124000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.609378
+kaggle_survey_14978,kaggle_survey,Responsible for an external-facing unit,Survey_Company_78,IT,Italy,170000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.609378
+kaggle_survey_26038,kaggle_survey,Production Manager,Survey_Company_38,UK,United Kingdom,30000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.609378
+kaggle_survey_8119,kaggle_survey,Executive Assistant,Survey_Company_19,UK,United Kingdom,30000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.610379
+kaggle_survey_3703,kaggle_survey,Library assistant,Survey_Company_3,IT,Italy,41000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.610379
+kaggle_survey_15779,kaggle_survey,Radio Producer,Survey_Company_79,IT,Italy,23000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.610379
+kaggle_survey_23189,kaggle_survey,Dog groomer,Survey_Company_89,IT,Italy,25000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.612383
+kaggle_survey_11904,kaggle_survey,Executive Director,Survey_Company_4,IT,Italy,195000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.612383
+kaggle_survey_1035,kaggle_survey,Brand Ambassador/Sales Associate,Survey_Company_35,IT,Italy,27289.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.613383
+kaggle_survey_13206,kaggle_survey,Workplace Manager,Survey_Company_6,IT,Italy,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.613383
+kaggle_survey_11798,kaggle_survey,Software developer,Survey_Company_98,UK,United Kingdom,36600.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.613383
+kaggle_survey_24787,kaggle_survey,Executive Director,Survey_Company_87,IT,Italy,137500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.614388
+kaggle_survey_8029,kaggle_survey,EU project manager,Survey_Company_29,NL,Netherlands,60000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.614388
+kaggle_survey_13522,kaggle_survey,Manager,Survey_Company_22,IT,Italy,125000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.614388
+kaggle_survey_24689,kaggle_survey,Data Analyst,Survey_Company_89,IT,Italy,103000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.615385
+kaggle_survey_10124,kaggle_survey,Data Engineer,Survey_Company_24,IT,Italy,160000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.615385
+kaggle_survey_1603,kaggle_survey,Technical Writer,Survey_Company_3,IT,Italy,77250.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.615385
+kaggle_survey_24542,kaggle_survey,Data Engineer,Survey_Company_42,IT,Italy,130000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.615385
+kaggle_survey_4104,kaggle_survey,Executive Assistant,Survey_Company_4,IT,Italy,80000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.615385
+kaggle_survey_17757,kaggle_survey,Data Engineer,Survey_Company_57,IT,Italy,66000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.616386
+kaggle_survey_8466,kaggle_survey,Assistant Principal,Survey_Company_66,IT,Italy,97000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.616386
+kaggle_survey_14682,kaggle_survey,Consultant,Survey_Company_82,IT,Italy,155000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.616386
+kaggle_survey_2858,kaggle_survey,Staff Therapist,Survey_Company_58,IT,Italy,55300.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.616386
+kaggle_survey_24805,kaggle_survey,Practice Assistant,Survey_Company_5,IT,Italy,85000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.617384
+kaggle_survey_22685,kaggle_survey,Business Application Expert,Survey_Company_85,IT,Italy,112000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.617384
+kaggle_survey_20574,kaggle_survey,associate,Survey_Company_74,IT,Italy,225000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.617384
+kaggle_survey_17556,kaggle_survey,IT Manager,Survey_Company_56,DE,Germany,115000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.617384
+kaggle_survey_1412,kaggle_survey,Event Coordinator Manager,Survey_Company_12,IT,Italy,58240.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.617384
+kaggle_survey_18943,kaggle_survey,Data Engineer,Survey_Company_43,CH,Switzerland,,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.618386
+kaggle_survey_20959,kaggle_survey,Data Engineer,Survey_Company_59,IT,Italy,110000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.618386
+kaggle_survey_6362,kaggle_survey,Personal Assistant to MD,Survey_Company_62,UK,United Kingdom,28000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.618386
+kaggle_survey_8673,kaggle_survey,1x1 coordinator,Survey_Company_73,IT,Italy,165000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.618386
+kaggle_survey_9545,kaggle_survey,Marketing & Admissions Coordinator,Survey_Company_45,IT,Italy,49500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.618386
+kaggle_survey_24291,kaggle_survey,Head of client success,Survey_Company_91,IT,Italy,173000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.618386
+kaggle_survey_16757,kaggle_survey,Cyber Security Lead,Survey_Company_57,GB,United Kingdom,48000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.619388
+kaggle_survey_13805,kaggle_survey,Consumer Insights,Survey_Company_5,IT,Italy,118000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.619388
+kaggle_survey_13215,kaggle_survey,Librarian,Survey_Company_15,IT,Italy,55000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.619388
+kaggle_survey_6977,kaggle_survey,Sr Employee Experience Specialist,Survey_Company_77,IT,Italy,99000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.619388
+kaggle_survey_18488,kaggle_survey,Data Engineer,Survey_Company_88,IT,Italy,230000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.619388
+kaggle_survey_9864,kaggle_survey,Senior Administrative Assistant,Survey_Company_64,IT,Italy,73000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.620387
+kaggle_survey_1303,kaggle_survey,Senior Audit Group Manager,Survey_Company_3,IT,Italy,126500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.620387
+kaggle_survey_17166,kaggle_survey,Content Designer / UX Writer,Survey_Company_66,IT,Italy,130680.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.620387
+kaggle_survey_20086,kaggle_survey,Research Assistant,Survey_Company_86,DE,Germany,43500.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.621389
+kaggle_survey_23327,kaggle_survey,Forecasting Manager,Survey_Company_27,IT,Italy,87000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.621389
+kaggle_survey_20267,kaggle_survey,Social Media and Content Marketing Manager,Survey_Company_67,IT,Italy,55000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.622661
+kaggle_survey_22568,kaggle_survey,Asst. social media manager,Survey_Company_68,IT,Italy,71000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.622661
+kaggle_survey_12092,kaggle_survey,Country Director,Survey_Company_92,IE,Ireland,97000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.622661
+kaggle_survey_147,kaggle_survey,Senior People Advisor,Survey_Company_47,GB,United Kingdom,45000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.622661
+kaggle_survey_24010,kaggle_survey,Data Analyst,Survey_Company_10,IT,Italy,72000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.622661
+kaggle_survey_24325,kaggle_survey,VP Growth Strategy,Survey_Company_25,IT,Italy,140000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.622661
+kaggle_survey_10328,kaggle_survey,Virtual Assistant,Survey_Company_28,IT,Italy,125000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.622661
+kaggle_survey_11935,kaggle_survey,Product Design Manager,Survey_Company_35,IT,Italy,250000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.622661
+kaggle_survey_9851,kaggle_survey,District Director,Survey_Company_51,IT,Italy,62000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.623693
+kaggle_survey_11491,kaggle_survey,Journalist,Survey_Company_91,IT,Italy,82000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.623693
+kaggle_survey_21462,kaggle_survey,Data Analyst,Survey_Company_62,IT,Italy,57000.0,EUR,Survey_Response,Data Analysis;Statistics;Programming,3,kaggle_ml_survey,2025-07-02T11:14:47.624694

@@ -1,0 +1,1001 @@
+id,source,job_title,company,location,country_code,country_name,salary_min,salary_max,currency,skills,skills_count,dataset_origin,collected_at
+glassdoor_europe_0,glassdoor_europe,Data Engineer,Siemens,"Capital, France",FR,France,82977,99572,EUR,Kafka;Airflow;Python,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_1,glassdoor_europe,Full Stack Developer,SAP,"City, Austria",AT,Austria,92280,110736,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_2,glassdoor_europe,Frontend Developer,Revolut,"City, France",FR,France,80412,96494,EUR,HTML;JavaScript;React,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_3,glassdoor_europe,Technical Lead,SAP,"City, Switzerland",CH,Switzerland,125022,150026,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_4,glassdoor_europe,Machine Learning Engineer,Klarna,"Capital, Italy",IT,Italy,106687,128024,EUR,MLflow;Docker;TensorFlow,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_5,glassdoor_europe,Data Scientist,Spotify,"City, Denmark",DK,Denmark,81975,98370,EUR,TensorFlow;SQL;R,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_6,glassdoor_europe,Full Stack Developer,Skype,"City, Italy",IT,Italy,51247,61496,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_7,glassdoor_europe,Principal Engineer,Amadeus,"City, Sweden",SE,Sweden,54008,64809,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_8,glassdoor_europe,DevOps Engineer,Adyen,"Capital, Italy",IT,Italy,50024,60028,EUR,Kubernetes;Jenkins;Linux,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_9,glassdoor_europe,Software Engineer,Adyen,"Capital, Denmark",DK,Denmark,97587,117104,EUR,Java;React;Python,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_10,glassdoor_europe,DevOps Engineer,BlaBlaCar,"Capital, Spain",ES,Spain,99211,119053,EUR,Kubernetes;AWS;Jenkins,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_11,glassdoor_europe,Staff Engineer,OVH,"City, Switzerland",CH,Switzerland,91715,110058,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_12,glassdoor_europe,Technical Lead,ASML,"Capital, France",FR,France,88276,105931,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_13,glassdoor_europe,Backend Developer,Adyen,"Capital, Switzerland",CH,Switzerland,106188,127425,EUR,Java;PostgreSQL;Redis,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_14,glassdoor_europe,Frontend Developer,SAP,"Capital, United Kingdom",GB,United Kingdom,70160,84192,EUR,JavaScript;HTML;CSS,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_15,glassdoor_europe,Product Manager,BlaBlaCar,"City, Norway",NO,Norway,136998,164397,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_16,glassdoor_europe,Data Analyst,Skype,"Capital, Switzerland",CH,Switzerland,99460,119352,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_17,glassdoor_europe,Data Analyst,Zalando,"Capital, Belgium",BE,Belgium,111513,133815,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_18,glassdoor_europe,Staff Engineer,Skype,"City, Spain",ES,Spain,36916,44299,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_19,glassdoor_europe,Data Scientist,Klarna,"City, Switzerland",CH,Switzerland,163674,196408,EUR,Machine Learning;SQL;Python,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_20,glassdoor_europe,Staff Engineer,Booking.com,"City, Italy",IT,Italy,69247,83096,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_21,glassdoor_europe,Machine Learning Engineer,Ericsson,"Capital, Norway",NO,Norway,97973,117567,EUR,MLflow;Python;TensorFlow,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_22,glassdoor_europe,Backend Developer,Skype,"City, Switzerland",CH,Switzerland,152029,182434,EUR,Python;Java;Redis,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_23,glassdoor_europe,Product Manager,Zalando,"Capital, Germany",DE,Germany,109516,131419,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_24,glassdoor_europe,Site Reliability Engineer,Siemens,"City, Sweden",SE,Sweden,66712,80054,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_25,glassdoor_europe,DevOps Engineer,King Digital Entertainment,"Capital, France",FR,France,40318,48381,EUR,Docker;Kubernetes;Linux,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_26,glassdoor_europe,Technical Lead,Wise,"City, Spain",ES,Spain,46506,55807,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_27,glassdoor_europe,Technical Lead,Nokia,"Capital, Spain",ES,Spain,90747,108896,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_28,glassdoor_europe,Data Scientist,Criteo,"City, Italy",IT,Italy,66318,79581,EUR,R;SQL;TensorFlow,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_29,glassdoor_europe,Data Analyst,Amadeus,"City, Austria",AT,Austria,42140,50568,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_30,glassdoor_europe,Technical Lead,Klarna,"Capital, Denmark",DK,Denmark,66858,80229,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_31,glassdoor_europe,Data Analyst,Nokia,"Capital, Norway",NO,Norway,70716,84859,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_32,glassdoor_europe,Site Reliability Engineer,SAP,"City, Netherlands",NL,Netherlands,70860,85032,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_33,glassdoor_europe,Data Engineer,Booking.com,"Capital, Germany",DE,Germany,126207,151448,EUR,Airflow;Python;SQL,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_34,glassdoor_europe,Machine Learning Engineer,N26,"City, Norway",NO,Norway,119960,143952,EUR,MLflow;PyTorch;TensorFlow,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_35,glassdoor_europe,Machine Learning Engineer,Revolut,"City, Germany",DE,Germany,108678,130413,EUR,PyTorch;MLflow;Docker,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_36,glassdoor_europe,Machine Learning Engineer,Supercell,"Capital, Netherlands",NL,Netherlands,126882,152258,EUR,Docker;PyTorch;Python,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_37,glassdoor_europe,Site Reliability Engineer,Klarna,"Capital, Switzerland",CH,Switzerland,110750,132900,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_38,glassdoor_europe,Site Reliability Engineer,ARM,"City, Norway",NO,Norway,88448,106137,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_39,glassdoor_europe,Product Manager,Skype,"Capital, Netherlands",NL,Netherlands,55826,66991,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_40,glassdoor_europe,DevOps Engineer,Philips,"City, Spain",ES,Spain,99580,119496,EUR,Jenkins;Kubernetes;Docker,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_41,glassdoor_europe,Product Manager,Spotify,"Capital, Spain",ES,Spain,42113,50535,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_42,glassdoor_europe,Data Engineer,Wise,"Capital, Norway",NO,Norway,60168,72201,EUR,SQL;Spark;Kafka,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_43,glassdoor_europe,Technical Lead,Ericsson,"City, Norway",NO,Norway,48241,57889,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_44,glassdoor_europe,Frontend Developer,Revolut,"Capital, Netherlands",NL,Netherlands,100722,120866,EUR,Vue.js;JavaScript;CSS,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_45,glassdoor_europe,Software Engineer,Revolut,"Capital, Germany",DE,Germany,102945,123534,EUR,React;JavaScript;Docker,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_46,glassdoor_europe,Data Engineer,Philips,"City, Switzerland",CH,Switzerland,141924,170308,EUR,SQL;Spark;Kafka,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_47,glassdoor_europe,Product Manager,Criteo,"Capital, Sweden",SE,Sweden,106136,127363,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_48,glassdoor_europe,Product Manager,Dassault Systemes,"Capital, United Kingdom",GB,United Kingdom,63252,75902,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_49,glassdoor_europe,Data Analyst,Ericsson,"Capital, Sweden",SE,Sweden,99021,118825,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_50,glassdoor_europe,Frontend Developer,Klarna,"Capital, Norway",NO,Norway,122318,146781,EUR,Vue.js;React;HTML,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_51,glassdoor_europe,Backend Developer,Nokia,"City, Spain",ES,Spain,68929,82714,EUR,Python;Java;Redis,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_52,glassdoor_europe,DevOps Engineer,Ericsson,"Capital, United Kingdom",GB,United Kingdom,108302,129962,EUR,Linux;Kubernetes;Docker,3,european_market_data,2025-07-02T11:14:24.134233
+glassdoor_europe_53,glassdoor_europe,Machine Learning Engineer,Supercell,"City, Sweden",SE,Sweden,57526,69031,EUR,TensorFlow;MLflow;Docker,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_54,glassdoor_europe,Backend Developer,Zalando,"City, Spain",ES,Spain,69497,83396,EUR,Redis;PostgreSQL;Python,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_55,glassdoor_europe,Data Analyst,ASML,"Capital, United Kingdom",GB,United Kingdom,108300,129960,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_56,glassdoor_europe,Frontend Developer,Nokia,"City, Norway",NO,Norway,76216,91459,EUR,JavaScript;React;Vue.js,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_57,glassdoor_europe,Site Reliability Engineer,Philips,"City, Italy",IT,Italy,78268,93921,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_58,glassdoor_europe,DevOps Engineer,King Digital Entertainment,"City, Switzerland",CH,Switzerland,176277,211532,EUR,Docker;Jenkins;AWS,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_59,glassdoor_europe,DevOps Engineer,Booking.com,"City, Belgium",BE,Belgium,69288,83145,EUR,Linux;Jenkins;Kubernetes,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_60,glassdoor_europe,Data Engineer,Ericsson,"Capital, Belgium",BE,Belgium,73615,88338,EUR,Python;Spark;Airflow,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_61,glassdoor_europe,Machine Learning Engineer,Booking.com,"Capital, Denmark",DK,Denmark,59582,71498,EUR,Python;Docker;TensorFlow,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_62,glassdoor_europe,Full Stack Developer,Amadeus,"Capital, United Kingdom",GB,United Kingdom,84083,100899,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_63,glassdoor_europe,Data Scientist,King Digital Entertainment,"City, Austria",AT,Austria,98362,118034,EUR,Python;SQL;Machine Learning,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_64,glassdoor_europe,Frontend Developer,Klarna,"City, Italy",IT,Italy,55543,66651,EUR,Vue.js;CSS;HTML,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_65,glassdoor_europe,Backend Developer,ASML,"City, Germany",DE,Germany,95572,114686,EUR,Java;Python;Redis,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_66,glassdoor_europe,Full Stack Developer,OVH,"Capital, Spain",ES,Spain,35664,42796,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_67,glassdoor_europe,Backend Developer,ASML,"Capital, Netherlands",NL,Netherlands,112490,134988,EUR,Java;Node.js;Redis,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_68,glassdoor_europe,Frontend Developer,Skype,"City, Austria",AT,Austria,83460,100152,EUR,JavaScript;CSS;Vue.js,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_69,glassdoor_europe,Data Engineer,Adyen,"City, Denmark",DK,Denmark,99421,119305,EUR,Airflow;SQL;Spark,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_70,glassdoor_europe,Product Manager,Zalando,"City, Norway",NO,Norway,92506,111007,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_71,glassdoor_europe,Backend Developer,SAP,"City, Spain",ES,Spain,43371,52045,EUR,Redis;Node.js;Python,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_72,glassdoor_europe,Data Analyst,Booking.com,"City, Netherlands",NL,Netherlands,118425,142110,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_73,glassdoor_europe,Technical Lead,Revolut,"Capital, Germany",DE,Germany,81717,98060,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_74,glassdoor_europe,Backend Developer,Ericsson,"City, Norway",NO,Norway,101490,121788,EUR,PostgreSQL;Node.js;Python,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_75,glassdoor_europe,Software Engineer,DeepMind,"Capital, Sweden",SE,Sweden,50975,61170,EUR,Docker;React;JavaScript,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_76,glassdoor_europe,Principal Engineer,Ericsson,"Capital, France",FR,France,91678,110013,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_77,glassdoor_europe,Site Reliability Engineer,OVH,"Capital, Sweden",SE,Sweden,75877,91052,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_78,glassdoor_europe,Product Manager,OVH,"Capital, Netherlands",NL,Netherlands,69549,83458,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_79,glassdoor_europe,Data Scientist,Revolut,"Capital, Switzerland",CH,Switzerland,152023,182427,EUR,R;SQL;TensorFlow,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_80,glassdoor_europe,Technical Lead,Skype,"City, Germany",DE,Germany,72451,86941,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_81,glassdoor_europe,DevOps Engineer,Amadeus,"City, Sweden",SE,Sweden,101722,122066,EUR,Linux;AWS;Jenkins,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_82,glassdoor_europe,Full Stack Developer,DeepMind,"City, Italy",IT,Italy,62585,75102,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_83,glassdoor_europe,Principal Engineer,Revolut,"Capital, Germany",DE,Germany,115314,138376,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_84,glassdoor_europe,Full Stack Developer,Zalando,"City, Italy",IT,Italy,43112,51734,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_85,glassdoor_europe,Data Engineer,N26,"Capital, Sweden",SE,Sweden,97544,117052,EUR,Spark;Kafka;SQL,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_86,glassdoor_europe,Site Reliability Engineer,Philips,"Capital, Germany",DE,Germany,49188,59025,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_87,glassdoor_europe,Staff Engineer,Philips,"Capital, Spain",ES,Spain,41879,50254,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_88,glassdoor_europe,Data Engineer,Skype,"Capital, France",FR,France,55491,66589,EUR,Python;Kafka;SQL,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_89,glassdoor_europe,Data Analyst,Spotify,"Capital, Denmark",DK,Denmark,162687,195224,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_90,glassdoor_europe,Machine Learning Engineer,Revolut,"City, Spain",ES,Spain,97687,117224,EUR,PyTorch;Docker;TensorFlow,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_91,glassdoor_europe,Frontend Developer,N26,"City, Italy",IT,Italy,77286,92743,EUR,JavaScript;CSS;HTML,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_92,glassdoor_europe,Technical Lead,Nokia,"City, France",FR,France,38637,46364,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_93,glassdoor_europe,Technical Lead,ARM,"Capital, Belgium",BE,Belgium,52264,62716,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_94,glassdoor_europe,Product Manager,DeepMind,"Capital, Denmark",DK,Denmark,101631,121957,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_95,glassdoor_europe,Data Analyst,ASML,"Capital, Belgium",BE,Belgium,67747,81296,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_96,glassdoor_europe,Data Engineer,Ericsson,"City, United Kingdom",GB,United Kingdom,84133,100959,EUR,Python;Kafka;Spark,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_97,glassdoor_europe,Staff Engineer,Zalando,"Capital, Belgium",BE,Belgium,78589,94306,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_98,glassdoor_europe,Staff Engineer,Wise,"City, Spain",ES,Spain,90238,108285,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_99,glassdoor_europe,Machine Learning Engineer,Philips,"Capital, Belgium",BE,Belgium,87237,104684,EUR,Python;Docker;PyTorch,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_100,glassdoor_europe,Backend Developer,Adyen,"Capital, France",FR,France,105054,126064,EUR,Python;Java;Node.js,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_101,glassdoor_europe,Frontend Developer,Revolut,"City, Austria",AT,Austria,56274,67528,EUR,JavaScript;Vue.js;HTML,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_102,glassdoor_europe,Site Reliability Engineer,OVH,"City, United Kingdom",GB,United Kingdom,106966,128359,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_103,glassdoor_europe,Data Scientist,Nokia,"City, Italy",IT,Italy,37680,45216,EUR,Machine Learning;Python;SQL,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_104,glassdoor_europe,Backend Developer,Criteo,"Capital, Belgium",BE,Belgium,117540,141048,EUR,PostgreSQL;Node.js;Redis,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_105,glassdoor_europe,Product Manager,Criteo,"Capital, Netherlands",NL,Netherlands,119774,143728,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_106,glassdoor_europe,Data Engineer,Siemens,"City, Denmark",DK,Denmark,59388,71265,EUR,Python;Spark;SQL,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_107,glassdoor_europe,Staff Engineer,Skype,"Capital, Italy",IT,Italy,68488,82185,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_108,glassdoor_europe,Data Analyst,OVH,"City, Italy",IT,Italy,95782,114938,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_109,glassdoor_europe,Data Analyst,Philips,"Capital, Norway",NO,Norway,66552,79862,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_110,glassdoor_europe,Data Engineer,King Digital Entertainment,"City, Switzerland",CH,Switzerland,194920,233904,EUR,Airflow;Kafka;Spark,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_111,glassdoor_europe,Data Scientist,Amadeus,"City, France",FR,France,68656,82387,EUR,SQL;Python;TensorFlow,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_112,glassdoor_europe,Backend Developer,King Digital Entertainment,"Capital, Germany",DE,Germany,89998,107997,EUR,Node.js;Java;Redis,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_113,glassdoor_europe,DevOps Engineer,DeepMind,"Capital, Italy",IT,Italy,41753,50103,EUR,Jenkins;Docker;Kubernetes,3,european_market_data,2025-07-02T11:14:24.135399
+glassdoor_europe_114,glassdoor_europe,Software Engineer,Skype,"Capital, Denmark",DK,Denmark,91446,109735,EUR,Docker;Python;JavaScript,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_115,glassdoor_europe,DevOps Engineer,SAP,"Capital, Italy",IT,Italy,37884,45460,EUR,Jenkins;Linux;AWS,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_116,glassdoor_europe,Data Analyst,ARM,"Capital, Switzerland",CH,Switzerland,209011,250813,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_117,glassdoor_europe,Frontend Developer,Nokia,"City, Denmark",DK,Denmark,75250,90300,EUR,Vue.js;HTML;CSS,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_118,glassdoor_europe,Data Engineer,DeepMind,"City, France",FR,France,104559,125470,EUR,Kafka;Airflow;Python,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_119,glassdoor_europe,Data Scientist,ARM,"Capital, Spain",ES,Spain,96546,115855,EUR,SQL;R;Python,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_120,glassdoor_europe,Frontend Developer,Booking.com,"Capital, Belgium",BE,Belgium,89137,106964,EUR,HTML;Vue.js;CSS,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_121,glassdoor_europe,Frontend Developer,Skype,"Capital, Austria",AT,Austria,85416,102499,EUR,CSS;HTML;React,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_122,glassdoor_europe,Data Scientist,Booking.com,"City, France",FR,France,99508,119409,EUR,SQL;Machine Learning;TensorFlow,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_123,glassdoor_europe,DevOps Engineer,Siemens,"Capital, France",FR,France,71952,86342,EUR,Linux;Jenkins;Docker,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_124,glassdoor_europe,Software Engineer,Amadeus,"Capital, Sweden",SE,Sweden,98131,117757,EUR,Python;Java;React,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_125,glassdoor_europe,Principal Engineer,DeepMind,"City, Netherlands",NL,Netherlands,134620,161544,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_126,glassdoor_europe,Principal Engineer,Spotify,"City, France",FR,France,56675,68010,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_127,glassdoor_europe,Technical Lead,King Digital Entertainment,"Capital, Netherlands",NL,Netherlands,82204,98644,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_128,glassdoor_europe,Data Analyst,Ericsson,"Capital, Austria",AT,Austria,90919,109102,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_129,glassdoor_europe,Data Scientist,Booking.com,"Capital, United Kingdom",GB,United Kingdom,89153,106983,EUR,TensorFlow;SQL;R,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_130,glassdoor_europe,Principal Engineer,Spotify,"City, Italy",IT,Italy,88825,106590,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_131,glassdoor_europe,Data Analyst,Skype,"Capital, Austria",AT,Austria,79028,94833,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_132,glassdoor_europe,DevOps Engineer,Klarna,"City, Belgium",BE,Belgium,107860,129432,EUR,Kubernetes;Jenkins;Docker,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_133,glassdoor_europe,Software Architect,SAP,"Capital, Netherlands",NL,Netherlands,82797,99356,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_134,glassdoor_europe,Product Manager,Zalando,"Capital, Italy",IT,Italy,74337,89204,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_135,glassdoor_europe,Backend Developer,Klarna,"City, Belgium",BE,Belgium,64016,76819,EUR,Java;PostgreSQL;Node.js,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_136,glassdoor_europe,Machine Learning Engineer,ASML,"Capital, Denmark",DK,Denmark,58534,70240,EUR,PyTorch;TensorFlow;Python,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_137,glassdoor_europe,Machine Learning Engineer,Ericsson,"City, Denmark",DK,Denmark,110562,132674,EUR,Python;PyTorch;Docker,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_138,glassdoor_europe,Data Engineer,Klarna,"City, Austria",AT,Austria,67781,81337,EUR,Kafka;SQL;Airflow,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_139,glassdoor_europe,Full Stack Developer,Skype,"Capital, Sweden",SE,Sweden,52056,62467,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_140,glassdoor_europe,Full Stack Developer,BlaBlaCar,"City, Austria",AT,Austria,103791,124549,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_141,glassdoor_europe,DevOps Engineer,Siemens,"City, Austria",AT,Austria,101934,122320,EUR,Linux;AWS;Jenkins,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_142,glassdoor_europe,Data Scientist,Dassault Systemes,"City, Austria",AT,Austria,77709,93250,EUR,Python;SQL;TensorFlow,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_143,glassdoor_europe,Product Manager,Zalando,"City, Germany",DE,Germany,109779,131734,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_144,glassdoor_europe,DevOps Engineer,Amadeus,"City, France",FR,France,134097,160916,EUR,Linux;Jenkins;Kubernetes,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_145,glassdoor_europe,Staff Engineer,Spotify,"City, Germany",DE,Germany,83850,100620,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_146,glassdoor_europe,Frontend Developer,Siemens,"City, Italy",IT,Italy,47344,56812,EUR,Vue.js;React;JavaScript,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_147,glassdoor_europe,Principal Engineer,OVH,"Capital, Norway",NO,Norway,131781,158137,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_148,glassdoor_europe,Site Reliability Engineer,Dassault Systemes,"City, Italy",IT,Italy,60499,72598,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_149,glassdoor_europe,Product Manager,Ericsson,"Capital, Germany",DE,Germany,92935,111522,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_150,glassdoor_europe,Software Engineer,OVH,"Capital, Switzerland",CH,Switzerland,180742,216890,EUR,Docker;React;Java,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_151,glassdoor_europe,Product Manager,King Digital Entertainment,"City, Spain",ES,Spain,67911,81493,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_152,glassdoor_europe,Software Architect,ASML,"Capital, Switzerland",CH,Switzerland,213637,256364,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_153,glassdoor_europe,Machine Learning Engineer,Philips,"City, Belgium",BE,Belgium,57181,68617,EUR,PyTorch;TensorFlow;Python,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_154,glassdoor_europe,Site Reliability Engineer,Booking.com,"Capital, Spain",ES,Spain,56951,68341,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_155,glassdoor_europe,Product Manager,ASML,"City, Switzerland",CH,Switzerland,165456,198547,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_156,glassdoor_europe,Technical Lead,Booking.com,"City, Netherlands",NL,Netherlands,159256,191107,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_157,glassdoor_europe,Frontend Developer,Criteo,"City, Switzerland",CH,Switzerland,131919,158302,EUR,JavaScript;HTML;CSS,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_158,glassdoor_europe,Technical Lead,ARM,"Capital, Austria",AT,Austria,54833,65799,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_159,glassdoor_europe,DevOps Engineer,Spotify,"City, Germany",DE,Germany,104710,125652,EUR,Linux;Docker;AWS,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_160,glassdoor_europe,Staff Engineer,Revolut,"City, Austria",AT,Austria,58264,69916,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_161,glassdoor_europe,Technical Lead,DeepMind,"City, Germany",DE,Germany,55696,66835,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_162,glassdoor_europe,Technical Lead,Adyen,"Capital, Belgium",BE,Belgium,54573,65487,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_163,glassdoor_europe,Technical Lead,ARM,"Capital, Italy",IT,Italy,31173,37407,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_164,glassdoor_europe,Principal Engineer,ARM,"Capital, Denmark",DK,Denmark,135331,162397,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_165,glassdoor_europe,DevOps Engineer,OVH,"Capital, Austria",AT,Austria,65236,78283,EUR,AWS;Kubernetes;Linux,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_166,glassdoor_europe,Data Engineer,Skype,"Capital, Norway",NO,Norway,84840,101808,EUR,Airflow;SQL;Python,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_167,glassdoor_europe,DevOps Engineer,Philips,"Capital, Belgium",BE,Belgium,75690,90828,EUR,AWS;Linux;Jenkins,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_168,glassdoor_europe,Data Analyst,Supercell,"Capital, Germany",DE,Germany,86882,104258,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_169,glassdoor_europe,Principal Engineer,Philips,"Capital, Norway",NO,Norway,64614,77536,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_170,glassdoor_europe,Machine Learning Engineer,Zalando,"City, Sweden",SE,Sweden,79575,95490,EUR,TensorFlow;Docker;PyTorch,3,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_171,glassdoor_europe,Site Reliability Engineer,Ericsson,"City, Norway",NO,Norway,60856,73027,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_172,glassdoor_europe,Site Reliability Engineer,BlaBlaCar,"Capital, Spain",ES,Spain,49798,59757,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_173,glassdoor_europe,Product Manager,Nokia,"City, France",FR,France,97324,116788,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.136451
+glassdoor_europe_174,glassdoor_europe,Site Reliability Engineer,Dassault Systemes,"Capital, Netherlands",NL,Netherlands,88738,106485,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_175,glassdoor_europe,Data Analyst,Wise,"Capital, Denmark",DK,Denmark,156555,187866,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_176,glassdoor_europe,Staff Engineer,N26,"Capital, Denmark",DK,Denmark,128574,154288,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_177,glassdoor_europe,Site Reliability Engineer,Criteo,"City, Denmark",DK,Denmark,62815,75378,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_178,glassdoor_europe,Backend Developer,Supercell,"Capital, United Kingdom",GB,United Kingdom,57464,68956,EUR,Python;PostgreSQL;Node.js,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_179,glassdoor_europe,Machine Learning Engineer,Nokia,"City, United Kingdom",GB,United Kingdom,125025,150030,EUR,Python;Docker;TensorFlow,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_180,glassdoor_europe,Site Reliability Engineer,BlaBlaCar,"Capital, Italy",IT,Italy,28228,33873,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_181,glassdoor_europe,DevOps Engineer,Ericsson,"City, Italy",IT,Italy,84553,101463,EUR,AWS;Kubernetes;Docker,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_182,glassdoor_europe,Backend Developer,Siemens,"City, Italy",IT,Italy,54783,65739,EUR,PostgreSQL;Node.js;Java,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_183,glassdoor_europe,Full Stack Developer,Criteo,"Capital, Italy",IT,Italy,95904,115084,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_184,glassdoor_europe,Backend Developer,Amadeus,"City, Norway",NO,Norway,145185,174222,EUR,Redis;Python;Java,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_185,glassdoor_europe,Data Engineer,Zalando,"Capital, Spain",ES,Spain,38805,46566,EUR,Spark;SQL;Airflow,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_186,glassdoor_europe,Site Reliability Engineer,ASML,"City, Sweden",SE,Sweden,105397,126476,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_187,glassdoor_europe,Backend Developer,ASML,"City, France",FR,France,84155,100986,EUR,PostgreSQL;Java;Python,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_188,glassdoor_europe,Technical Lead,King Digital Entertainment,"Capital, Belgium",BE,Belgium,62578,75093,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_189,glassdoor_europe,Software Architect,Siemens,"Capital, Switzerland",CH,Switzerland,81173,97407,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_190,glassdoor_europe,Full Stack Developer,Dassault Systemes,"City, Germany",DE,Germany,83898,100677,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_191,glassdoor_europe,Site Reliability Engineer,Nokia,"Capital, Denmark",DK,Denmark,94656,113587,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_192,glassdoor_europe,Full Stack Developer,Ericsson,"City, Sweden",SE,Sweden,63640,76368,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_193,glassdoor_europe,Data Analyst,Klarna,"City, Belgium",BE,Belgium,61668,74001,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_194,glassdoor_europe,Machine Learning Engineer,Spotify,"Capital, Austria",AT,Austria,73162,87794,EUR,Docker;PyTorch;MLflow,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_195,glassdoor_europe,Software Architect,SAP,"Capital, Germany",DE,Germany,58984,70780,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_196,glassdoor_europe,Data Scientist,Nokia,"Capital, Sweden",SE,Sweden,109428,131313,EUR,Machine Learning;SQL;TensorFlow,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_197,glassdoor_europe,Technical Lead,Wise,"City, Spain",ES,Spain,47645,57174,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_198,glassdoor_europe,Machine Learning Engineer,Dassault Systemes,"Capital, Austria",AT,Austria,124429,149314,EUR,MLflow;TensorFlow;Python,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_199,glassdoor_europe,Data Engineer,N26,"Capital, Switzerland",CH,Switzerland,97184,116620,EUR,Airflow;SQL;Kafka,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_200,glassdoor_europe,Technical Lead,SAP,"Capital, Netherlands",NL,Netherlands,136588,163905,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_201,glassdoor_europe,Frontend Developer,Wise,"City, Belgium",BE,Belgium,70840,85008,EUR,React;HTML;JavaScript,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_202,glassdoor_europe,Principal Engineer,Zalando,"City, Belgium",BE,Belgium,66461,79753,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_203,glassdoor_europe,Frontend Developer,Spotify,"City, Germany",DE,Germany,106443,127731,EUR,JavaScript;CSS;HTML,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_204,glassdoor_europe,Data Scientist,Skype,"Capital, Austria",AT,Austria,57604,69124,EUR,SQL;TensorFlow;Python,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_205,glassdoor_europe,Backend Developer,Skype,"Capital, Spain",ES,Spain,90349,108418,EUR,Java;PostgreSQL;Python,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_206,glassdoor_europe,Technical Lead,Skype,"City, Austria",AT,Austria,119154,142984,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_207,glassdoor_europe,Product Manager,King Digital Entertainment,"Capital, France",FR,France,36695,44034,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_208,glassdoor_europe,Machine Learning Engineer,Booking.com,"City, Austria",AT,Austria,73196,87835,EUR,PyTorch;TensorFlow;Python,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_209,glassdoor_europe,Software Engineer,Philips,"Capital, Spain",ES,Spain,54288,65145,EUR,Java;Docker;Python,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_210,glassdoor_europe,Software Architect,Adyen,"Capital, Denmark",DK,Denmark,77089,92506,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_211,glassdoor_europe,Frontend Developer,Criteo,"City, United Kingdom",GB,United Kingdom,51997,62396,EUR,CSS;JavaScript;Vue.js,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_212,glassdoor_europe,Data Scientist,Ericsson,"Capital, Austria",AT,Austria,82041,98449,EUR,TensorFlow;R;SQL,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_213,glassdoor_europe,DevOps Engineer,King Digital Entertainment,"Capital, Norway",NO,Norway,97034,116440,EUR,Jenkins;Kubernetes;Linux,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_214,glassdoor_europe,DevOps Engineer,Spotify,"City, United Kingdom",GB,United Kingdom,99252,119102,EUR,AWS;Jenkins;Docker,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_215,glassdoor_europe,Staff Engineer,DeepMind,"Capital, United Kingdom",GB,United Kingdom,97780,117336,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_216,glassdoor_europe,Technical Lead,Zalando,"Capital, Italy",IT,Italy,118330,141996,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_217,glassdoor_europe,Full Stack Developer,Criteo,"City, Belgium",BE,Belgium,103801,124561,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_218,glassdoor_europe,Frontend Developer,Spotify,"City, Belgium",BE,Belgium,85315,102378,EUR,React;HTML;Vue.js,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_219,glassdoor_europe,Technical Lead,Dassault Systemes,"City, Italy",IT,Italy,69639,83566,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_220,glassdoor_europe,DevOps Engineer,ASML,"Capital, Belgium",BE,Belgium,60152,72182,EUR,Docker;Jenkins;Linux,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_221,glassdoor_europe,Machine Learning Engineer,Siemens,"Capital, Denmark",DK,Denmark,69418,83301,EUR,Python;Docker;TensorFlow,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_222,glassdoor_europe,Data Analyst,N26,"Capital, Netherlands",NL,Netherlands,92188,110625,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_223,glassdoor_europe,Staff Engineer,Supercell,"Capital, Denmark",DK,Denmark,98059,117670,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_224,glassdoor_europe,Data Scientist,BlaBlaCar,"Capital, Sweden",SE,Sweden,66092,79310,EUR,SQL;Python;Machine Learning,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_225,glassdoor_europe,Data Analyst,Philips,"Capital, Germany",DE,Germany,138592,166310,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_226,glassdoor_europe,Backend Developer,Criteo,"City, Denmark",DK,Denmark,124650,149580,EUR,Node.js;Redis;Java,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_227,glassdoor_europe,Data Analyst,OVH,"City, Germany",DE,Germany,94849,113818,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_228,glassdoor_europe,Data Analyst,Dassault Systemes,"City, Norway",NO,Norway,126835,152202,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_229,glassdoor_europe,Data Scientist,BlaBlaCar,"City, Norway",NO,Norway,99628,119553,EUR,Machine Learning;TensorFlow;Python,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_230,glassdoor_europe,Software Engineer,Revolut,"Capital, Belgium",BE,Belgium,69476,83371,EUR,JavaScript;Python;Docker,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_231,glassdoor_europe,Product Manager,DeepMind,"City, Switzerland",CH,Switzerland,80479,96574,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_232,glassdoor_europe,Full Stack Developer,ARM,"City, Norway",NO,Norway,99628,119553,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_233,glassdoor_europe,Principal Engineer,Adyen,"City, Denmark",DK,Denmark,71068,85281,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_234,glassdoor_europe,Full Stack Developer,Adyen,"City, Sweden",SE,Sweden,120675,144810,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_235,glassdoor_europe,Frontend Developer,N26,"Capital, Netherlands",NL,Netherlands,83269,99922,EUR,JavaScript;React;CSS,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_236,glassdoor_europe,DevOps Engineer,King Digital Entertainment,"Capital, Denmark",DK,Denmark,131122,157346,EUR,Jenkins;AWS;Docker,3,european_market_data,2025-07-02T11:14:24.137455
+glassdoor_europe_237,glassdoor_europe,Data Scientist,ARM,"City, Netherlands",NL,Netherlands,141586,169903,EUR,Python;R;SQL,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_238,glassdoor_europe,Technical Lead,Wise,"City, Germany",DE,Germany,90655,108786,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_239,glassdoor_europe,Product Manager,SAP,"City, Belgium",BE,Belgium,117928,141513,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_240,glassdoor_europe,Technical Lead,King Digital Entertainment,"Capital, Spain",ES,Spain,82453,98943,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_241,glassdoor_europe,Site Reliability Engineer,Spotify,"City, Switzerland",CH,Switzerland,211227,253472,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_242,glassdoor_europe,DevOps Engineer,Amadeus,"Capital, Italy",IT,Italy,90192,108230,EUR,Docker;Linux;Kubernetes,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_243,glassdoor_europe,Staff Engineer,Supercell,"City, United Kingdom",GB,United Kingdom,70428,84513,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_244,glassdoor_europe,Data Scientist,DeepMind,"Capital, Austria",AT,Austria,63562,76274,EUR,TensorFlow;SQL;R,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_245,glassdoor_europe,Data Analyst,King Digital Entertainment,"Capital, Netherlands",NL,Netherlands,135778,162933,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_246,glassdoor_europe,Data Scientist,Siemens,"City, Sweden",SE,Sweden,97479,116974,EUR,Machine Learning;TensorFlow;Python,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_247,glassdoor_europe,Staff Engineer,Klarna,"City, United Kingdom",GB,United Kingdom,99861,119833,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_248,glassdoor_europe,Backend Developer,Supercell,"Capital, Austria",AT,Austria,94810,113772,EUR,Node.js;Redis;Python,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_249,glassdoor_europe,Principal Engineer,BlaBlaCar,"Capital, France",FR,France,38924,46708,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_250,glassdoor_europe,Staff Engineer,Adyen,"Capital, United Kingdom",GB,United Kingdom,79632,95558,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_251,glassdoor_europe,Backend Developer,BlaBlaCar,"Capital, France",FR,France,83958,100749,EUR,Node.js;Redis;Python,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_252,glassdoor_europe,Software Architect,Supercell,"City, Belgium",BE,Belgium,51994,62392,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_253,glassdoor_europe,Site Reliability Engineer,N26,"Capital, Austria",AT,Austria,73611,88333,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_254,glassdoor_europe,Full Stack Developer,Siemens,"City, Italy",IT,Italy,48851,58621,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_255,glassdoor_europe,Data Analyst,Supercell,"Capital, Italy",IT,Italy,102072,122486,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_256,glassdoor_europe,Data Analyst,Amadeus,"Capital, Belgium",BE,Belgium,72379,86854,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_257,glassdoor_europe,Frontend Developer,OVH,"Capital, Spain",ES,Spain,76488,91785,EUR,JavaScript;HTML;React,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_258,glassdoor_europe,Full Stack Developer,BlaBlaCar,"City, Belgium",BE,Belgium,63521,76225,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_259,glassdoor_europe,Data Scientist,King Digital Entertainment,"City, Germany",DE,Germany,78825,94590,EUR,Python;SQL;Machine Learning,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_260,glassdoor_europe,Principal Engineer,ASML,"City, Germany",DE,Germany,103276,123931,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_261,glassdoor_europe,Data Engineer,OVH,"Capital, Norway",NO,Norway,83632,100358,EUR,SQL;Airflow;Kafka,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_262,glassdoor_europe,Frontend Developer,Nokia,"Capital, Spain",ES,Spain,74379,89254,EUR,CSS;HTML;JavaScript,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_263,glassdoor_europe,Technical Lead,Skype,"Capital, France",FR,France,113623,136347,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_264,glassdoor_europe,Site Reliability Engineer,N26,"City, Netherlands",NL,Netherlands,120729,144874,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_265,glassdoor_europe,Product Manager,Spotify,"City, United Kingdom",GB,United Kingdom,57589,69106,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_266,glassdoor_europe,Data Scientist,Skype,"Capital, Switzerland",CH,Switzerland,133704,160444,EUR,Python;R;TensorFlow,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_267,glassdoor_europe,Software Engineer,Supercell,"City, Germany",DE,Germany,54407,65288,EUR,JavaScript;Docker;Java,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_268,glassdoor_europe,Site Reliability Engineer,King Digital Entertainment,"Capital, United Kingdom",GB,United Kingdom,51219,61462,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_269,glassdoor_europe,Full Stack Developer,Dassault Systemes,"City, Germany",DE,Germany,84112,100934,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_270,glassdoor_europe,Technical Lead,Zalando,"Capital, Switzerland",CH,Switzerland,95552,114662,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_271,glassdoor_europe,Product Manager,Nokia,"Capital, Austria",AT,Austria,66104,79324,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_272,glassdoor_europe,Full Stack Developer,OVH,"City, France",FR,France,66973,80367,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_273,glassdoor_europe,Site Reliability Engineer,SAP,"City, Spain",ES,Spain,33574,40288,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_274,glassdoor_europe,DevOps Engineer,ARM,"City, Spain",ES,Spain,47528,57033,EUR,Kubernetes;Jenkins;Docker,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_275,glassdoor_europe,Staff Engineer,DeepMind,"Capital, Belgium",BE,Belgium,86762,104114,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_276,glassdoor_europe,Machine Learning Engineer,Klarna,"Capital, Spain",ES,Spain,51429,61714,EUR,Python;TensorFlow;PyTorch,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_277,glassdoor_europe,Data Engineer,SAP,"Capital, France",FR,France,75893,91071,EUR,Python;Kafka;SQL,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_278,glassdoor_europe,Software Architect,ASML,"City, Spain",ES,Spain,82503,99003,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_279,glassdoor_europe,Data Analyst,N26,"City, Spain",ES,Spain,43813,52575,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_280,glassdoor_europe,Machine Learning Engineer,Nokia,"Capital, Austria",AT,Austria,88023,105627,EUR,Docker;TensorFlow;PyTorch,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_281,glassdoor_europe,Frontend Developer,Supercell,"Capital, Germany",DE,Germany,121072,145286,EUR,CSS;React;JavaScript,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_282,glassdoor_europe,Data Analyst,Booking.com,"Capital, Denmark",DK,Denmark,109077,130892,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_283,glassdoor_europe,Principal Engineer,Skype,"City, Norway",NO,Norway,150889,181066,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_284,glassdoor_europe,Frontend Developer,Supercell,"Capital, Belgium",BE,Belgium,85384,102460,EUR,Vue.js;HTML;CSS,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_285,glassdoor_europe,Staff Engineer,Klarna,"Capital, Austria",AT,Austria,62269,74722,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_286,glassdoor_europe,Machine Learning Engineer,Revolut,"City, Switzerland",CH,Switzerland,140062,168074,EUR,PyTorch;Python;MLflow,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_287,glassdoor_europe,Principal Engineer,BlaBlaCar,"Capital, Italy",IT,Italy,63461,76153,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_288,glassdoor_europe,Data Analyst,Klarna,"City, United Kingdom",GB,United Kingdom,68229,81874,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_289,glassdoor_europe,Site Reliability Engineer,Klarna,"City, Denmark",DK,Denmark,80297,96356,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_290,glassdoor_europe,Software Architect,SAP,"City, France",FR,France,45291,54349,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_291,glassdoor_europe,Backend Developer,Supercell,"City, Switzerland",CH,Switzerland,122424,146908,EUR,PostgreSQL;Python;Java,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_292,glassdoor_europe,Full Stack Developer,Zalando,"City, Spain",ES,Spain,41046,49255,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_293,glassdoor_europe,Full Stack Developer,King Digital Entertainment,"City, France",FR,France,68962,82754,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_294,glassdoor_europe,DevOps Engineer,Siemens,"Capital, Netherlands",NL,Netherlands,73800,88560,EUR,Kubernetes;Linux;Docker,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_295,glassdoor_europe,Site Reliability Engineer,Spotify,"City, Germany",DE,Germany,45344,54412,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_296,glassdoor_europe,Machine Learning Engineer,Zalando,"Capital, France",FR,France,140667,168800,EUR,TensorFlow;Python;Docker,3,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_297,glassdoor_europe,Software Architect,Nokia,"City, United Kingdom",GB,United Kingdom,68008,81609,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.138508
+glassdoor_europe_298,glassdoor_europe,Technical Lead,Siemens,"City, Norway",NO,Norway,119918,143901,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_299,glassdoor_europe,Data Analyst,Amadeus,"Capital, France",FR,France,87099,104518,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_300,glassdoor_europe,Full Stack Developer,Amadeus,"Capital, Italy",IT,Italy,62213,74655,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_301,glassdoor_europe,Principal Engineer,Siemens,"City, United Kingdom",GB,United Kingdom,74383,89259,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_302,glassdoor_europe,Full Stack Developer,Revolut,"Capital, Switzerland",CH,Switzerland,159806,191767,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_303,glassdoor_europe,Principal Engineer,Supercell,"Capital, Netherlands",NL,Netherlands,179305,215166,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_304,glassdoor_europe,Product Manager,Adyen,"City, Sweden",SE,Sweden,110782,132938,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_305,glassdoor_europe,Product Manager,N26,"City, Switzerland",CH,Switzerland,116346,139615,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_306,glassdoor_europe,Backend Developer,Zalando,"Capital, Spain",ES,Spain,58274,69928,EUR,Java;PostgreSQL;Python,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_307,glassdoor_europe,Frontend Developer,Skype,"Capital, Spain",ES,Spain,25256,30307,EUR,JavaScript;Vue.js;CSS,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_308,glassdoor_europe,Machine Learning Engineer,DeepMind,"Capital, Switzerland",CH,Switzerland,107512,129014,EUR,Docker;Python;TensorFlow,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_309,glassdoor_europe,Product Manager,ARM,"Capital, Sweden",SE,Sweden,59938,71925,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_310,glassdoor_europe,Data Engineer,DeepMind,"City, Belgium",BE,Belgium,60779,72934,EUR,Airflow;Python;SQL,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_311,glassdoor_europe,Technical Lead,OVH,"Capital, Norway",NO,Norway,103275,123930,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_312,glassdoor_europe,Frontend Developer,Supercell,"Capital, United Kingdom",GB,United Kingdom,64671,77605,EUR,CSS;React;Vue.js,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_313,glassdoor_europe,Technical Lead,Spotify,"Capital, United Kingdom",GB,United Kingdom,112126,134551,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_314,glassdoor_europe,Staff Engineer,Ericsson,"Capital, Norway",NO,Norway,119646,143575,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_315,glassdoor_europe,Backend Developer,Skype,"City, Denmark",DK,Denmark,96754,116104,EUR,Node.js;Java;Python,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_316,glassdoor_europe,Site Reliability Engineer,Adyen,"Capital, Denmark",DK,Denmark,57697,69236,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_317,glassdoor_europe,Frontend Developer,Wise,"Capital, United Kingdom",GB,United Kingdom,97842,117410,EUR,HTML;React;CSS,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_318,glassdoor_europe,Site Reliability Engineer,Spotify,"Capital, France",FR,France,53704,64444,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_319,glassdoor_europe,Staff Engineer,Zalando,"Capital, Germany",DE,Germany,45119,54142,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_320,glassdoor_europe,Data Analyst,BlaBlaCar,"City, Norway",NO,Norway,129196,155035,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_321,glassdoor_europe,DevOps Engineer,Siemens,"Capital, Austria",AT,Austria,69596,83515,EUR,Linux;AWS;Jenkins,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_322,glassdoor_europe,Software Engineer,Klarna,"City, Sweden",SE,Sweden,81264,97516,EUR,Docker;JavaScript;Python,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_323,glassdoor_europe,Frontend Developer,Skype,"Capital, United Kingdom",GB,United Kingdom,44128,52953,EUR,Vue.js;CSS;React,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_324,glassdoor_europe,DevOps Engineer,Amadeus,"City, Switzerland",CH,Switzerland,113601,136321,EUR,Jenkins;AWS;Docker,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_325,glassdoor_europe,Data Analyst,BlaBlaCar,"Capital, Austria",AT,Austria,49424,59308,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_326,glassdoor_europe,Data Analyst,DeepMind,"Capital, Spain",ES,Spain,63042,75650,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_327,glassdoor_europe,Backend Developer,OVH,"City, Netherlands",NL,Netherlands,48078,57693,EUR,Node.js;Redis;PostgreSQL,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_328,glassdoor_europe,DevOps Engineer,Amadeus,"City, Austria",AT,Austria,68368,82041,EUR,Jenkins;Docker;AWS,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_329,glassdoor_europe,DevOps Engineer,OVH,"City, Austria",AT,Austria,83268,99921,EUR,Jenkins;Docker;Linux,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_330,glassdoor_europe,Backend Developer,King Digital Entertainment,"City, Netherlands",NL,Netherlands,88904,106684,EUR,Node.js;PostgreSQL;Python,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_331,glassdoor_europe,Product Manager,Siemens,"City, Germany",DE,Germany,122724,147268,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_332,glassdoor_europe,Frontend Developer,Adyen,"City, Sweden",SE,Sweden,156150,187380,EUR,JavaScript;CSS;React,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_333,glassdoor_europe,Machine Learning Engineer,Zalando,"City, Italy",IT,Italy,85980,103176,EUR,PyTorch;MLflow;Docker,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_334,glassdoor_europe,Frontend Developer,OVH,"City, Norway",NO,Norway,96829,116194,EUR,HTML;Vue.js;React,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_335,glassdoor_europe,Technical Lead,DeepMind,"Capital, Netherlands",NL,Netherlands,71395,85674,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_336,glassdoor_europe,Principal Engineer,Siemens,"City, United Kingdom",GB,United Kingdom,120583,144699,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_337,glassdoor_europe,Product Manager,ASML,"Capital, Austria",AT,Austria,67645,81174,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_338,glassdoor_europe,DevOps Engineer,Dassault Systemes,"Capital, Sweden",SE,Sweden,67060,80472,EUR,Linux;Kubernetes;AWS,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_339,glassdoor_europe,Frontend Developer,BlaBlaCar,"Capital, France",FR,France,67596,81115,EUR,JavaScript;React;Vue.js,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_340,glassdoor_europe,Software Engineer,King Digital Entertainment,"City, Denmark",DK,Denmark,169399,203278,EUR,Java;Python;React,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_341,glassdoor_europe,Product Manager,Supercell,"Capital, Switzerland",CH,Switzerland,177694,213232,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_342,glassdoor_europe,Data Scientist,Klarna,"Capital, United Kingdom",GB,United Kingdom,127734,153280,EUR,Machine Learning;TensorFlow;Python,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_343,glassdoor_europe,Data Engineer,N26,"City, Sweden",SE,Sweden,87270,104724,EUR,Kafka;Python;Spark,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_344,glassdoor_europe,Data Engineer,Supercell,"City, Sweden",SE,Sweden,56215,67458,EUR,Python;Kafka;SQL,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_345,glassdoor_europe,Backend Developer,ASML,"Capital, Denmark",DK,Denmark,71020,85224,EUR,Java;Node.js;Redis,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_346,glassdoor_europe,Frontend Developer,BlaBlaCar,"City, Italy",IT,Italy,73501,88201,EUR,Vue.js;HTML;JavaScript,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_347,glassdoor_europe,Staff Engineer,Amadeus,"City, Switzerland",CH,Switzerland,96867,116240,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_348,glassdoor_europe,Site Reliability Engineer,Revolut,"Capital, Switzerland",CH,Switzerland,131642,157970,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_349,glassdoor_europe,Backend Developer,King Digital Entertainment,"Capital, Denmark",DK,Denmark,91909,110290,EUR,Node.js;PostgreSQL;Redis,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_350,glassdoor_europe,Backend Developer,Amadeus,"Capital, Germany",DE,Germany,66613,79935,EUR,Python;Redis;PostgreSQL,3,european_market_data,2025-07-02T11:14:24.139512
+glassdoor_europe_351,glassdoor_europe,Product Manager,ASML,"Capital, Norway",NO,Norway,114235,137082,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_352,glassdoor_europe,Machine Learning Engineer,Criteo,"Capital, Italy",IT,Italy,69195,83034,EUR,MLflow;PyTorch;TensorFlow,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_353,glassdoor_europe,Product Manager,Booking.com,"Capital, France",FR,France,60037,72044,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_354,glassdoor_europe,Full Stack Developer,Adyen,"Capital, Netherlands",NL,Netherlands,116202,139442,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_355,glassdoor_europe,Site Reliability Engineer,Booking.com,"City, Netherlands",NL,Netherlands,60161,72193,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_356,glassdoor_europe,Full Stack Developer,Klarna,"City, Germany",DE,Germany,91273,109527,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_357,glassdoor_europe,Staff Engineer,Criteo,"Capital, Denmark",DK,Denmark,125011,150013,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_358,glassdoor_europe,DevOps Engineer,OVH,"City, Belgium",BE,Belgium,63985,76782,EUR,Jenkins;Kubernetes;AWS,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_359,glassdoor_europe,Site Reliability Engineer,BlaBlaCar,"City, Netherlands",NL,Netherlands,139558,167469,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_360,glassdoor_europe,Site Reliability Engineer,N26,"Capital, Italy",IT,Italy,58512,70214,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_361,glassdoor_europe,Staff Engineer,Spotify,"Capital, Norway",NO,Norway,148317,177980,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_362,glassdoor_europe,Data Analyst,Booking.com,"City, Netherlands",NL,Netherlands,81649,97978,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_363,glassdoor_europe,Software Engineer,ASML,"City, Italy",IT,Italy,72379,86854,EUR,Java;Python;React,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_364,glassdoor_europe,Product Manager,DeepMind,"Capital, Sweden",SE,Sweden,40648,48777,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_365,glassdoor_europe,Data Scientist,Supercell,"Capital, Italy",IT,Italy,83514,100216,EUR,R;Machine Learning;SQL,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_366,glassdoor_europe,Frontend Developer,Criteo,"Capital, United Kingdom",GB,United Kingdom,96367,115640,EUR,JavaScript;React;CSS,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_367,glassdoor_europe,Full Stack Developer,N26,"City, Switzerland",CH,Switzerland,190573,228687,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_368,glassdoor_europe,Principal Engineer,SAP,"Capital, Belgium",BE,Belgium,97075,116490,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_369,glassdoor_europe,Software Architect,Amadeus,"City, Sweden",SE,Sweden,76904,92284,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_370,glassdoor_europe,Data Scientist,Ericsson,"City, Switzerland",CH,Switzerland,81113,97335,EUR,TensorFlow;Python;Machine Learning,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_371,glassdoor_europe,Staff Engineer,ASML,"Capital, United Kingdom",GB,United Kingdom,91970,110364,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_372,glassdoor_europe,Principal Engineer,BlaBlaCar,"City, Denmark",DK,Denmark,64802,77762,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_373,glassdoor_europe,DevOps Engineer,SAP,"City, Netherlands",NL,Netherlands,85494,102592,EUR,Kubernetes;Jenkins;AWS,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_374,glassdoor_europe,Software Architect,SAP,"Capital, France",FR,France,51051,61261,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_375,glassdoor_europe,Backend Developer,DeepMind,"City, Italy",IT,Italy,61218,73461,EUR,Node.js;Java;Python,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_376,glassdoor_europe,Data Engineer,DeepMind,"City, Netherlands",NL,Netherlands,151839,182206,EUR,Airflow;Kafka;Spark,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_377,glassdoor_europe,Product Manager,SAP,"Capital, France",FR,France,51387,61664,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_378,glassdoor_europe,Staff Engineer,Adyen,"Capital, Switzerland",CH,Switzerland,98675,118410,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_379,glassdoor_europe,DevOps Engineer,DeepMind,"City, Sweden",SE,Sweden,97825,117390,EUR,Docker;AWS;Linux,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_380,glassdoor_europe,Data Analyst,Adyen,"Capital, Austria",AT,Austria,72066,86479,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_381,glassdoor_europe,Software Architect,DeepMind,"City, Netherlands",NL,Netherlands,50935,61122,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_382,glassdoor_europe,Data Analyst,Zalando,"Capital, Switzerland",CH,Switzerland,128973,154767,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_383,glassdoor_europe,Backend Developer,N26,"Capital, United Kingdom",GB,United Kingdom,144141,172969,EUR,PostgreSQL;Python;Java,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_384,glassdoor_europe,Backend Developer,Revolut,"Capital, Sweden",SE,Sweden,111082,133298,EUR,Python;PostgreSQL;Java,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_385,glassdoor_europe,Machine Learning Engineer,Wise,"Capital, Spain",ES,Spain,56225,67470,EUR,MLflow;Python;Docker,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_386,glassdoor_europe,Principal Engineer,OVH,"City, Norway",NO,Norway,102789,123346,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_387,glassdoor_europe,Software Engineer,Klarna,"City, France",FR,France,80203,96243,EUR,Docker;JavaScript;React,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_388,glassdoor_europe,Software Engineer,Philips,"Capital, Belgium",BE,Belgium,79164,94996,EUR,Docker;Java;JavaScript,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_389,glassdoor_europe,Staff Engineer,ARM,"Capital, Sweden",SE,Sweden,78481,94177,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_390,glassdoor_europe,DevOps Engineer,OVH,"Capital, Italy",IT,Italy,64354,77224,EUR,AWS;Docker;Kubernetes,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_391,glassdoor_europe,Product Manager,ASML,"City, United Kingdom",GB,United Kingdom,106249,127498,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_392,glassdoor_europe,Data Engineer,OVH,"Capital, Norway",NO,Norway,109076,130891,EUR,Spark;Airflow;Python,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_393,glassdoor_europe,Product Manager,Revolut,"City, Switzerland",CH,Switzerland,133778,160533,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_394,glassdoor_europe,Machine Learning Engineer,Dassault Systemes,"Capital, Sweden",SE,Sweden,73750,88500,EUR,PyTorch;Docker;Python,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_395,glassdoor_europe,Data Scientist,Dassault Systemes,"Capital, Netherlands",NL,Netherlands,159975,191970,EUR,Machine Learning;TensorFlow;R,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_396,glassdoor_europe,Principal Engineer,BlaBlaCar,"City, Germany",DE,Germany,96199,115438,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_397,glassdoor_europe,Data Scientist,Booking.com,"Capital, Denmark",DK,Denmark,105106,126127,EUR,SQL;R;TensorFlow,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_398,glassdoor_europe,Staff Engineer,Nokia,"Capital, Sweden",SE,Sweden,61353,73623,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_399,glassdoor_europe,Staff Engineer,Klarna,"City, Italy",IT,Italy,56923,68307,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_400,glassdoor_europe,Software Engineer,Amadeus,"City, Norway",NO,Norway,92890,111468,EUR,Python;Java;Docker,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_401,glassdoor_europe,Technical Lead,N26,"City, Denmark",DK,Denmark,48702,58442,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_402,glassdoor_europe,Software Architect,Revolut,"Capital, France",FR,France,46191,55429,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_403,glassdoor_europe,Software Engineer,Adyen,"Capital, United Kingdom",GB,United Kingdom,69640,83568,EUR,Java;Python;JavaScript,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_404,glassdoor_europe,Technical Lead,Nokia,"City, Denmark",DK,Denmark,144732,173678,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_405,glassdoor_europe,Machine Learning Engineer,Revolut,"City, Spain",ES,Spain,37764,45316,EUR,PyTorch;MLflow;TensorFlow,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_406,glassdoor_europe,Technical Lead,Wise,"City, Italy",IT,Italy,83142,99770,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_407,glassdoor_europe,DevOps Engineer,Ericsson,"Capital, Sweden",SE,Sweden,114338,137205,EUR,Kubernetes;Jenkins;Docker,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_408,glassdoor_europe,Software Engineer,Skype,"City, Sweden",SE,Sweden,81482,97778,EUR,JavaScript;Python;React,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_409,glassdoor_europe,Frontend Developer,Philips,"City, Spain",ES,Spain,37853,45423,EUR,HTML;JavaScript;CSS,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_410,glassdoor_europe,Software Architect,Adyen,"City, Italy",IT,Italy,71769,86122,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_411,glassdoor_europe,Data Engineer,N26,"City, Switzerland",CH,Switzerland,87332,104798,EUR,Kafka;Spark;SQL,3,european_market_data,2025-07-02T11:14:24.140512
+glassdoor_europe_412,glassdoor_europe,DevOps Engineer,ARM,"City, Sweden",SE,Sweden,104202,125042,EUR,Linux;Jenkins;Kubernetes,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_413,glassdoor_europe,Staff Engineer,N26,"City, Spain",ES,Spain,37919,45502,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_414,glassdoor_europe,Full Stack Developer,N26,"Capital, France",FR,France,85662,102794,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_415,glassdoor_europe,Full Stack Developer,King Digital Entertainment,"City, Italy",IT,Italy,106368,127641,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_416,glassdoor_europe,Frontend Developer,DeepMind,"City, Switzerland",CH,Switzerland,128290,153948,EUR,CSS;HTML;JavaScript,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_417,glassdoor_europe,Technical Lead,King Digital Entertainment,"Capital, France",FR,France,88199,105838,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_418,glassdoor_europe,Frontend Developer,OVH,"City, Denmark",DK,Denmark,170419,204502,EUR,Vue.js;JavaScript;CSS,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_419,glassdoor_europe,Data Scientist,BlaBlaCar,"Capital, Austria",AT,Austria,44254,53104,EUR,SQL;Python;Machine Learning,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_420,glassdoor_europe,Backend Developer,Spotify,"Capital, Germany",DE,Germany,57567,69080,EUR,Java;PostgreSQL;Python,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_421,glassdoor_europe,Data Engineer,N26,"Capital, Austria",AT,Austria,80635,96762,EUR,SQL;Python;Spark,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_422,glassdoor_europe,Technical Lead,ASML,"Capital, Belgium",BE,Belgium,72957,87548,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_423,glassdoor_europe,Software Architect,ARM,"City, Germany",DE,Germany,89590,107508,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_424,glassdoor_europe,Software Architect,Dassault Systemes,"City, Netherlands",NL,Netherlands,82716,99259,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_425,glassdoor_europe,Staff Engineer,BlaBlaCar,"City, Belgium",BE,Belgium,71894,86272,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_426,glassdoor_europe,DevOps Engineer,Siemens,"Capital, Denmark",DK,Denmark,89092,106910,EUR,AWS;Linux;Kubernetes,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_427,glassdoor_europe,Technical Lead,Amadeus,"City, Italy",IT,Italy,51884,62260,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_428,glassdoor_europe,Principal Engineer,ASML,"Capital, United Kingdom",GB,United Kingdom,115765,138918,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_429,glassdoor_europe,DevOps Engineer,Revolut,"City, Germany",DE,Germany,163105,195726,EUR,Docker;Jenkins;Linux,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_430,glassdoor_europe,Principal Engineer,Siemens,"City, Switzerland",CH,Switzerland,94618,113541,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_431,glassdoor_europe,Product Manager,Adyen,"Capital, Sweden",SE,Sweden,58651,70381,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_432,glassdoor_europe,Product Manager,Dassault Systemes,"Capital, Netherlands",NL,Netherlands,64856,77827,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_433,glassdoor_europe,Software Engineer,Supercell,"Capital, Germany",DE,Germany,59543,71451,EUR,Java;JavaScript;Python,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_434,glassdoor_europe,Software Architect,SAP,"Capital, Norway",NO,Norway,53695,64434,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_435,glassdoor_europe,Frontend Developer,Adyen,"City, Italy",IT,Italy,96342,115610,EUR,CSS;React;Vue.js,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_436,glassdoor_europe,Product Manager,Criteo,"City, Norway",NO,Norway,86155,103386,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_437,glassdoor_europe,Product Manager,Siemens,"Capital, Spain",ES,Spain,52469,62962,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_438,glassdoor_europe,Principal Engineer,Spotify,"Capital, Netherlands",NL,Netherlands,128806,154567,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_439,glassdoor_europe,Principal Engineer,Siemens,"City, Switzerland",CH,Switzerland,213667,256400,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_440,glassdoor_europe,Product Manager,Adyen,"Capital, Netherlands",NL,Netherlands,128551,154261,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_441,glassdoor_europe,Staff Engineer,Skype,"City, France",FR,France,69673,83607,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_442,glassdoor_europe,Frontend Developer,King Digital Entertainment,"City, France",FR,France,100720,120864,EUR,JavaScript;React;CSS,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_443,glassdoor_europe,Product Manager,Nokia,"City, Denmark",DK,Denmark,146196,175435,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_444,glassdoor_europe,Technical Lead,Siemens,"City, Austria",AT,Austria,69672,83606,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_445,glassdoor_europe,Staff Engineer,Adyen,"Capital, United Kingdom",GB,United Kingdom,83502,100202,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_446,glassdoor_europe,Backend Developer,Philips,"Capital, Belgium",BE,Belgium,82464,98956,EUR,Java;Python;PostgreSQL,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_447,glassdoor_europe,Technical Lead,Zalando,"City, Norway",NO,Norway,88350,106020,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_448,glassdoor_europe,Frontend Developer,Revolut,"Capital, Sweden",SE,Sweden,62997,75596,EUR,Vue.js;HTML;React,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_449,glassdoor_europe,Technical Lead,Criteo,"City, Italy",IT,Italy,79788,95745,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_450,glassdoor_europe,Principal Engineer,N26,"City, Denmark",DK,Denmark,114549,137458,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_451,glassdoor_europe,Data Analyst,Criteo,"City, Spain",ES,Spain,87210,104652,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_452,glassdoor_europe,Machine Learning Engineer,Klarna,"City, United Kingdom",GB,United Kingdom,56061,67273,EUR,TensorFlow;MLflow;PyTorch,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_453,glassdoor_europe,Software Engineer,BlaBlaCar,"City, Italy",IT,Italy,75615,90738,EUR,Java;Python;React,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_454,glassdoor_europe,Software Engineer,Ericsson,"City, Italy",IT,Italy,89833,107799,EUR,Docker;Python;JavaScript,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_455,glassdoor_europe,Principal Engineer,Booking.com,"Capital, Belgium",BE,Belgium,122515,147018,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_456,glassdoor_europe,Data Engineer,Supercell,"Capital, France",FR,France,54061,64873,EUR,Spark;Python;Kafka,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_457,glassdoor_europe,Site Reliability Engineer,Booking.com,"Capital, Norway",NO,Norway,71462,85754,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_458,glassdoor_europe,Full Stack Developer,Ericsson,"City, Italy",IT,Italy,37819,45382,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_459,glassdoor_europe,Product Manager,Criteo,"Capital, France",FR,France,68775,82530,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_460,glassdoor_europe,Product Manager,Klarna,"Capital, Italy",IT,Italy,77491,92989,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_461,glassdoor_europe,Full Stack Developer,Ericsson,"City, Germany",DE,Germany,90924,109108,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_462,glassdoor_europe,DevOps Engineer,Skype,"Capital, United Kingdom",GB,United Kingdom,72621,87145,EUR,Jenkins;Linux;AWS,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_463,glassdoor_europe,Data Analyst,SAP,"City, Germany",DE,Germany,76922,92306,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_464,glassdoor_europe,Site Reliability Engineer,Dassault Systemes,"City, United Kingdom",GB,United Kingdom,98603,118323,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_465,glassdoor_europe,Backend Developer,Zalando,"City, Italy",IT,Italy,48432,58118,EUR,Java;PostgreSQL;Python,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_466,glassdoor_europe,Backend Developer,King Digital Entertainment,"Capital, Netherlands",NL,Netherlands,77805,93366,EUR,Python;Node.js;Redis,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_467,glassdoor_europe,Full Stack Developer,Wise,"City, Austria",AT,Austria,88834,106600,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_468,glassdoor_europe,Software Architect,Skype,"Capital, Sweden",SE,Sweden,63474,76168,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_469,glassdoor_europe,Full Stack Developer,Dassault Systemes,"Capital, Austria",AT,Austria,60912,73094,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_470,glassdoor_europe,Staff Engineer,Adyen,"City, Sweden",SE,Sweden,80149,96178,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_471,glassdoor_europe,Technical Lead,Amadeus,"Capital, Norway",NO,Norway,105210,126252,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_472,glassdoor_europe,DevOps Engineer,Philips,"Capital, France",FR,France,98072,117686,EUR,AWS;Docker;Kubernetes,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_473,glassdoor_europe,Site Reliability Engineer,Adyen,"City, United Kingdom",GB,United Kingdom,79591,95509,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_474,glassdoor_europe,Data Engineer,ASML,"City, Spain",ES,Spain,49918,59901,EUR,Python;Airflow;Spark,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_475,glassdoor_europe,Staff Engineer,Supercell,"City, Austria",AT,Austria,60156,72187,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_476,glassdoor_europe,Software Architect,King Digital Entertainment,"City, Sweden",SE,Sweden,93190,111828,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_477,glassdoor_europe,Full Stack Developer,Wise,"Capital, Germany",DE,Germany,77328,92793,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_478,glassdoor_europe,Software Architect,Nokia,"Capital, Netherlands",NL,Netherlands,109071,130885,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_479,glassdoor_europe,Staff Engineer,Wise,"City, Norway",NO,Norway,107278,128733,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_480,glassdoor_europe,Data Analyst,Ericsson,"City, Netherlands",NL,Netherlands,50244,60292,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_481,glassdoor_europe,Site Reliability Engineer,BlaBlaCar,"Capital, Germany",DE,Germany,81724,98068,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_482,glassdoor_europe,Data Analyst,OVH,"City, Germany",DE,Germany,92516,111019,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_483,glassdoor_europe,Frontend Developer,Revolut,"Capital, France",FR,France,88890,106668,EUR,CSS;JavaScript;React,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_484,glassdoor_europe,Software Engineer,King Digital Entertainment,"City, Denmark",DK,Denmark,55053,66063,EUR,Docker;JavaScript;Python,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_485,glassdoor_europe,Staff Engineer,N26,"City, Netherlands",NL,Netherlands,138162,165794,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_486,glassdoor_europe,Software Architect,BlaBlaCar,"City, Netherlands",NL,Netherlands,104083,124899,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_487,glassdoor_europe,Product Manager,Philips,"City, Switzerland",CH,Switzerland,97709,117250,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_488,glassdoor_europe,Product Manager,Siemens,"City, France",FR,France,52320,62784,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_489,glassdoor_europe,DevOps Engineer,Revolut,"City, Belgium",BE,Belgium,68132,81758,EUR,Linux;Jenkins;Kubernetes,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_490,glassdoor_europe,Frontend Developer,ASML,"City, Switzerland",CH,Switzerland,146964,176356,EUR,React;CSS;Vue.js,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_491,glassdoor_europe,Backend Developer,ASML,"Capital, Belgium",BE,Belgium,132805,159366,EUR,Redis;Node.js;Java,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_492,glassdoor_europe,Staff Engineer,Skype,"City, United Kingdom",GB,United Kingdom,68622,82346,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_493,glassdoor_europe,Data Analyst,Criteo,"City, United Kingdom",GB,United Kingdom,67752,81302,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_494,glassdoor_europe,Machine Learning Engineer,Nokia,"City, France",FR,France,36650,43980,EUR,TensorFlow;Python;PyTorch,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_495,glassdoor_europe,Full Stack Developer,Nokia,"Capital, Switzerland",CH,Switzerland,100184,120220,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_496,glassdoor_europe,Principal Engineer,Zalando,"City, France",FR,France,72979,87574,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_497,glassdoor_europe,Software Engineer,Adyen,"City, Denmark",DK,Denmark,169212,203054,EUR,Java;React;Python,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_498,glassdoor_europe,Full Stack Developer,ASML,"City, Sweden",SE,Sweden,75820,90984,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_499,glassdoor_europe,Product Manager,Spotify,"City, Switzerland",CH,Switzerland,122317,146780,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_500,glassdoor_europe,Frontend Developer,N26,"Capital, Sweden",SE,Sweden,85924,103108,EUR,CSS;React;HTML,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_501,glassdoor_europe,DevOps Engineer,SAP,"Capital, Netherlands",NL,Netherlands,88869,106642,EUR,AWS;Kubernetes;Jenkins,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_502,glassdoor_europe,Site Reliability Engineer,Supercell,"City, Sweden",SE,Sweden,132810,159372,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_503,glassdoor_europe,Software Engineer,SAP,"City, France",FR,France,66406,79687,EUR,React;JavaScript;Docker,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_504,glassdoor_europe,Principal Engineer,Wise,"City, Italy",IT,Italy,113661,136393,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_505,glassdoor_europe,Product Manager,Siemens,"Capital, Sweden",SE,Sweden,51046,61255,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_506,glassdoor_europe,Data Analyst,Klarna,"Capital, Denmark",DK,Denmark,128517,154220,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_507,glassdoor_europe,Data Engineer,Supercell,"Capital, Belgium",BE,Belgium,75558,90669,EUR,Kafka;Python;Spark,3,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_508,glassdoor_europe,Principal Engineer,N26,"City, Switzerland",CH,Switzerland,91629,109954,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.141512
+glassdoor_europe_509,glassdoor_europe,Software Engineer,Dassault Systemes,"Capital, France",FR,France,68792,82550,EUR,JavaScript;Java;React,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_510,glassdoor_europe,Staff Engineer,BlaBlaCar,"City, Germany",DE,Germany,92275,110730,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_511,glassdoor_europe,Backend Developer,Spotify,"Capital, United Kingdom",GB,United Kingdom,120624,144748,EUR,Node.js;Redis;Python,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_512,glassdoor_europe,Site Reliability Engineer,N26,"City, Austria",AT,Austria,46430,55716,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_513,glassdoor_europe,Data Scientist,Nokia,"Capital, Netherlands",NL,Netherlands,87068,104481,EUR,R;TensorFlow;Python,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_514,glassdoor_europe,Machine Learning Engineer,ARM,"Capital, Denmark",DK,Denmark,78298,93957,EUR,PyTorch;TensorFlow;MLflow,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_515,glassdoor_europe,Site Reliability Engineer,Philips,"Capital, Netherlands",NL,Netherlands,80009,96010,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_516,glassdoor_europe,Software Engineer,Supercell,"Capital, Norway",NO,Norway,55357,66428,EUR,Python;Docker;Java,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_517,glassdoor_europe,Full Stack Developer,Zalando,"Capital, Denmark",DK,Denmark,95865,115038,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_518,glassdoor_europe,Principal Engineer,Skype,"City, Belgium",BE,Belgium,71106,85327,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_519,glassdoor_europe,Staff Engineer,Criteo,"City, Sweden",SE,Sweden,76638,91965,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_520,glassdoor_europe,Staff Engineer,Booking.com,"Capital, Italy",IT,Italy,58935,70722,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_521,glassdoor_europe,Software Engineer,Booking.com,"Capital, Belgium",BE,Belgium,62637,75164,EUR,Docker;JavaScript;React,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_522,glassdoor_europe,Technical Lead,Booking.com,"City, France",FR,France,69422,83306,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_523,glassdoor_europe,Backend Developer,Wise,"City, Norway",NO,Norway,76012,91214,EUR,Java;Redis;Python,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_524,glassdoor_europe,Software Architect,Philips,"City, Norway",NO,Norway,166909,200290,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_525,glassdoor_europe,Principal Engineer,Ericsson,"City, Belgium",BE,Belgium,82922,99506,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_526,glassdoor_europe,Full Stack Developer,ASML,"Capital, United Kingdom",GB,United Kingdom,98918,118701,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_527,glassdoor_europe,Product Manager,ARM,"City, Denmark",DK,Denmark,73869,88642,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_528,glassdoor_europe,Technical Lead,Dassault Systemes,"Capital, France",FR,France,47219,56662,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_529,glassdoor_europe,Technical Lead,OVH,"Capital, Norway",NO,Norway,75454,90544,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_530,glassdoor_europe,Backend Developer,Adyen,"City, Spain",ES,Spain,50674,60808,EUR,PostgreSQL;Java;Python,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_531,glassdoor_europe,Product Manager,OVH,"City, Germany",DE,Germany,82989,99586,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_532,glassdoor_europe,Software Architect,Criteo,"Capital, Sweden",SE,Sweden,122526,147031,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_533,glassdoor_europe,Software Engineer,Booking.com,"Capital, Switzerland",CH,Switzerland,74108,88929,EUR,JavaScript;Python;React,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_534,glassdoor_europe,Site Reliability Engineer,BlaBlaCar,"City, Norway",NO,Norway,103748,124497,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_535,glassdoor_europe,Data Engineer,Amadeus,"City, Spain",ES,Spain,56446,67735,EUR,Python;Spark;SQL,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_536,glassdoor_europe,Principal Engineer,Adyen,"City, Austria",AT,Austria,42648,51177,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_537,glassdoor_europe,DevOps Engineer,Siemens,"City, Italy",IT,Italy,80653,96783,EUR,AWS;Docker;Kubernetes,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_538,glassdoor_europe,Data Scientist,Spotify,"Capital, Belgium",BE,Belgium,82140,98568,EUR,R;SQL;Machine Learning,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_539,glassdoor_europe,Software Engineer,Ericsson,"Capital, Austria",AT,Austria,77731,93277,EUR,Python;React;Java,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_540,glassdoor_europe,Full Stack Developer,OVH,"Capital, Denmark",DK,Denmark,57173,68607,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_541,glassdoor_europe,Product Manager,SAP,"City, France",FR,France,64272,77126,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_542,glassdoor_europe,Backend Developer,Amadeus,"Capital, Spain",ES,Spain,73281,87937,EUR,Python;Java;Redis,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_543,glassdoor_europe,DevOps Engineer,Nokia,"Capital, Italy",IT,Italy,63421,76105,EUR,Docker;AWS;Linux,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_544,glassdoor_europe,Data Analyst,Dassault Systemes,"Capital, Italy",IT,Italy,39445,47334,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_545,glassdoor_europe,Data Engineer,King Digital Entertainment,"Capital, Netherlands",NL,Netherlands,132484,158980,EUR,Airflow;SQL;Python,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_546,glassdoor_europe,Principal Engineer,ASML,"Capital, Austria",AT,Austria,65044,78052,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_547,glassdoor_europe,Data Engineer,Spotify,"Capital, Norway",NO,Norway,101001,121201,EUR,Spark;SQL;Airflow,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_548,glassdoor_europe,Data Analyst,Klarna,"Capital, Germany",DE,Germany,75944,91132,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_549,glassdoor_europe,Software Engineer,DeepMind,"Capital, Spain",ES,Spain,82106,98527,EUR,Java;React;JavaScript,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_550,glassdoor_europe,Machine Learning Engineer,OVH,"City, Netherlands",NL,Netherlands,74004,88804,EUR,Python;TensorFlow;MLflow,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_551,glassdoor_europe,Data Scientist,Siemens,"City, Italy",IT,Italy,64353,77223,EUR,Machine Learning;Python;SQL,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_552,glassdoor_europe,Data Scientist,Revolut,"City, Belgium",BE,Belgium,88129,105754,EUR,SQL;Python;Machine Learning,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_553,glassdoor_europe,Frontend Developer,Skype,"Capital, Norway",NO,Norway,105091,126109,EUR,Vue.js;JavaScript;CSS,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_554,glassdoor_europe,Backend Developer,BlaBlaCar,"City, France",FR,France,75643,90771,EUR,PostgreSQL;Node.js;Java,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_555,glassdoor_europe,Full Stack Developer,Ericsson,"City, France",FR,France,55575,66690,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_556,glassdoor_europe,Product Manager,OVH,"Capital, Germany",DE,Germany,101599,121918,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_557,glassdoor_europe,Data Engineer,Spotify,"Capital, France",FR,France,123345,148014,EUR,Python;Kafka;Airflow,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_558,glassdoor_europe,Data Engineer,Spotify,"City, Germany",DE,Germany,101964,122356,EUR,Kafka;Python;Airflow,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_559,glassdoor_europe,Data Scientist,Adyen,"Capital, Belgium",BE,Belgium,120403,144483,EUR,TensorFlow;Python;Machine Learning,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_560,glassdoor_europe,Principal Engineer,Booking.com,"City, Spain",ES,Spain,86518,103821,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_561,glassdoor_europe,Full Stack Developer,BlaBlaCar,"Capital, Italy",IT,Italy,31032,37238,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_562,glassdoor_europe,Software Engineer,Wise,"Capital, Sweden",SE,Sweden,98533,118239,EUR,Java;Python;Docker,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_563,glassdoor_europe,DevOps Engineer,ARM,"City, Denmark",DK,Denmark,45368,54441,EUR,Kubernetes;Docker;AWS,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_564,glassdoor_europe,Staff Engineer,Adyen,"City, Switzerland",CH,Switzerland,109560,131472,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_565,glassdoor_europe,Software Architect,DeepMind,"Capital, Germany",DE,Germany,52446,62935,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_566,glassdoor_europe,Data Analyst,SAP,"City, Denmark",DK,Denmark,120582,144698,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_567,glassdoor_europe,Data Engineer,Wise,"Capital, Norway",NO,Norway,124564,149476,EUR,Kafka;SQL;Python,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_568,glassdoor_europe,Backend Developer,Philips,"City, Italy",IT,Italy,52879,63454,EUR,Node.js;Redis;Python,3,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_569,glassdoor_europe,Full Stack Developer,Skype,"Capital, France",FR,France,81138,97365,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.143049
+glassdoor_europe_570,glassdoor_europe,Product Manager,BlaBlaCar,"Capital, Sweden",SE,Sweden,96339,115606,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_571,glassdoor_europe,Full Stack Developer,Wise,"City, Belgium",BE,Belgium,58777,70532,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_572,glassdoor_europe,Full Stack Developer,Siemens,"Capital, Belgium",BE,Belgium,82940,99528,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_573,glassdoor_europe,Software Architect,ASML,"Capital, Netherlands",NL,Netherlands,92943,111531,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_574,glassdoor_europe,DevOps Engineer,BlaBlaCar,"Capital, Spain",ES,Spain,73948,88737,EUR,Docker;Jenkins;AWS,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_575,glassdoor_europe,Software Architect,ASML,"City, Italy",IT,Italy,42655,51186,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_576,glassdoor_europe,Software Engineer,Criteo,"City, Spain",ES,Spain,41925,50310,EUR,Java;React;JavaScript,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_577,glassdoor_europe,Technical Lead,ASML,"City, Denmark",DK,Denmark,93352,112022,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_578,glassdoor_europe,Frontend Developer,Criteo,"Capital, United Kingdom",GB,United Kingdom,79598,95517,EUR,HTML;CSS;JavaScript,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_579,glassdoor_europe,Technical Lead,N26,"Capital, Germany",DE,Germany,89931,107917,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_580,glassdoor_europe,Staff Engineer,Amadeus,"City, Denmark",DK,Denmark,57299,68758,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_581,glassdoor_europe,Data Analyst,Ericsson,"Capital, Sweden",SE,Sweden,141478,169773,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_582,glassdoor_europe,Principal Engineer,Spotify,"City, Germany",DE,Germany,93218,111861,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_583,glassdoor_europe,Backend Developer,OVH,"City, Germany",DE,Germany,92220,110664,EUR,Redis;Node.js;Java,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_584,glassdoor_europe,Data Scientist,Booking.com,"City, Switzerland",CH,Switzerland,150782,180938,EUR,Machine Learning;SQL;Python,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_585,glassdoor_europe,Frontend Developer,N26,"City, Sweden",SE,Sweden,114250,137100,EUR,JavaScript;Vue.js;React,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_586,glassdoor_europe,Product Manager,ASML,"Capital, Norway",NO,Norway,57548,69057,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_587,glassdoor_europe,DevOps Engineer,Revolut,"Capital, Switzerland",CH,Switzerland,88626,106351,EUR,Linux;Jenkins;Kubernetes,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_588,glassdoor_europe,DevOps Engineer,Ericsson,"City, Denmark",DK,Denmark,107523,129027,EUR,Jenkins;Linux;AWS,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_589,glassdoor_europe,Backend Developer,Supercell,"Capital, Denmark",DK,Denmark,95321,114385,EUR,Python;Java;Node.js,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_590,glassdoor_europe,Backend Developer,King Digital Entertainment,"City, Sweden",SE,Sweden,50049,60058,EUR,Java;PostgreSQL;Node.js,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_591,glassdoor_europe,Machine Learning Engineer,Skype,"Capital, United Kingdom",GB,United Kingdom,75739,90886,EUR,TensorFlow;PyTorch;MLflow,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_592,glassdoor_europe,Technical Lead,DeepMind,"City, Italy",IT,Italy,112410,134892,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_593,glassdoor_europe,Software Engineer,Klarna,"Capital, Netherlands",NL,Netherlands,71172,85406,EUR,Java;Docker;Python,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_594,glassdoor_europe,Technical Lead,Siemens,"City, Belgium",BE,Belgium,83482,100178,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_595,glassdoor_europe,Software Architect,Philips,"City, Sweden",SE,Sweden,83508,100209,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_596,glassdoor_europe,Technical Lead,King Digital Entertainment,"Capital, Spain",ES,Spain,49744,59692,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_597,glassdoor_europe,Site Reliability Engineer,DeepMind,"City, Belgium",BE,Belgium,61692,74030,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_598,glassdoor_europe,Software Engineer,King Digital Entertainment,"City, Italy",IT,Italy,50103,60123,EUR,Docker;Java;JavaScript,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_599,glassdoor_europe,Staff Engineer,Klarna,"City, Spain",ES,Spain,58617,70340,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_600,glassdoor_europe,Software Architect,King Digital Entertainment,"City, France",FR,France,77382,92858,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_601,glassdoor_europe,Full Stack Developer,N26,"Capital, Switzerland",CH,Switzerland,119118,142941,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_602,glassdoor_europe,Backend Developer,Amadeus,"City, Denmark",DK,Denmark,110458,132549,EUR,Java;Python;Redis,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_603,glassdoor_europe,Full Stack Developer,Klarna,"City, United Kingdom",GB,United Kingdom,76054,91264,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_604,glassdoor_europe,Software Engineer,ASML,"Capital, United Kingdom",GB,United Kingdom,49556,59467,EUR,Java;JavaScript;Docker,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_605,glassdoor_europe,DevOps Engineer,Spotify,"Capital, Norway",NO,Norway,100245,120294,EUR,Kubernetes;Docker;Linux,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_606,glassdoor_europe,DevOps Engineer,Nokia,"City, Germany",DE,Germany,46742,56090,EUR,Kubernetes;Linux;Docker,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_607,glassdoor_europe,Principal Engineer,Philips,"City, Sweden",SE,Sweden,40400,48480,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_608,glassdoor_europe,Backend Developer,King Digital Entertainment,"City, Netherlands",NL,Netherlands,102242,122690,EUR,Python;Java;Redis,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_609,glassdoor_europe,Site Reliability Engineer,Dassault Systemes,"Capital, Italy",IT,Italy,37045,44454,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_610,glassdoor_europe,Software Architect,Adyen,"Capital, Germany",DE,Germany,117621,141145,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_611,glassdoor_europe,Data Analyst,Zalando,"Capital, France",FR,France,68699,82438,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_612,glassdoor_europe,Principal Engineer,Zalando,"Capital, Austria",AT,Austria,74868,89841,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_613,glassdoor_europe,Staff Engineer,Booking.com,"City, Netherlands",NL,Netherlands,153951,184741,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_614,glassdoor_europe,Frontend Developer,Criteo,"City, Spain",ES,Spain,55878,67053,EUR,Vue.js;React;JavaScript,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_615,glassdoor_europe,Principal Engineer,BlaBlaCar,"City, Italy",IT,Italy,42502,51002,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_616,glassdoor_europe,Data Analyst,Booking.com,"City, Switzerland",CH,Switzerland,149946,179935,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_617,glassdoor_europe,Full Stack Developer,N26,"Capital, Switzerland",CH,Switzerland,64202,77042,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_618,glassdoor_europe,Data Analyst,Adyen,"City, Norway",NO,Norway,58716,70459,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_619,glassdoor_europe,Site Reliability Engineer,Philips,"City, United Kingdom",GB,United Kingdom,55393,66471,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_620,glassdoor_europe,Data Scientist,Skype,"City, Denmark",DK,Denmark,126223,151467,EUR,Machine Learning;R;TensorFlow,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_621,glassdoor_europe,Data Analyst,Supercell,"Capital, United Kingdom",GB,United Kingdom,80722,96866,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_622,glassdoor_europe,Principal Engineer,Ericsson,"City, France",FR,France,45566,54679,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_623,glassdoor_europe,Technical Lead,Ericsson,"Capital, Italy",IT,Italy,54591,65509,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_624,glassdoor_europe,Machine Learning Engineer,Supercell,"Capital, Germany",DE,Germany,102846,123415,EUR,TensorFlow;Docker;Python,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_625,glassdoor_europe,Staff Engineer,Revolut,"City, Norway",NO,Norway,85040,102048,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_626,glassdoor_europe,Data Scientist,Booking.com,"City, Netherlands",NL,Netherlands,64274,77128,EUR,Machine Learning;R;Python,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_627,glassdoor_europe,Backend Developer,Nokia,"Capital, Italy",IT,Italy,58449,70138,EUR,Java;Python;Node.js,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_628,glassdoor_europe,Data Engineer,BlaBlaCar,"Capital, Belgium",BE,Belgium,102678,123213,EUR,Python;Airflow;SQL,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_629,glassdoor_europe,Software Architect,Criteo,"Capital, Germany",DE,Germany,160356,192427,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_630,glassdoor_europe,Software Engineer,ASML,"Capital, Spain",ES,Spain,54844,65812,EUR,React;Python;Java,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_631,glassdoor_europe,Software Engineer,Skype,"City, Germany",DE,Germany,91971,110365,EUR,Python;React;Docker,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_632,glassdoor_europe,Site Reliability Engineer,Zalando,"Capital, Netherlands",NL,Netherlands,170218,204261,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_633,glassdoor_europe,Full Stack Developer,Siemens,"City, Austria",AT,Austria,51257,61508,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_634,glassdoor_europe,Frontend Developer,Amadeus,"City, Denmark",DK,Denmark,81811,98173,EUR,CSS;HTML;JavaScript,3,european_market_data,2025-07-02T11:14:24.144069
+glassdoor_europe_635,glassdoor_europe,Backend Developer,King Digital Entertainment,"Capital, Netherlands",NL,Netherlands,119815,143778,EUR,Python;Redis;Java,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_636,glassdoor_europe,Machine Learning Engineer,Supercell,"City, United Kingdom",GB,United Kingdom,62571,75085,EUR,MLflow;Docker;TensorFlow,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_637,glassdoor_europe,Machine Learning Engineer,DeepMind,"City, Norway",NO,Norway,111567,133880,EUR,Docker;MLflow;Python,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_638,glassdoor_europe,Principal Engineer,Zalando,"City, Netherlands",NL,Netherlands,100184,120220,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_639,glassdoor_europe,Frontend Developer,SAP,"Capital, Belgium",BE,Belgium,37388,44865,EUR,React;CSS;Vue.js,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_640,glassdoor_europe,Software Architect,Revolut,"Capital, Netherlands",NL,Netherlands,60002,72002,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_641,glassdoor_europe,Product Manager,Wise,"City, Belgium",BE,Belgium,45575,54690,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_642,glassdoor_europe,Principal Engineer,Spotify,"Capital, Belgium",BE,Belgium,65218,78261,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_643,glassdoor_europe,Technical Lead,DeepMind,"Capital, Sweden",SE,Sweden,63048,75657,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_644,glassdoor_europe,Software Architect,Philips,"Capital, Switzerland",CH,Switzerland,126418,151701,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_645,glassdoor_europe,Data Scientist,OVH,"City, Denmark",DK,Denmark,113119,135742,EUR,Python;R;TensorFlow,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_646,glassdoor_europe,Data Scientist,OVH,"Capital, Denmark",DK,Denmark,58986,70783,EUR,SQL;Machine Learning;Python,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_647,glassdoor_europe,Backend Developer,N26,"Capital, Germany",DE,Germany,128413,154095,EUR,Java;Redis;PostgreSQL,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_648,glassdoor_europe,Frontend Developer,Zalando,"Capital, Germany",DE,Germany,95232,114278,EUR,Vue.js;JavaScript;CSS,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_649,glassdoor_europe,Software Architect,Spotify,"Capital, Spain",ES,Spain,63574,76288,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_650,glassdoor_europe,Full Stack Developer,Siemens,"City, Germany",DE,Germany,121749,146098,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_651,glassdoor_europe,Site Reliability Engineer,Wise,"Capital, Spain",ES,Spain,59805,71766,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_652,glassdoor_europe,Backend Developer,Wise,"Capital, United Kingdom",GB,United Kingdom,115214,138256,EUR,Java;Redis;Python,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_653,glassdoor_europe,Full Stack Developer,Siemens,"City, Italy",IT,Italy,47948,57537,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_654,glassdoor_europe,Full Stack Developer,Nokia,"Capital, Denmark",DK,Denmark,69928,83913,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_655,glassdoor_europe,Staff Engineer,OVH,"Capital, Austria",AT,Austria,52591,63109,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_656,glassdoor_europe,Machine Learning Engineer,Spotify,"Capital, France",FR,France,62227,74672,EUR,Python;Docker;PyTorch,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_657,glassdoor_europe,Backend Developer,ASML,"City, Germany",DE,Germany,71818,86181,EUR,Node.js;Python;Java,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_658,glassdoor_europe,Site Reliability Engineer,N26,"Capital, Sweden",SE,Sweden,78115,93738,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_659,glassdoor_europe,Machine Learning Engineer,N26,"City, France",FR,France,83819,100582,EUR,PyTorch;TensorFlow;Docker,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_660,glassdoor_europe,DevOps Engineer,Supercell,"City, Denmark",DK,Denmark,98537,118244,EUR,Kubernetes;Linux;Jenkins,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_661,glassdoor_europe,Data Analyst,Supercell,"City, Belgium",BE,Belgium,127747,153296,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_662,glassdoor_europe,Software Engineer,Revolut,"Capital, Italy",IT,Italy,46334,55600,EUR,Docker;React;Python,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_663,glassdoor_europe,Data Scientist,Skype,"City, Italy",IT,Italy,76461,91753,EUR,R;SQL;Python,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_664,glassdoor_europe,Software Engineer,Adyen,"City, United Kingdom",GB,United Kingdom,85491,102589,EUR,React;Java;Docker,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_665,glassdoor_europe,Technical Lead,Adyen,"City, Norway",NO,Norway,132010,158412,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_666,glassdoor_europe,Principal Engineer,Skype,"Capital, Denmark",DK,Denmark,106604,127924,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_667,glassdoor_europe,Site Reliability Engineer,Philips,"City, United Kingdom",GB,United Kingdom,121738,146085,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_668,glassdoor_europe,Site Reliability Engineer,Amadeus,"City, France",FR,France,75722,90866,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_669,glassdoor_europe,Data Analyst,Dassault Systemes,"City, France",FR,France,67785,81342,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_670,glassdoor_europe,Frontend Developer,Zalando,"Capital, Switzerland",CH,Switzerland,140544,168652,EUR,CSS;React;JavaScript,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_671,glassdoor_europe,Software Engineer,Philips,"City, Norway",NO,Norway,125500,150600,EUR,Python;React;JavaScript,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_672,glassdoor_europe,Backend Developer,ASML,"City, Italy",IT,Italy,72355,86826,EUR,Redis;PostgreSQL;Python,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_673,glassdoor_europe,Backend Developer,Wise,"City, Sweden",SE,Sweden,107856,129427,EUR,Node.js;Redis;PostgreSQL,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_674,glassdoor_europe,Frontend Developer,Dassault Systemes,"City, Switzerland",CH,Switzerland,84423,101307,EUR,React;Vue.js;JavaScript,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_675,glassdoor_europe,Software Architect,Klarna,"Capital, Belgium",BE,Belgium,54622,65546,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_676,glassdoor_europe,Principal Engineer,Dassault Systemes,"Capital, France",FR,France,49713,59655,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_677,glassdoor_europe,Software Architect,King Digital Entertainment,"City, Italy",IT,Italy,49259,59110,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_678,glassdoor_europe,Frontend Developer,ARM,"Capital, Italy",IT,Italy,114105,136926,EUR,JavaScript;React;Vue.js,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_679,glassdoor_europe,Full Stack Developer,Skype,"City, Germany",DE,Germany,94270,113124,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_680,glassdoor_europe,Data Analyst,Nokia,"Capital, Norway",NO,Norway,101032,121238,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_681,glassdoor_europe,DevOps Engineer,Spotify,"Capital, Belgium",BE,Belgium,74154,88984,EUR,Linux;AWS;Kubernetes,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_682,glassdoor_europe,Frontend Developer,Nokia,"Capital, France",FR,France,51256,61507,EUR,React;JavaScript;HTML,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_683,glassdoor_europe,Staff Engineer,Wise,"Capital, Norway",NO,Norway,95295,114354,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_684,glassdoor_europe,Site Reliability Engineer,Philips,"Capital, Sweden",SE,Sweden,87039,104446,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_685,glassdoor_europe,DevOps Engineer,Criteo,"Capital, Italy",IT,Italy,112803,135363,EUR,Docker;Jenkins;Kubernetes,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_686,glassdoor_europe,Staff Engineer,DeepMind,"Capital, Netherlands",NL,Netherlands,104850,125820,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_687,glassdoor_europe,Software Engineer,Wise,"City, Sweden",SE,Sweden,81718,98061,EUR,Python;JavaScript;Java,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_688,glassdoor_europe,Site Reliability Engineer,Supercell,"City, Spain",ES,Spain,35100,42120,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_689,glassdoor_europe,Software Architect,Dassault Systemes,"Capital, France",FR,France,59288,71145,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_690,glassdoor_europe,Backend Developer,Nokia,"City, Sweden",SE,Sweden,148663,178395,EUR,Python;PostgreSQL;Java,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_691,glassdoor_europe,Technical Lead,BlaBlaCar,"Capital, Netherlands",NL,Netherlands,154225,185070,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_692,glassdoor_europe,Product Manager,Wise,"Capital, Switzerland",CH,Switzerland,119376,143251,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_693,glassdoor_europe,Data Engineer,SAP,"City, Italy",IT,Italy,60052,72062,EUR,Kafka;Spark;Airflow,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_694,glassdoor_europe,Principal Engineer,Nokia,"Capital, Germany",DE,Germany,129993,155991,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_695,glassdoor_europe,Staff Engineer,Adyen,"Capital, Denmark",DK,Denmark,124801,149761,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_696,glassdoor_europe,Site Reliability Engineer,ARM,"Capital, Italy",IT,Italy,54796,65755,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_697,glassdoor_europe,Software Engineer,Revolut,"Capital, France",FR,France,52581,63097,EUR,Java;React;Python,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_698,glassdoor_europe,Data Scientist,Supercell,"City, Norway",NO,Norway,68241,81889,EUR,Machine Learning;R;Python,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_699,glassdoor_europe,Data Scientist,Criteo,"Capital, Netherlands",NL,Netherlands,153156,183787,EUR,R;Machine Learning;TensorFlow,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_700,glassdoor_europe,Site Reliability Engineer,Supercell,"Capital, United Kingdom",GB,United Kingdom,133677,160412,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_701,glassdoor_europe,Technical Lead,BlaBlaCar,"Capital, Belgium",BE,Belgium,53809,64570,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_702,glassdoor_europe,Software Architect,Klarna,"City, United Kingdom",GB,United Kingdom,103550,124260,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_703,glassdoor_europe,Software Engineer,Spotify,"Capital, Spain",ES,Spain,60488,72585,EUR,React;Python;JavaScript,3,european_market_data,2025-07-02T11:14:24.145089
+glassdoor_europe_704,glassdoor_europe,Data Engineer,Philips,"Capital, Norway",NO,Norway,122982,147578,EUR,SQL;Python;Kafka,3,european_market_data,2025-07-02T11:14:24.146201
+glassdoor_europe_705,glassdoor_europe,Technical Lead,Revolut,"City, Norway",NO,Norway,63213,75855,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.146201
+glassdoor_europe_706,glassdoor_europe,Full Stack Developer,Skype,"Capital, Switzerland",CH,Switzerland,165498,198597,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.146201
+glassdoor_europe_707,glassdoor_europe,DevOps Engineer,Siemens,"City, Denmark",DK,Denmark,84117,100940,EUR,Linux;Docker;Jenkins,3,european_market_data,2025-07-02T11:14:24.146201
+glassdoor_europe_708,glassdoor_europe,Data Analyst,Amadeus,"Capital, Italy",IT,Italy,46028,55233,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.146201
+glassdoor_europe_709,glassdoor_europe,Software Architect,Siemens,"City, Norway",NO,Norway,124708,149649,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.146201
+glassdoor_europe_710,glassdoor_europe,Principal Engineer,Criteo,"Capital, Belgium",BE,Belgium,58123,69747,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.146201
+glassdoor_europe_711,glassdoor_europe,Principal Engineer,Klarna,"Capital, United Kingdom",GB,United Kingdom,120549,144658,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.146201
+glassdoor_europe_712,glassdoor_europe,Backend Developer,DeepMind,"Capital, France",FR,France,87755,105306,EUR,PostgreSQL;Java;Node.js,3,european_market_data,2025-07-02T11:14:24.146201
+glassdoor_europe_713,glassdoor_europe,Site Reliability Engineer,Wise,"City, Netherlands",NL,Netherlands,71341,85609,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.146201
+glassdoor_europe_714,glassdoor_europe,Frontend Developer,ARM,"City, Germany",DE,Germany,73747,88496,EUR,React;Vue.js;HTML,3,european_market_data,2025-07-02T11:14:24.146201
+glassdoor_europe_715,glassdoor_europe,Site Reliability Engineer,Revolut,"City, United Kingdom",GB,United Kingdom,75719,90862,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.146201
+glassdoor_europe_716,glassdoor_europe,Software Engineer,Criteo,"Capital, United Kingdom",GB,United Kingdom,71872,86246,EUR,JavaScript;Docker;Python,3,european_market_data,2025-07-02T11:14:24.146201
+glassdoor_europe_717,glassdoor_europe,Data Engineer,ASML,"Capital, Belgium",BE,Belgium,66044,79252,EUR,Kafka;Airflow;SQL,3,european_market_data,2025-07-02T11:14:24.146201
+glassdoor_europe_718,glassdoor_europe,Data Scientist,Amadeus,"Capital, Norway",NO,Norway,167874,201448,EUR,TensorFlow;R;Python,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_719,glassdoor_europe,Product Manager,Amadeus,"City, Denmark",DK,Denmark,140008,168009,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_720,glassdoor_europe,Software Architect,Klarna,"City, United Kingdom",GB,United Kingdom,65520,78624,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_721,glassdoor_europe,Data Scientist,Dassault Systemes,"City, Spain",ES,Spain,102696,123235,EUR,Machine Learning;R;TensorFlow,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_722,glassdoor_europe,Backend Developer,BlaBlaCar,"Capital, Spain",ES,Spain,51415,61698,EUR,Redis;Java;Python,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_723,glassdoor_europe,Staff Engineer,Spotify,"Capital, Norway",NO,Norway,147715,177258,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_724,glassdoor_europe,Product Manager,Adyen,"City, Norway",NO,Norway,113428,136113,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_725,glassdoor_europe,Machine Learning Engineer,Criteo,"City, Denmark",DK,Denmark,54489,65386,EUR,Docker;PyTorch;TensorFlow,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_726,glassdoor_europe,Data Engineer,Wise,"City, Italy",IT,Italy,61482,73778,EUR,Python;SQL;Spark,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_727,glassdoor_europe,Data Analyst,Spotify,"Capital, Netherlands",NL,Netherlands,117097,140516,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_728,glassdoor_europe,Principal Engineer,Adyen,"Capital, United Kingdom",GB,United Kingdom,51236,61483,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_729,glassdoor_europe,Software Engineer,OVH,"City, France",FR,France,46752,56102,EUR,JavaScript;Python;Java,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_730,glassdoor_europe,Machine Learning Engineer,King Digital Entertainment,"Capital, Austria",AT,Austria,113557,136268,EUR,TensorFlow;Python;MLflow,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_731,glassdoor_europe,Data Engineer,Supercell,"Capital, Netherlands",NL,Netherlands,115569,138682,EUR,Kafka;Python;Airflow,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_732,glassdoor_europe,Data Analyst,Supercell,"City, Denmark",DK,Denmark,89129,106954,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_733,glassdoor_europe,Machine Learning Engineer,ARM,"Capital, Germany",DE,Germany,79974,95968,EUR,PyTorch;MLflow;Docker,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_734,glassdoor_europe,Backend Developer,Nokia,"City, Italy",IT,Italy,61845,74214,EUR,PostgreSQL;Node.js;Python,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_735,glassdoor_europe,Frontend Developer,Skype,"Capital, Austria",AT,Austria,58743,70491,EUR,CSS;JavaScript;React,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_736,glassdoor_europe,Software Engineer,Criteo,"City, Sweden",SE,Sweden,103897,124676,EUR,Java;Python;Docker,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_737,glassdoor_europe,Data Scientist,BlaBlaCar,"Capital, France",FR,France,69500,83400,EUR,SQL;Python;Machine Learning,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_738,glassdoor_europe,Software Engineer,DeepMind,"Capital, Belgium",BE,Belgium,62637,75164,EUR,Docker;React;Java,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_739,glassdoor_europe,Machine Learning Engineer,ASML,"City, Germany",DE,Germany,57031,68437,EUR,MLflow;Docker;Python,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_740,glassdoor_europe,Data Scientist,BlaBlaCar,"Capital, Sweden",SE,Sweden,75466,90559,EUR,Machine Learning;TensorFlow;SQL,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_741,glassdoor_europe,Software Engineer,Nokia,"City, Germany",DE,Germany,76408,91689,EUR,Python;React;Java,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_742,glassdoor_europe,Software Architect,ASML,"City, Spain",ES,Spain,30421,36505,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_743,glassdoor_europe,Backend Developer,Klarna,"Capital, France",FR,France,55852,67022,EUR,Java;Python;Node.js,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_744,glassdoor_europe,Principal Engineer,DeepMind,"City, Switzerland",CH,Switzerland,90872,109046,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_745,glassdoor_europe,Data Scientist,OVH,"City, France",FR,France,110409,132490,EUR,Machine Learning;R;TensorFlow,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_746,glassdoor_europe,Technical Lead,Zalando,"City, Austria",AT,Austria,53718,64461,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_747,glassdoor_europe,Data Engineer,Siemens,"Capital, Netherlands",NL,Netherlands,83329,99994,EUR,Python;Kafka;Airflow,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_748,glassdoor_europe,Software Architect,N26,"Capital, Switzerland",CH,Switzerland,160323,192387,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_749,glassdoor_europe,Backend Developer,Nokia,"Capital, Spain",ES,Spain,35027,42032,EUR,Redis;PostgreSQL;Node.js,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_750,glassdoor_europe,Software Engineer,Nokia,"Capital, Austria",AT,Austria,80515,96618,EUR,JavaScript;Docker;Java,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_751,glassdoor_europe,Software Architect,Nokia,"Capital, Austria",AT,Austria,106524,127828,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_752,glassdoor_europe,Technical Lead,DeepMind,"City, Austria",AT,Austria,65237,78284,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_753,glassdoor_europe,Site Reliability Engineer,Supercell,"Capital, Norway",NO,Norway,96496,115795,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_754,glassdoor_europe,Staff Engineer,Booking.com,"Capital, Switzerland",CH,Switzerland,166021,199225,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_755,glassdoor_europe,Site Reliability Engineer,DeepMind,"City, Norway",NO,Norway,84677,101612,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_756,glassdoor_europe,Principal Engineer,Revolut,"City, Spain",ES,Spain,54070,64884,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_757,glassdoor_europe,Staff Engineer,Ericsson,"Capital, Belgium",BE,Belgium,95890,115068,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_758,glassdoor_europe,Principal Engineer,King Digital Entertainment,"Capital, Belgium",BE,Belgium,59708,71649,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_759,glassdoor_europe,Software Architect,DeepMind,"City, Germany",DE,Germany,129126,154951,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_760,glassdoor_europe,DevOps Engineer,Amadeus,"Capital, France",FR,France,77998,93597,EUR,Jenkins;Docker;AWS,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_761,glassdoor_europe,Backend Developer,Skype,"City, Norway",NO,Norway,129934,155920,EUR,Python;Java;PostgreSQL,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_762,glassdoor_europe,Software Architect,Booking.com,"Capital, Switzerland",CH,Switzerland,207558,249069,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_763,glassdoor_europe,Data Engineer,Klarna,"Capital, Sweden",SE,Sweden,52736,63283,EUR,SQL;Spark;Python,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_764,glassdoor_europe,Machine Learning Engineer,Siemens,"Capital, Austria",AT,Austria,57767,69320,EUR,PyTorch;MLflow;TensorFlow,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_765,glassdoor_europe,Data Engineer,Dassault Systemes,"City, United Kingdom",GB,United Kingdom,136825,164190,EUR,Spark;SQL;Airflow,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_766,glassdoor_europe,Data Engineer,Spotify,"City, Germany",DE,Germany,133254,159904,EUR,SQL;Airflow;Spark,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_767,glassdoor_europe,Site Reliability Engineer,Booking.com,"Capital, Germany",DE,Germany,107064,128476,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_768,glassdoor_europe,Machine Learning Engineer,Klarna,"Capital, Sweden",SE,Sweden,76030,91236,EUR,Docker;PyTorch;TensorFlow,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_769,glassdoor_europe,Full Stack Developer,SAP,"City, Austria",AT,Austria,64666,77599,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_770,glassdoor_europe,Technical Lead,ARM,"Capital, Norway",NO,Norway,109537,131444,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_771,glassdoor_europe,Data Analyst,Amadeus,"Capital, Austria",AT,Austria,78803,94563,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_772,glassdoor_europe,Machine Learning Engineer,Spotify,"City, United Kingdom",GB,United Kingdom,76183,91419,EUR,Docker;MLflow;PyTorch,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_773,glassdoor_europe,Staff Engineer,Supercell,"Capital, Austria",AT,Austria,69645,83574,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_774,glassdoor_europe,Software Engineer,Skype,"City, Norway",NO,Norway,73943,88731,EUR,Java;Python;JavaScript,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_775,glassdoor_europe,Principal Engineer,Criteo,"City, Sweden",SE,Sweden,60696,72835,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_776,glassdoor_europe,Principal Engineer,Criteo,"City, Germany",DE,Germany,96700,116040,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_777,glassdoor_europe,Data Scientist,Revolut,"City, Switzerland",CH,Switzerland,219723,263667,EUR,Python;R;TensorFlow,3,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_778,glassdoor_europe,Technical Lead,Philips,"Capital, Denmark",DK,Denmark,68408,82089,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_779,glassdoor_europe,Product Manager,OVH,"Capital, United Kingdom",GB,United Kingdom,108990,130788,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.147255
+glassdoor_europe_780,glassdoor_europe,Staff Engineer,Zalando,"Capital, Spain",ES,Spain,31000,37200,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_781,glassdoor_europe,Technical Lead,BlaBlaCar,"Capital, Norway",NO,Norway,111556,133867,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_782,glassdoor_europe,DevOps Engineer,Adyen,"Capital, Austria",AT,Austria,66927,80312,EUR,Kubernetes;Jenkins;AWS,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_783,glassdoor_europe,Site Reliability Engineer,Klarna,"Capital, Italy",IT,Italy,58030,69636,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_784,glassdoor_europe,Full Stack Developer,Wise,"Capital, Italy",IT,Italy,54580,65496,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_785,glassdoor_europe,Principal Engineer,Nokia,"City, Germany",DE,Germany,62265,74718,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_786,glassdoor_europe,Backend Developer,Wise,"Capital, United Kingdom",GB,United Kingdom,118340,142008,EUR,Redis;PostgreSQL;Python,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_787,glassdoor_europe,Software Architect,Nokia,"Capital, Denmark",DK,Denmark,78393,94071,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_788,glassdoor_europe,Full Stack Developer,Revolut,"City, Switzerland",CH,Switzerland,96414,115696,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_789,glassdoor_europe,Data Engineer,Wise,"City, Austria",AT,Austria,73072,87686,EUR,Airflow;Kafka;Spark,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_790,glassdoor_europe,Machine Learning Engineer,Nokia,"Capital, Sweden",SE,Sweden,78371,94045,EUR,TensorFlow;PyTorch;MLflow,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_791,glassdoor_europe,Technical Lead,Skype,"Capital, Sweden",SE,Sweden,63160,75792,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_792,glassdoor_europe,Software Architect,ASML,"Capital, Netherlands",NL,Netherlands,89307,107168,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_793,glassdoor_europe,Backend Developer,Philips,"City, Sweden",SE,Sweden,72063,86475,EUR,Redis;Python;Java,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_794,glassdoor_europe,Technical Lead,SAP,"City, Netherlands",NL,Netherlands,62780,75336,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_795,glassdoor_europe,Data Analyst,SAP,"City, Spain",ES,Spain,103947,124736,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_796,glassdoor_europe,Product Manager,OVH,"Capital, Norway",NO,Norway,134467,161360,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_797,glassdoor_europe,Backend Developer,Siemens,"Capital, Italy",IT,Italy,28237,33884,EUR,Java;Python;Redis,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_798,glassdoor_europe,Data Scientist,King Digital Entertainment,"City, United Kingdom",GB,United Kingdom,112776,135331,EUR,Machine Learning;R;Python,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_799,glassdoor_europe,Frontend Developer,Wise,"City, Norway",NO,Norway,70974,85168,EUR,HTML;React;JavaScript,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_800,glassdoor_europe,Staff Engineer,OVH,"City, United Kingdom",GB,United Kingdom,62388,74865,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_801,glassdoor_europe,DevOps Engineer,Amadeus,"City, Austria",AT,Austria,63436,76123,EUR,AWS;Jenkins;Kubernetes,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_802,glassdoor_europe,Full Stack Developer,Amadeus,"City, Italy",IT,Italy,59524,71428,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_803,glassdoor_europe,Data Analyst,Klarna,"Capital, Sweden",SE,Sweden,71468,85761,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_804,glassdoor_europe,Backend Developer,Klarna,"Capital, Netherlands",NL,Netherlands,162466,194959,EUR,PostgreSQL;Java;Node.js,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_805,glassdoor_europe,Data Analyst,Klarna,"City, Denmark",DK,Denmark,56357,67628,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_806,glassdoor_europe,Machine Learning Engineer,Booking.com,"City, Netherlands",NL,Netherlands,94223,113067,EUR,Docker;PyTorch;TensorFlow,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_807,glassdoor_europe,Machine Learning Engineer,Zalando,"Capital, Norway",NO,Norway,132841,159409,EUR,Python;MLflow;PyTorch,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_808,glassdoor_europe,Machine Learning Engineer,Criteo,"Capital, Italy",IT,Italy,76219,91462,EUR,Docker;MLflow;PyTorch,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_809,glassdoor_europe,Data Scientist,Spotify,"Capital, Denmark",DK,Denmark,88726,106471,EUR,TensorFlow;Machine Learning;R,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_810,glassdoor_europe,Machine Learning Engineer,Amadeus,"Capital, Germany",DE,Germany,118809,142570,EUR,MLflow;Docker;PyTorch,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_811,glassdoor_europe,Machine Learning Engineer,Philips,"City, Sweden",SE,Sweden,95299,114358,EUR,TensorFlow;MLflow;Docker,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_812,glassdoor_europe,Principal Engineer,Nokia,"Capital, Germany",DE,Germany,121687,146024,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_813,glassdoor_europe,Site Reliability Engineer,Ericsson,"Capital, Switzerland",CH,Switzerland,139750,167700,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_814,glassdoor_europe,Staff Engineer,Criteo,"City, United Kingdom",GB,United Kingdom,82535,99042,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_815,glassdoor_europe,Frontend Developer,Adyen,"Capital, France",FR,France,75033,90039,EUR,Vue.js;React;CSS,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_816,glassdoor_europe,Software Architect,Siemens,"City, Netherlands",NL,Netherlands,77136,92563,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_817,glassdoor_europe,Technical Lead,Supercell,"City, United Kingdom",GB,United Kingdom,144778,173733,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_818,glassdoor_europe,Full Stack Developer,ASML,"Capital, Spain",ES,Spain,40316,48379,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_819,glassdoor_europe,Principal Engineer,Spotify,"Capital, Germany",DE,Germany,85288,102345,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_820,glassdoor_europe,Staff Engineer,OVH,"City, Belgium",BE,Belgium,89566,107479,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_821,glassdoor_europe,Technical Lead,Criteo,"City, Germany",DE,Germany,153300,183960,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_822,glassdoor_europe,Machine Learning Engineer,Spotify,"City, Germany",DE,Germany,58611,70333,EUR,Docker;TensorFlow;Python,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_823,glassdoor_europe,Frontend Developer,BlaBlaCar,"City, France",FR,France,105789,126946,EUR,JavaScript;Vue.js;React,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_824,glassdoor_europe,Data Engineer,Skype,"Capital, Denmark",DK,Denmark,82114,98536,EUR,SQL;Python;Kafka,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_825,glassdoor_europe,Technical Lead,Zalando,"Capital, Belgium",BE,Belgium,46177,55412,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_826,glassdoor_europe,Machine Learning Engineer,ASML,"City, United Kingdom",GB,United Kingdom,138100,165720,EUR,Docker;Python;TensorFlow,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_827,glassdoor_europe,Staff Engineer,Ericsson,"City, Norway",NO,Norway,80523,96627,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_828,glassdoor_europe,Principal Engineer,SAP,"Capital, Italy",IT,Italy,55077,66092,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_829,glassdoor_europe,Software Engineer,Wise,"City, France",FR,France,108511,130213,EUR,Python;Docker;JavaScript,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_830,glassdoor_europe,Product Manager,Philips,"City, Norway",NO,Norway,74544,89452,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_831,glassdoor_europe,Technical Lead,Dassault Systemes,"Capital, Belgium",BE,Belgium,43256,51907,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_832,glassdoor_europe,Data Scientist,Spotify,"City, Spain",ES,Spain,69174,83008,EUR,R;Machine Learning;SQL,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_833,glassdoor_europe,Staff Engineer,Dassault Systemes,"City, France",FR,France,92649,111178,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_834,glassdoor_europe,Data Engineer,N26,"City, Italy",IT,Italy,52165,62598,EUR,SQL;Python;Kafka,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_835,glassdoor_europe,Software Architect,BlaBlaCar,"Capital, Spain",ES,Spain,67939,81526,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_836,glassdoor_europe,DevOps Engineer,DeepMind,"City, Switzerland",CH,Switzerland,100769,120922,EUR,AWS;Linux;Kubernetes,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_837,glassdoor_europe,Data Engineer,SAP,"City, Belgium",BE,Belgium,91366,109639,EUR,Python;Kafka;Airflow,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_838,glassdoor_europe,Technical Lead,Klarna,"City, Italy",IT,Italy,99204,119044,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_839,glassdoor_europe,Software Architect,King Digital Entertainment,"City, Belgium",BE,Belgium,116290,139548,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_840,glassdoor_europe,Frontend Developer,Zalando,"City, France",FR,France,45290,54348,EUR,React;HTML;Vue.js,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_841,glassdoor_europe,Technical Lead,BlaBlaCar,"Capital, France",FR,France,89210,107052,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_842,glassdoor_europe,Machine Learning Engineer,Criteo,"City, United Kingdom",GB,United Kingdom,70585,84702,EUR,Docker;PyTorch;MLflow,3,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_843,glassdoor_europe,Software Architect,BlaBlaCar,"Capital, Netherlands",NL,Netherlands,81268,97521,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.148252
+glassdoor_europe_844,glassdoor_europe,Data Scientist,Supercell,"Capital, Netherlands",NL,Netherlands,122037,146444,EUR,TensorFlow;SQL;R,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_845,glassdoor_europe,Frontend Developer,ARM,"City, France",FR,France,73851,88621,EUR,React;JavaScript;HTML,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_846,glassdoor_europe,Data Analyst,Dassault Systemes,"City, Germany",DE,Germany,122268,146721,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_847,glassdoor_europe,Software Architect,BlaBlaCar,"City, France",FR,France,92676,111211,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_848,glassdoor_europe,Software Architect,ARM,"City, Norway",NO,Norway,113072,135686,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_849,glassdoor_europe,Staff Engineer,DeepMind,"Capital, Sweden",SE,Sweden,76208,91449,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_850,glassdoor_europe,Frontend Developer,Nokia,"Capital, Belgium",BE,Belgium,106371,127645,EUR,JavaScript;HTML;React,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_851,glassdoor_europe,Data Analyst,DeepMind,"Capital, Italy",IT,Italy,55471,66565,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_852,glassdoor_europe,Backend Developer,N26,"Capital, Netherlands",NL,Netherlands,91005,109206,EUR,Python;PostgreSQL;Redis,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_853,glassdoor_europe,Principal Engineer,Ericsson,"Capital, Netherlands",NL,Netherlands,87875,105450,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_854,glassdoor_europe,Staff Engineer,Ericsson,"Capital, United Kingdom",GB,United Kingdom,70245,84294,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_855,glassdoor_europe,Product Manager,DeepMind,"Capital, Belgium",BE,Belgium,96928,116313,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_856,glassdoor_europe,Principal Engineer,Amadeus,"Capital, Germany",DE,Germany,104848,125817,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_857,glassdoor_europe,Product Manager,Amadeus,"Capital, Switzerland",CH,Switzerland,96024,115228,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_858,glassdoor_europe,Software Architect,Skype,"City, Netherlands",NL,Netherlands,97919,117502,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_859,glassdoor_europe,Full Stack Developer,Nokia,"City, Switzerland",CH,Switzerland,204835,245802,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_860,glassdoor_europe,Software Architect,OVH,"Capital, Belgium",BE,Belgium,87883,105459,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_861,glassdoor_europe,Software Architect,Spotify,"Capital, Denmark",DK,Denmark,104109,124930,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_862,glassdoor_europe,Staff Engineer,Spotify,"Capital, Germany",DE,Germany,69513,83415,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_863,glassdoor_europe,Staff Engineer,Siemens,"City, Italy",IT,Italy,38906,46687,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_864,glassdoor_europe,Principal Engineer,Dassault Systemes,"Capital, Netherlands",NL,Netherlands,132222,158666,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_865,glassdoor_europe,Machine Learning Engineer,Spotify,"City, Switzerland",CH,Switzerland,137629,165154,EUR,Docker;MLflow;Python,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_866,glassdoor_europe,Software Architect,Booking.com,"City, Sweden",SE,Sweden,67258,80709,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_867,glassdoor_europe,Machine Learning Engineer,Philips,"City, Italy",IT,Italy,106125,127350,EUR,Docker;Python;MLflow,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_868,glassdoor_europe,Technical Lead,ASML,"City, Netherlands",NL,Netherlands,87936,105523,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_869,glassdoor_europe,Staff Engineer,Skype,"City, Netherlands",NL,Netherlands,84389,101266,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_870,glassdoor_europe,Machine Learning Engineer,Supercell,"Capital, Belgium",BE,Belgium,43164,51796,EUR,Python;PyTorch;TensorFlow,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_871,glassdoor_europe,Staff Engineer,Zalando,"Capital, Italy",IT,Italy,94153,112983,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_872,glassdoor_europe,Data Scientist,Wise,"City, United Kingdom",GB,United Kingdom,102313,122775,EUR,Python;SQL;Machine Learning,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_873,glassdoor_europe,Backend Developer,N26,"Capital, France",FR,France,105159,126190,EUR,Python;PostgreSQL;Java,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_874,glassdoor_europe,Principal Engineer,Supercell,"Capital, Spain",ES,Spain,36963,44355,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_875,glassdoor_europe,Full Stack Developer,Nokia,"Capital, Spain",ES,Spain,64423,77307,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_876,glassdoor_europe,Data Analyst,Dassault Systemes,"Capital, Spain",ES,Spain,73557,88268,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_877,glassdoor_europe,Staff Engineer,ARM,"City, Netherlands",NL,Netherlands,75142,90170,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_878,glassdoor_europe,Product Manager,Amadeus,"Capital, Italy",IT,Italy,63916,76699,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_879,glassdoor_europe,Product Manager,OVH,"Capital, Norway",NO,Norway,132877,159452,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_880,glassdoor_europe,Full Stack Developer,OVH,"City, United Kingdom",GB,United Kingdom,86985,104382,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_881,glassdoor_europe,Frontend Developer,Dassault Systemes,"City, United Kingdom",GB,United Kingdom,89389,107266,EUR,React;HTML;Vue.js,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_882,glassdoor_europe,Technical Lead,Siemens,"City, Sweden",SE,Sweden,131425,157710,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_883,glassdoor_europe,Data Scientist,King Digital Entertainment,"City, France",FR,France,56935,68322,EUR,Python;Machine Learning;TensorFlow,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_884,glassdoor_europe,Backend Developer,Amadeus,"Capital, Denmark",DK,Denmark,71839,86206,EUR,PostgreSQL;Redis;Java,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_885,glassdoor_europe,Full Stack Developer,Revolut,"City, Netherlands",NL,Netherlands,104511,125413,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_886,glassdoor_europe,Staff Engineer,Wise,"City, Sweden",SE,Sweden,42162,50594,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_887,glassdoor_europe,Backend Developer,Klarna,"Capital, Austria",AT,Austria,77884,93460,EUR,Redis;PostgreSQL;Node.js,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_888,glassdoor_europe,Machine Learning Engineer,DeepMind,"City, Denmark",DK,Denmark,119115,142938,EUR,TensorFlow;MLflow;PyTorch,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_889,glassdoor_europe,DevOps Engineer,Ericsson,"Capital, Switzerland",CH,Switzerland,101163,121395,EUR,Docker;Kubernetes;Linux,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_890,glassdoor_europe,Data Analyst,Siemens,"Capital, Spain",ES,Spain,82708,99249,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_891,glassdoor_europe,Data Engineer,Klarna,"City, France",FR,France,41150,49380,EUR,Kafka;Airflow;SQL,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_892,glassdoor_europe,Principal Engineer,Dassault Systemes,"City, Netherlands",NL,Netherlands,121594,145912,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_893,glassdoor_europe,Data Scientist,Skype,"City, France",FR,France,66844,80212,EUR,Machine Learning;R;Python,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_894,glassdoor_europe,Frontend Developer,Spotify,"City, France",FR,France,76125,91350,EUR,Vue.js;HTML;JavaScript,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_895,glassdoor_europe,Frontend Developer,DeepMind,"City, United Kingdom",GB,United Kingdom,44757,53708,EUR,CSS;JavaScript;Vue.js,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_896,glassdoor_europe,Product Manager,Philips,"Capital, Norway",NO,Norway,80487,96584,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_897,glassdoor_europe,Full Stack Developer,Skype,"City, Germany",DE,Germany,85829,102994,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_898,glassdoor_europe,Software Architect,Dassault Systemes,"Capital, Austria",AT,Austria,87153,104583,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_899,glassdoor_europe,Data Analyst,Wise,"Capital, Belgium",BE,Belgium,90288,108345,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_900,glassdoor_europe,Principal Engineer,Philips,"City, France",FR,France,39565,47478,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_901,glassdoor_europe,Data Engineer,Booking.com,"Capital, Italy",IT,Italy,40111,48133,EUR,Spark;SQL;Kafka,3,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_902,glassdoor_europe,Product Manager,Revolut,"Capital, Switzerland",CH,Switzerland,133898,160677,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.149251
+glassdoor_europe_903,glassdoor_europe,Software Engineer,N26,"City, Germany",DE,Germany,44904,53884,EUR,Java;Python;Docker,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_904,glassdoor_europe,Full Stack Developer,Nokia,"Capital, Belgium",BE,Belgium,58345,70014,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_905,glassdoor_europe,DevOps Engineer,Zalando,"City, Netherlands",NL,Netherlands,124998,149997,EUR,Linux;Jenkins;AWS,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_906,glassdoor_europe,Data Engineer,Supercell,"Capital, Sweden",SE,Sweden,147504,177004,EUR,Airflow;Kafka;Spark,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_907,glassdoor_europe,Principal Engineer,ASML,"Capital, Sweden",SE,Sweden,60791,72949,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_908,glassdoor_europe,Principal Engineer,BlaBlaCar,"City, Sweden",SE,Sweden,131517,157820,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_909,glassdoor_europe,Data Scientist,Amadeus,"City, United Kingdom",GB,United Kingdom,84093,100911,EUR,Machine Learning;TensorFlow;SQL,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_910,glassdoor_europe,Site Reliability Engineer,Supercell,"City, Netherlands",NL,Netherlands,111637,133964,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_911,glassdoor_europe,DevOps Engineer,Criteo,"City, Norway",NO,Norway,138297,165956,EUR,Docker;AWS;Linux,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_912,glassdoor_europe,Backend Developer,Zalando,"Capital, United Kingdom",GB,United Kingdom,115414,138496,EUR,Node.js;Redis;PostgreSQL,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_913,glassdoor_europe,DevOps Engineer,Philips,"Capital, France",FR,France,114870,137844,EUR,Kubernetes;AWS;Jenkins,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_914,glassdoor_europe,Frontend Developer,Supercell,"Capital, Germany",DE,Germany,106771,128125,EUR,HTML;React;CSS,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_915,glassdoor_europe,Product Manager,Supercell,"Capital, Sweden",SE,Sweden,76461,91753,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_916,glassdoor_europe,Full Stack Developer,Zalando,"City, United Kingdom",GB,United Kingdom,60855,73026,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_917,glassdoor_europe,Software Engineer,Criteo,"Capital, Germany",DE,Germany,75784,90940,EUR,Python;JavaScript;Java,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_918,glassdoor_europe,Staff Engineer,Wise,"City, Belgium",BE,Belgium,71020,85224,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_919,glassdoor_europe,Software Engineer,Klarna,"Capital, France",FR,France,67039,80446,EUR,Python;Docker;JavaScript,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_920,glassdoor_europe,Backend Developer,Philips,"City, Belgium",BE,Belgium,47564,57076,EUR,Python;PostgreSQL;Node.js,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_921,glassdoor_europe,Principal Engineer,Supercell,"City, France",FR,France,56750,68100,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_922,glassdoor_europe,Data Scientist,Nokia,"City, Switzerland",CH,Switzerland,123766,148519,EUR,Machine Learning;TensorFlow;Python,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_923,glassdoor_europe,Backend Developer,Booking.com,"Capital, Sweden",SE,Sweden,65556,78667,EUR,Python;Redis;PostgreSQL,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_924,glassdoor_europe,Software Architect,N26,"City, Switzerland",CH,Switzerland,114892,137870,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_925,glassdoor_europe,Staff Engineer,SAP,"Capital, Belgium",BE,Belgium,88239,105886,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_926,glassdoor_europe,Site Reliability Engineer,Supercell,"City, Belgium",BE,Belgium,60098,72117,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_927,glassdoor_europe,Principal Engineer,Siemens,"City, Germany",DE,Germany,135054,162064,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_928,glassdoor_europe,Backend Developer,Adyen,"City, Germany",DE,Germany,127857,153428,EUR,Redis;Node.js;PostgreSQL,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_929,glassdoor_europe,Site Reliability Engineer,Amadeus,"Capital, United Kingdom",GB,United Kingdom,74225,89070,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_930,glassdoor_europe,Software Architect,Nokia,"City, Belgium",BE,Belgium,91239,109486,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_931,glassdoor_europe,Data Analyst,Zalando,"City, Spain",ES,Spain,50212,60254,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_932,glassdoor_europe,Frontend Developer,Revolut,"City, France",FR,France,89214,107056,EUR,JavaScript;React;CSS,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_933,glassdoor_europe,Data Engineer,Spotify,"Capital, Austria",AT,Austria,96627,115952,EUR,Airflow;Kafka;SQL,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_934,glassdoor_europe,Staff Engineer,ARM,"Capital, Norway",NO,Norway,154635,185562,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_935,glassdoor_europe,Backend Developer,Supercell,"City, Austria",AT,Austria,74397,89276,EUR,Python;Redis;Java,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_936,glassdoor_europe,Staff Engineer,Skype,"Capital, Italy",IT,Italy,62088,74505,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_937,glassdoor_europe,Backend Developer,OVH,"Capital, United Kingdom",GB,United Kingdom,76954,92344,EUR,Python;Redis;Node.js,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_938,glassdoor_europe,Data Analyst,Ericsson,"Capital, Germany",DE,Germany,88974,106768,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_939,glassdoor_europe,Staff Engineer,DeepMind,"City, France",FR,France,71216,85459,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_940,glassdoor_europe,Full Stack Developer,King Digital Entertainment,"City, Netherlands",NL,Netherlands,124027,148832,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_941,glassdoor_europe,Principal Engineer,N26,"Capital, Belgium",BE,Belgium,48315,57978,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_942,glassdoor_europe,Software Architect,ASML,"Capital, Austria",AT,Austria,75546,90655,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_943,glassdoor_europe,Data Analyst,DeepMind,"City, United Kingdom",GB,United Kingdom,145000,174000,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_944,glassdoor_europe,Principal Engineer,Adyen,"Capital, Italy",IT,Italy,47794,57352,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_945,glassdoor_europe,Frontend Developer,Klarna,"Capital, Norway",NO,Norway,94833,113799,EUR,Vue.js;React;CSS,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_946,glassdoor_europe,Site Reliability Engineer,Spotify,"City, Germany",DE,Germany,104629,125554,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_947,glassdoor_europe,Site Reliability Engineer,ASML,"Capital, Belgium",BE,Belgium,78910,94692,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_948,glassdoor_europe,Technical Lead,Wise,"City, Spain",ES,Spain,47846,57415,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_949,glassdoor_europe,Data Scientist,Criteo,"Capital, Norway",NO,Norway,61059,73270,EUR,SQL;R;TensorFlow,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_950,glassdoor_europe,Product Manager,SAP,"Capital, Spain",ES,Spain,31200,37440,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_951,glassdoor_europe,Product Manager,Criteo,"City, Sweden",SE,Sweden,70551,84661,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_952,glassdoor_europe,Staff Engineer,Nokia,"Capital, Italy",IT,Italy,62032,74438,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_953,glassdoor_europe,Site Reliability Engineer,Revolut,"Capital, Germany",DE,Germany,57430,68916,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_954,glassdoor_europe,DevOps Engineer,SAP,"City, France",FR,France,38437,46124,EUR,Linux;AWS;Jenkins,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_955,glassdoor_europe,Principal Engineer,King Digital Entertainment,"Capital, France",FR,France,119260,143112,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_956,glassdoor_europe,Frontend Developer,Philips,"City, Spain",ES,Spain,48955,58746,EUR,HTML;JavaScript;CSS,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_957,glassdoor_europe,Full Stack Developer,DeepMind,"Capital, Sweden",SE,Sweden,127189,152626,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_958,glassdoor_europe,Data Engineer,Siemens,"City, Denmark",DK,Denmark,134428,161313,EUR,SQL;Python;Spark,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_959,glassdoor_europe,Data Scientist,Adyen,"Capital, Austria",AT,Austria,98160,117792,EUR,SQL;R;Python,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_960,glassdoor_europe,Backend Developer,Philips,"City, Germany",DE,Germany,127602,153122,EUR,Java;Redis;Node.js,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_961,glassdoor_europe,Machine Learning Engineer,Criteo,"City, Belgium",BE,Belgium,55104,66124,EUR,PyTorch;Python;TensorFlow,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_962,glassdoor_europe,Software Architect,Philips,"Capital, Denmark",DK,Denmark,75176,90211,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_963,glassdoor_europe,Software Engineer,Zalando,"Capital, United Kingdom",GB,United Kingdom,61809,74170,EUR,React;JavaScript;Java,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_964,glassdoor_europe,Data Engineer,Zalando,"City, Italy",IT,Italy,45813,54975,EUR,Spark;Python;Airflow,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_965,glassdoor_europe,DevOps Engineer,Siemens,"City, Italy",IT,Italy,57181,68617,EUR,Jenkins;AWS;Linux,3,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_966,glassdoor_europe,Full Stack Developer,Dassault Systemes,"Capital, Netherlands",NL,Netherlands,72459,86950,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_967,glassdoor_europe,Staff Engineer,Supercell,"City, Sweden",SE,Sweden,137115,164538,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.150251
+glassdoor_europe_968,glassdoor_europe,Frontend Developer,Zalando,"City, Switzerland",CH,Switzerland,113545,136254,EUR,Vue.js;React;HTML,3,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_969,glassdoor_europe,Backend Developer,Amadeus,"City, Spain",ES,Spain,68384,82060,EUR,PostgreSQL;Redis;Python,3,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_970,glassdoor_europe,Data Engineer,ARM,"City, Switzerland",CH,Switzerland,77272,92726,EUR,SQL;Python;Spark,3,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_971,glassdoor_europe,Frontend Developer,Klarna,"Capital, Netherlands",NL,Netherlands,97863,117435,EUR,JavaScript;React;HTML,3,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_972,glassdoor_europe,Backend Developer,King Digital Entertainment,"Capital, Sweden",SE,Sweden,98526,118231,EUR,Node.js;Redis;Java,3,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_973,glassdoor_europe,Full Stack Developer,Zalando,"Capital, United Kingdom",GB,United Kingdom,115645,138774,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_974,glassdoor_europe,Backend Developer,Booking.com,"City, Germany",DE,Germany,79774,95728,EUR,Java;PostgreSQL;Node.js,3,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_975,glassdoor_europe,Software Architect,King Digital Entertainment,"City, Belgium",BE,Belgium,66192,79430,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_976,glassdoor_europe,Software Architect,Amadeus,"City, United Kingdom",GB,United Kingdom,55773,66927,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_977,glassdoor_europe,Data Engineer,Booking.com,"Capital, Sweden",SE,Sweden,70266,84319,EUR,Spark;Airflow;Python,3,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_978,glassdoor_europe,Site Reliability Engineer,Ericsson,"Capital, Spain",ES,Spain,27785,33342,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_979,glassdoor_europe,DevOps Engineer,Wise,"City, Germany",DE,Germany,97736,117283,EUR,AWS;Kubernetes;Linux,3,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_980,glassdoor_europe,Product Manager,Philips,"Capital, Germany",DE,Germany,92547,111056,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_981,glassdoor_europe,Full Stack Developer,Klarna,"Capital, Germany",DE,Germany,124168,149001,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_982,glassdoor_europe,Full Stack Developer,SAP,"Capital, Sweden",SE,Sweden,121832,146198,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_983,glassdoor_europe,Backend Developer,Amadeus,"City, Netherlands",NL,Netherlands,63979,76774,EUR,Redis;Python;Node.js,3,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_984,glassdoor_europe,Software Engineer,Criteo,"Capital, Spain",ES,Spain,53034,63640,EUR,Python;JavaScript;React,3,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_985,glassdoor_europe,Machine Learning Engineer,Klarna,"City, France",FR,France,69052,82862,EUR,PyTorch;MLflow;Python,3,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_986,glassdoor_europe,Technical Lead,Adyen,"City, Spain",ES,Spain,69024,82828,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_987,glassdoor_europe,Data Analyst,Skype,"City, France",FR,France,103890,124668,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_988,glassdoor_europe,Frontend Developer,Supercell,"Capital, United Kingdom",GB,United Kingdom,75728,90873,EUR,React;Vue.js;CSS,3,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_989,glassdoor_europe,Data Scientist,Wise,"Capital, Spain",ES,Spain,71577,85892,EUR,Python;Machine Learning;TensorFlow,3,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_990,glassdoor_europe,Product Manager,N26,"Capital, Spain",ES,Spain,34859,41830,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_991,glassdoor_europe,Machine Learning Engineer,ARM,"City, Germany",DE,Germany,74772,89726,EUR,MLflow;PyTorch;Docker,3,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_992,glassdoor_europe,Site Reliability Engineer,Siemens,"Capital, Belgium",BE,Belgium,58377,70052,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_993,glassdoor_europe,Principal Engineer,Amadeus,"Capital, Italy",IT,Italy,95059,114070,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_994,glassdoor_europe,Site Reliability Engineer,Adyen,"Capital, Denmark",DK,Denmark,86116,103339,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_995,glassdoor_europe,Machine Learning Engineer,King Digital Entertainment,"City, Switzerland",CH,Switzerland,90217,108260,EUR,TensorFlow;Python;PyTorch,3,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_996,glassdoor_europe,Full Stack Developer,King Digital Entertainment,"Capital, Switzerland",CH,Switzerland,75564,90676,EUR,Programming;Problem Solving,2,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_997,glassdoor_europe,Software Engineer,Adyen,"Capital, Spain",ES,Spain,62554,75064,EUR,Python;Java;React,3,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_998,glassdoor_europe,Principal Engineer,Amadeus,"City, Germany",DE,Germany,135982,163178,EUR,Problem Solving;Programming,2,european_market_data,2025-07-02T11:14:24.151251
+glassdoor_europe_999,glassdoor_europe,Data Scientist,King Digital Entertainment,"City, Netherlands",NL,Netherlands,92167,110600,EUR,SQL;Python;Machine Learning,3,european_market_data,2025-07-02T11:14:24.151251
