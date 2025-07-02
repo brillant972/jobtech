@@ -16,8 +16,30 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from api.views import SalaryStatsView
+from api.views import *
+from django.urls import include, path
+from rest_framework.routers import DefaultRouter
+
+router = DefaultRouter()
+router.register(r'adzuna', AdzunaViewSet)
+router.register(r'github/stats', GithubStatsViewSet)
+router.register(r'github/repos', GithubRepoViewSet)
+router.register(r'google/trends_group', GoogleTrendsGroupViewSet)
+router.register(r'google/trend', GoogleTrendViewSet)
+router.register(r'stackoverflow', StackOverflowViewSet)
+router.register(r'glassdoor', GlassdoorViewSet)
+router.register(r'kaggle', KaggleViewSet)
 
 urlpatterns = [
+    path('', include(router.urls)),
+    path('analytics/average-salaries/', AverageSalaryView.as_view(), name='average-salaries'),
     path('api/v1/salary-daily/', SalaryStatsView.as_view()),
+    path('analytics/top-salary-countries/', TopSalaryCountriesView.as_view(), name='top-salary-countries'),
+    path('analytics/top-skills-by-country/', TopSkillsByCountryView.as_view()),
+    path('analytics/suggested-skills/', SuggestedSkillsView.as_view()),
+    path('analytics/skill-trend/', SkillTrendView.as_view()),
+    path('analytics/salary-comparison/', SalaryComparisonBySkillView.as_view()),
 ]
+
+
+

@@ -255,3 +255,58 @@ En cas de probleme technique:
 2. **SUIVANT**: Nettoyage et normalisation (Personne 2)
 3. **APRES**: Construction Data Warehouse (Personne 3)  
 4. **FINAL**: Developpement API Django (Personne 4)
+
+
+
+
+
+
+
+
+## Etape API Django
+# 📡 JobTech API — Backend Django REST
+
+Cette API expose des données issues de différentes plateformes tech et emploi (Adzuna, GitHub, StackOverflow, Glassdoor, Kaggle...) et propose des endpoints analytiques enrichis pour explorer les tendances, salaires et compétences les plus recherchées.
+
+---
+
+## 🚀 Lancer l'API en local (HTTPS)
+
+L'API fonctionne en HTTPS via un certificat SSL local.
+
+### 1. Installer les dépendances
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Installer les dépendances
+```bash
+python manage.py runserver_plus --cert-file ./ssl/cert.pem --key-file ./ssl/key.pem
+```
+### 3. Endpoints principaux
+- `GET /adzuna/`: Retourne les données d'Adzuna
+- `GET /github/stats/`: Retourne les données de GitHub
+- `GET /github/repos/`: Retourne les données de GitHub
+- `GET /glassdoor/`: Retourne les données de Glassdoor
+- `GET /kaggle/`: Retourne les données de Kaggle
+- `GET /stackoverflow/`: Retourne les données de StackOverflow
+- `GET /google/trends/`: Retourne les données de GoodleTrends
+- `GET /google/trends_group/`: Retourne les données de GoodleTrends
+
+### 4. Endpoints principaux
+- `GET /analytics/average-salaries/`: Moyenne, médiane, min, max des salaires sur toutes les plateformes
+- `GET /analytics/top-skills-by-country/`: Top 5 compétences les plus présentes dans les offres d’un pays
+- `GET /analytics/suggested-skills/`: Compétences populaires demandées mais sous-représentées chez les devs
+- `GET /analytics/skill-trend/`: Évolution de popularité d’un skill (Google Trends + GitHub)
+- `GET /analytics/salary-comparison/`: Comparaison des salaires pour une compétence entre plateformes
+
+
+### 5. Stack technique
+- **Backend**: Django 3.2
+- **Base de données**: PostgreSQL
+- **API**: Django REST Framework 3.12
+- **Authentification**: Token-based authentification via Django REST Framework
+- **SSL**: Certificat SSL local généré via OpenSSL
+- **Tests**: Unit tests et tests de fonctionnalités via Django Test Framework
+- **Documentation**: Swagger UI et API documentation via Django REST Framework

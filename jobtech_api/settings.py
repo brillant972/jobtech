@@ -31,6 +31,9 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'django.contrib.admin',
+    'api',
+    'rest_framework',
+    'django_extensions',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
@@ -73,14 +76,21 @@ WSGI_APPLICATION = 'jobtech_api.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'jobtech_db',
-        'USER': 'postgres',
-        'PASSWORD': 'ton_mot_de_passe',
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+
+#DATABASES = {
+#    'default': {
+#        'ENGINE': 'django.db.backends.postgresql',
+#        'NAME': 'jobtech_db',
+#        'USER': 'postgres',
+#        'PASSWORD': 'ton_mot_de_passe',
+#        'HOST': 'localhost',
+#        'PORT': '5432',
+#    }
+#}
 
 
 # Password validation
