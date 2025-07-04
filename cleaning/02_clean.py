@@ -175,7 +175,7 @@ class DataCleaner:
         return df_clean
     
     def clean_github_data(self):
-        """Nettoie et normalise les données GitHub"""
+        """Nettoie et normalise les données GitHub avec séparation par type"""
         logger.info("Nettoyage données GitHub...")
         
         github_path = self.project_root / "data" / "raw" / "github"
@@ -184,43 +184,89 @@ class DataCleaner:
             return None
         
         github_files = list(github_path.glob("*.csv"))
-        all_github = []
         
-        for file in github_files:
-            try:
-                df = pd.read_csv(file)
-                df['source_file'] = file.name
-                logger.info(f"{file.name}: {len(df)} lignes")
-                all_github.append(df)
-            except Exception as e:
-                logger.error(f"[NOK] Erreur lecture {file.name}: {e}")
+        # Séparation par type de fichier
+        language_files = [f for f in github_files if 'language_stats' in f.name]
+        trending_files = [f for f in github_files if 'trending_repos' in f.name]
         
-        if not all_github:
+        result_dfs = {}
+        
+        # Traitement des statistiques de langages
+        if language_files:
+            logger.info(f"Fichiers language_stats: {len(language_files)}")
+            language_data = []
+            for file in language_files:
+                try:
+                    df = pd.read_csv(file)
+                    df['source_file'] = file.name
+                    df['github_data_type'] = 'language_stats'
+                    logger.info(f"{file.name}: {len(df)} lignes (language_stats)")
+                    language_data.append(df)
+                except Exception as e:
+                    logger.error(f"[NOK] Erreur lecture {file.name}: {e}")
+            
+            if language_data:
+                df_language = pd.concat(language_data, ignore_index=True)
+                logger.info(f"Language stats consolidés: {len(df_language)} lignes")
+                
+                # Nettoyage et normalisation spécifique aux language stats
+                df_language_clean = df_language.copy()
+                
+                # Normalisation des langages si colonne 'language' présente
+                if 'language' in df_language_clean.columns:
+                    df_language_clean['language_normalized'] = df_language_clean['language'].apply(self.normalize_technology)
+                
+                # Enrichissement métadonnées
+                df_language_clean['source_type'] = 'github_language_stats'
+                df_language_clean['processed_at'] = pd.Timestamp.now()
+                
+                # Suppression des doublons
+                df_language_clean = self.remove_duplicates_safe(df_language_clean, "GitHub Language Stats")
+                
+                result_dfs['language_stats'] = df_language_clean
+        
+        # Traitement des repos trending
+        if trending_files:
+            logger.info(f"Fichiers trending_repos: {len(trending_files)}")
+            trending_data = []
+            for file in trending_files:
+                try:
+                    df = pd.read_csv(file)
+                    df['source_file'] = file.name
+                    df['github_data_type'] = 'trending_repos'
+                    logger.info(f"{file.name}: {len(df)} lignes (trending_repos)")
+                    trending_data.append(df)
+                except Exception as e:
+                    logger.error(f"[NOK] Erreur lecture {file.name}: {e}")
+            
+            if trending_data:
+                df_trending = pd.concat(trending_data, ignore_index=True)
+                logger.info(f"Trending repos consolidés: {len(df_trending)} lignes")
+                
+                # Nettoyage et normalisation spécifique aux trending repos
+                df_trending_clean = df_trending.copy()
+                
+                # Normalisation des langages si colonne 'language' présente
+                if 'language' in df_trending_clean.columns:
+                    df_trending_clean['language_normalized'] = df_trending_clean['language'].apply(self.normalize_technology)
+                
+                # Enrichissement métadonnées
+                df_trending_clean['source_type'] = 'github_trending_repos'
+                df_trending_clean['processed_at'] = pd.Timestamp.now()
+                
+                # Suppression des doublons
+                df_trending_clean = self.remove_duplicates_safe(df_trending_clean, "GitHub Trending Repos")
+                
+                result_dfs['trending_repos'] = df_trending_clean
+        
+        if not result_dfs:
             logger.warning("[ATTENTION] Aucune donnée GitHub trouvée")
             return None
         
-        # Consolidation GitHub
-        df_github = pd.concat(all_github, ignore_index=True)
-        logger.info(f"Total GitHub: {len(df_github)} lignes")
-        
-        # Nettoyage et normalisation
-        df_clean = df_github.copy()
-        
-        # Normalisation des langages si colonne 'language' présente
-        if 'language' in df_clean.columns:
-            df_clean['language_normalized'] = df_clean['language'].apply(self.normalize_technology)
-        
-        # Enrichissement métadonnées
-        df_clean['source_type'] = 'github_data'
-        df_clean['processed_at'] = pd.Timestamp.now()
-        
-        # drop doublons
-        df_clean = self.remove_duplicates_safe(df_clean, "GitHub")
-        
-        return df_clean
+        return result_dfs
     
     def clean_trends_data(self):
-        """Nettoie et normalise les données Google Trends"""
+        """Nettoie et normalise les données Google Trends avec fichiers séparés par type"""
         logger.info("Nettoyage données Google Trends...")
         
         trends_path = self.project_root / "data" / "raw" / "google_trends"
@@ -229,89 +275,229 @@ class DataCleaner:
             return None
         
         trends_files = list(trends_path.glob("*.csv"))
+        
+        # Séparation intelligente par type de fichier
+        comparison_files = [f for f in trends_files if 'tech_comparisons' in f.name]
+        
+        # Fichiers trends : prioriser les fichiers "all" qui sont déjà consolidés
+        all_country_files = [f for f in trends_files if 'all_countries' in f.name or 'all' in f.name]
+        individual_country_files = [f for f in trends_files if 
+                                   'trends_' in f.name and 
+                                   'tech_comparisons' not in f.name and 
+                                   'all' not in f.name]
+        
+        results = {}
+        
+        # Traitement des comparaisons tech (fichier séparé)
+        if comparison_files:
+            logger.info(f"Fichiers tech_comparisons: {len(comparison_files)}")
+            all_comparisons = []
+            for file in comparison_files:
+                try:
+                    df = pd.read_csv(file)
+                    df['source_file'] = file.name
+                    df['trends_data_type'] = 'tech_comparisons'
+                    logger.info(f"{file.name}: {len(df)} lignes (tech_comparisons)")
+                    all_comparisons.append(df)
+                except Exception as e:
+                    logger.error(f"[NOK] Erreur lecture {file.name}: {e}")
+            
+            if all_comparisons:
+                df_comparisons = pd.concat(all_comparisons, ignore_index=True)
+                
+                # Normalisation des pays et technologies
+                if 'country' in df_comparisons.columns:
+                    df_comparisons['country_normalized'] = df_comparisons['country'].apply(self.normalize_country)
+                if 'technology' in df_comparisons.columns:
+                    df_comparisons['technology_normalized'] = df_comparisons['technology'].apply(self.extract_technology_from_keyword)
+                
+                df_comparisons['source_type'] = 'tech_comparisons'
+                df_comparisons['processed_at'] = pd.Timestamp.now()
+                
+                # Suppression doublons
+                df_comparisons = self.remove_duplicates_safe(df_comparisons, "Tech Comparisons")
+                
+                results['tech_comparisons'] = df_comparisons
+        
+        # Traitement des tendances pays (fichier séparé)
         all_trends = []
         
-        for file in trends_files:
-            try:
-                df = pd.read_csv(file)
-                df['source_file'] = file.name
-                logger.info(f"{file.name}: {len(df)} lignes")
-                all_trends.append(df)
-            except Exception as e:
-                logger.error(f"[NOK] Erreur lecture {file.name}: {e}")
+        if all_country_files:
+            logger.info(f"Fichiers trends consolidés (all_countries): {len(all_country_files)}")
+            for file in all_country_files:
+                try:
+                    df = pd.read_csv(file)
+                    df['source_file'] = file.name
+                    df['trends_data_type'] = 'country_trends_consolidated'
+                    logger.info(f"{file.name}: {len(df)} lignes (déjà consolidé)")
+                    all_trends.append(df)
+                except Exception as e:
+                    logger.error(f"[NOK] Erreur lecture {file.name}: {e}")
         
-        if not all_trends:
+        elif individual_country_files:
+            # Seulement si pas de fichier "all" disponible
+            logger.info(f"Fichiers trends par pays individuels: {len(individual_country_files)}")
+            logger.info("ATTENTION: Consolidation des fichiers individuels (pas de fichier 'all' trouvé)")
+            
+            country_data = []
+            for file in individual_country_files:
+                try:
+                    df = pd.read_csv(file)
+                    df['source_file'] = file.name
+                    df['trends_data_type'] = 'country_trends_individual'
+                    logger.info(f"{file.name}: {len(df)} lignes (individuel)")
+                    country_data.append(df)
+                except Exception as e:
+                    logger.error(f"[NOK] Erreur lecture {file.name}: {e}")
+            
+            # Consolider les tendances individuelles
+            if country_data:
+                all_trends.extend(country_data)
+        
+        if all_trends:
+            df_trends = pd.concat(all_trends, ignore_index=True)
+            logger.info(f"Tendances pays: {len(df_trends)} lignes")
+            
+            # Normalisation des pays et mots-clés
+            if 'country' in df_trends.columns:
+                df_trends['country_normalized'] = df_trends['country'].apply(self.normalize_country)
+            if 'keyword' in df_trends.columns:
+                df_trends['keyword_normalized'] = df_trends['keyword'].apply(self.extract_technology_from_keyword)
+            
+            df_trends['source_type'] = 'country_trends'
+            df_trends['processed_at'] = pd.Timestamp.now()
+            
+            # Suppression doublons
+            df_trends = self.remove_duplicates_safe(df_trends, "Country Trends")
+            
+            results['country_trends'] = df_trends
+        
+        if not results:
             logger.warning("[ATTENTION] Aucune donnée Trends trouvée")
             return None
         
-        # Consolidation Trends
-        df_trends = pd.concat(all_trends, ignore_index=True)
-        logger.info(f"Total Trends: {len(df_trends)} lignes")
-        
-        # Nettoyage et normalisation
-        df_clean = df_trends.copy()
-        
-        # Normalisation des pays si colonne 'country' présente
-        if 'country' in df_clean.columns:
-            df_clean['country_normalized'] = df_clean['country'].apply(self.normalize_country)
-        
-        # Normalisation des mots-clés/technologies si colonne 'keyword' présente
-        if 'keyword' in df_clean.columns:
-            df_clean['keyword_normalized'] = df_clean['keyword'].apply(self.extract_technology_from_keyword)
-        
-        # Enrichissement métadonnées
-        df_clean['source_type'] = 'trends_data'
-        df_clean['processed_at'] = pd.Timestamp.now()
-        
-        # drop doublons
-        df_clean = self.remove_duplicates_safe(df_clean, "Google Trends")
-        
-        return df_clean
+        return results
     
-    def clean_survey_data(self):
-        """Nettoie et normalise les données de surveys (Kaggle + StackOverflow)"""
-        logger.info("Nettoyage données Surveys...")
+    def clean_kaggle_data(self):
+        """Nettoie et normalise les données Kaggle séparément par type"""
+        logger.info("Nettoyage données Kaggle...")
         
-        all_surveys = []
-        
-        # Kaggle surveys
         kaggle_path = self.project_root / "data" / "raw" / "kaggle"
-        if kaggle_path.exists():
-            kaggle_files = list(kaggle_path.glob("*.csv"))
-            for file in kaggle_files:
+        if not kaggle_path.exists():
+            logger.warning("[ATTENTION] Dossier Kaggle non trouvé")
+            return None, None
+        
+        kaggle_files = list(kaggle_path.glob("*.csv"))
+        
+        # Séparation des fichiers Kaggle par type
+        europe_files = [f for f in kaggle_files if 'europe' in f.name]
+        raw_files = [f for f in kaggle_files if 'raw' in f.name and 'europe' not in f.name]
+        
+        df_europe = None
+        df_raw = None
+        
+        # Traitement des surveys Europe (séparément)
+        if europe_files:
+            logger.info(f"Fichiers Kaggle Europe: {len(europe_files)}")
+            europe_data = []
+            for file in europe_files:
                 try:
                     df = pd.read_csv(file)
-                    df['survey_source'] = 'kaggle'
+                    df['survey_source'] = 'kaggle_europe'
                     df['source_file'] = file.name
-                    logger.info(f"Kaggle {file.name}: {len(df)} lignes")
-                    all_surveys.append(df)
+                    logger.info(f"Kaggle Europe {file.name}: {len(df)} lignes")
+                    europe_data.append(df)
                 except Exception as e:
-                    logger.error(f"[NOK] Erreur lecture Kaggle {file.name}: {e}")
+                    logger.error(f"[NOK] Erreur lecture Kaggle Europe {file.name}: {e}")
+            
+            if europe_data:
+                df_europe = pd.concat(europe_data, ignore_index=True)
+                logger.info(f"Total Kaggle Europe: {len(df_europe)} lignes")
         
-        # StackOverflow surveys
+        # Traitement des surveys bruts (séparément)
+        if raw_files:
+            logger.info(f"Fichiers Kaggle Raw: {len(raw_files)}")
+            raw_data = []
+            for file in raw_files:
+                try:
+                    df = pd.read_csv(file)
+                    df['survey_source'] = 'kaggle_raw'
+                    df['source_file'] = file.name
+                    logger.info(f"Kaggle Raw {file.name}: {len(df)} lignes")
+                    raw_data.append(df)
+                except Exception as e:
+                    logger.error(f"[NOK] Erreur lecture Kaggle Raw {file.name}: {e}")
+            
+            if raw_data:
+                df_raw = pd.concat(raw_data, ignore_index=True)
+                logger.info(f"Total Kaggle Raw: {len(df_raw)} lignes")
+        
+        return df_europe, df_raw
+    
+    def clean_stackoverflow_data(self):
+        """Nettoie et normalise les données StackOverflow séparément"""
+        logger.info("Nettoyage données StackOverflow...")
+        
         stackoverflow_path = self.project_root / "data" / "raw" / "stackoverflow"
-        if stackoverflow_path.exists():
-            stackoverflow_files = list(stackoverflow_path.glob("*.csv"))
-            for file in stackoverflow_files:
+        if not stackoverflow_path.exists():
+            logger.warning("[ATTENTION] Dossier StackOverflow non trouvé")
+            return None
+        
+        stackoverflow_files = list(stackoverflow_path.glob("*.csv"))
+        
+        # Fichiers déjà consolidés vs fichiers individuels
+        all_country_files = [f for f in stackoverflow_files if 'all_countries' in f.name or 'all' in f.name]
+        individual_country_files = [f for f in stackoverflow_files if 
+                                  'stackoverflow_' in f.name and 
+                                  'all' not in f.name]
+        
+        if all_country_files:
+            logger.info(f"Fichiers StackOverflow consolidés (all_countries): {len(all_country_files)}")
+            stackoverflow_data = []
+            for file in all_country_files:
                 try:
                     df = pd.read_csv(file)
                     df['survey_source'] = 'stackoverflow'
                     df['source_file'] = file.name
-                    logger.info(f"StackOverflow {file.name}: {len(df)} lignes")
-                    all_surveys.append(df)
+                    logger.info(f"StackOverflow (consolidé) {file.name}: {len(df)} lignes")
+                    stackoverflow_data.append(df)
                 except Exception as e:
-                    logger.error(f"[NOK] Erreur lecture StackOverflow {file.name}: {e}")
+                    logger.error(f"[NOK] Erreur lecture StackOverflow consolidé {file.name}: {e}")
+            
+            if stackoverflow_data:
+                df_stackoverflow = pd.concat(stackoverflow_data, ignore_index=True)
+                return df_stackoverflow
         
-        if not all_surveys:
-            logger.warning("[ATTENTION] Aucune donnée Survey trouvée")
+        elif individual_country_files:
+            # Seulement si pas de fichier "all" disponible
+            logger.info(f"Fichiers StackOverflow individuels: {len(individual_country_files)}")
+            logger.info("ATTENTION: Consolidation des fichiers individuels (pas de fichier 'all' trouvé)")
+            
+            stackoverflow_data = []
+            for file in individual_country_files:
+                try:
+                    df = pd.read_csv(file)
+                    df['survey_source'] = 'stackoverflow'
+                    df['source_file'] = file.name
+                    logger.info(f"StackOverflow (individuel) {file.name}: {len(df)} lignes")
+                    stackoverflow_data.append(df)
+                except Exception as e:
+                    logger.error(f"[NOK] Erreur lecture StackOverflow individuel {file.name}: {e}")
+            
+            # Consolider les StackOverflow individuels
+            if stackoverflow_data:
+                df_stackoverflow = pd.concat(stackoverflow_data, ignore_index=True)
+                logger.info(f"StackOverflow consolidé: {len(df_stackoverflow)} lignes")
+                return df_stackoverflow
+        
+        return None
+    
+    def normalize_survey_data(self, df, survey_type):
+        """Normalise les données de surveys"""
+        if df is None or len(df) == 0:
             return None
         
-        # Consolidation Surveys
-        df_surveys = pd.concat(all_surveys, ignore_index=True)
-        logger.info(f"Total Surveys: {len(df_surveys)} lignes")
-        
-        # Nettoyage et normalisation
-        df_clean = df_surveys.copy()
+        df_clean = df.copy()
         
         # Harmonisation des colonnes communes
         if 'country_code' in df_clean.columns and 'country' not in df_clean.columns:
@@ -342,7 +528,7 @@ class DataCleaner:
         df_clean['processed_at'] = pd.Timestamp.now()
         
         # drop doublons
-        df_clean = self.remove_duplicates_safe(df_clean, "Surveys")
+        df_clean = self.remove_duplicates_safe(df_clean, survey_type)
         
         return df_clean
     
@@ -528,29 +714,68 @@ class DataCleaner:
             results['glassdoor'] = len(glassdoor_validated)
             glassdoor_clean = glassdoor_validated
         
-        # Nettoyage GitHub
-        github_clean = self.clean_github_data()
-        if github_clean is not None:
-            output_path = self.project_root / "data" / "clean" / "github_jobs_clean.parquet"
-            github_clean.to_parquet(output_path, compression='snappy', index=False)
-            logger.info(f"[OK] GitHub sauvé: {len(github_clean)} lignes → {output_path}")
-            results['github'] = len(github_clean)
+        # Nettoyage GitHub (retourne un dictionnaire)
+        github_results = self.clean_github_data()
+        if github_results:
+            # Sauvegarde séparée des language stats et trending repos
+            if 'language_stats' in github_results:
+                output_path = self.project_root / "data" / "clean" / "github_language_stats_clean.parquet"
+                github_results['language_stats'].to_parquet(output_path, compression='snappy', index=False)
+                logger.info(f"[OK] GitHub Language Stats sauvé: {len(github_results['language_stats'])} lignes → {output_path}")
+                results['github_language_stats'] = len(github_results['language_stats'])
+            
+            if 'trending_repos' in github_results:
+                output_path = self.project_root / "data" / "clean" / "github_trending_repos_clean.parquet"
+                github_results['trending_repos'].to_parquet(output_path, compression='snappy', index=False)
+                logger.info(f"[OK] GitHub Trending Repos sauvé: {len(github_results['trending_repos'])} lignes → {output_path}")
+                results['github_trending_repos'] = len(github_results['trending_repos'])
         
-        # Nettoyage Trends
-        trends_clean = self.clean_trends_data()
-        if trends_clean is not None:
-            output_path = self.project_root / "data" / "clean" / "trends_data_clean.parquet"
-            trends_clean.to_parquet(output_path, compression='snappy', index=False)
-            logger.info(f"[OK] Trends sauvé: {len(trends_clean)} lignes → {output_path}")
-            results['trends'] = len(trends_clean)
+        # Nettoyage Trends (retourne un dictionnaire)
+        trends_results = self.clean_trends_data()
+        if trends_results:
+            # Sauvegarde séparée des comparaisons tech et tendances pays
+            if 'tech_comparisons' in trends_results:
+                output_path = self.project_root / "data" / "clean" / "tech_comparisons_clean.parquet"
+                trends_results['tech_comparisons'].to_parquet(output_path, compression='snappy', index=False)
+                logger.info(f"[OK] Tech Comparisons sauvé: {len(trends_results['tech_comparisons'])} lignes → {output_path}")
+                results['tech_comparisons'] = len(trends_results['tech_comparisons'])
+            
+            if 'country_trends' in trends_results:
+                output_path = self.project_root / "data" / "clean" / "country_trends_clean.parquet"
+                trends_results['country_trends'].to_parquet(output_path, compression='snappy', index=False)
+                logger.info(f"[OK] Country Trends sauvé: {len(trends_results['country_trends'])} lignes → {output_path}")
+                results['country_trends'] = len(trends_results['country_trends'])
         
-        # Nettoyage Surveys
-        surveys_clean = self.clean_survey_data()
-        if surveys_clean is not None:
-            output_path = self.project_root / "data" / "clean" / "surveys_data_clean.parquet"
-            surveys_clean.to_parquet(output_path, compression='snappy', index=False)
-            logger.info(f"[OK] Surveys sauvé: {len(surveys_clean)} lignes → {output_path}")
-            results['surveys'] = len(surveys_clean)
+        # Nettoyage Surveys séparément
+        kaggle_europe, kaggle_raw = self.clean_kaggle_data()
+        stackoverflow_clean = self.clean_stackoverflow_data()
+        
+        # Normalisation et sauvegarde Kaggle Europe
+        if kaggle_europe is not None:
+            kaggle_europe_clean = self.normalize_survey_data(kaggle_europe, "Kaggle Europe")
+            if kaggle_europe_clean is not None:
+                output_path = self.project_root / "data" / "clean" / "kaggle_europe_clean.parquet"
+                kaggle_europe_clean.to_parquet(output_path, compression='snappy', index=False)
+                logger.info(f"[OK] Kaggle Europe sauvé: {len(kaggle_europe_clean)} lignes → {output_path}")
+                results['kaggle_europe'] = len(kaggle_europe_clean)
+        
+        # Normalisation et sauvegarde Kaggle Raw
+        if kaggle_raw is not None:
+            kaggle_raw_clean = self.normalize_survey_data(kaggle_raw, "Kaggle Raw")
+            if kaggle_raw_clean is not None:
+                output_path = self.project_root / "data" / "clean" / "kaggle_raw_clean.parquet"
+                kaggle_raw_clean.to_parquet(output_path, compression='snappy', index=False)
+                logger.info(f"[OK] Kaggle Raw sauvé: {len(kaggle_raw_clean)} lignes → {output_path}")
+                results['kaggle_raw'] = len(kaggle_raw_clean)
+        
+        # Normalisation et sauvegarde StackOverflow
+        if stackoverflow_clean is not None:
+            stackoverflow_normalized = self.normalize_survey_data(stackoverflow_clean, "StackOverflow")
+            if stackoverflow_normalized is not None:
+                output_path = self.project_root / "data" / "clean" / "stackoverflow_clean.parquet"
+                stackoverflow_normalized.to_parquet(output_path, compression='snappy', index=False)
+                logger.info(f"[OK] StackOverflow sauvé: {len(stackoverflow_normalized)} lignes → {output_path}")
+                results['stackoverflow'] = len(stackoverflow_normalized)
         
         # Consolidation
         if adzuna_clean is not None and glassdoor_clean is not None:
