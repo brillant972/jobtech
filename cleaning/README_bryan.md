@@ -11,7 +11,7 @@ pip install pandas pyarrow fuzzywuzzy python-Levenshtein
 ## Utilisation
 ```bash
 cd cleaning
-python 02_clean_modular.py  # Version recommandée
+python 02_clean.py
 ```
 
 ## Architecture
