@@ -11,14 +11,21 @@ pip install pandas pyarrow fuzzywuzzy python-Levenshtein
 ## Utilisation
 ```bash
 cd cleaning
-python 02_clean.py
+python 02_clean_modular.py  # Version recommandée
 ```
 
 ## Architecture
 ```
 cleaning/
-├── 02_clean.py                  # Script principal
-├── modules/sirene_validator.py  # Validation SIRENE (plus a venir maybe)
+├── 02_clean.py         # Pipeline principal
+├── modules/
+│   ├── sirene_validator.py     # Validation SIRENE
+│   └── cleaners/
+│       ├── base_cleaner.py     # Classe de base
+│       ├── job_cleaner.py      # Nettoyeur jobs
+│       ├── github_cleaner.py   # Nettoyeur GitHub
+│       ├── trends_cleaner.py   # Nettoyeur Trends
+│       └── survey_cleaner.py   # Nettoyeur Surveys
 └── README_bryan.md             # Documentation
 
 dictionaries/
@@ -45,8 +52,10 @@ dictionaries/
 - **Consolidation** : fusion fichiers multiples par source
 - **Normalisation** : technologies (`js` → `JavaScript`), pays (`france` → `FR`), salaires → EUR
 - **Validation SIRENE** : 52/1,083 entreprises françaises vérifiées (base 31 entreprises tech)
-- **Suppression doublons** : avec exclusion colonnes listes
+- **Suppression doublons** : avec gestion sécurisée des colonnes listes
 - **Enrichissement** : métadonnées, flags utiles
+- **Séparation stricte** : un fichier par type/source de données
+
 
 ## Module : Validation SIRENE 
 - **Base référence** : 31 entreprises tech françaises (a améliorer)
