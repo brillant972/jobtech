@@ -141,15 +141,28 @@ class PostgreSQLParquetLoader:
             # Check if the column contains arrays/lists
             first_valid = None
             for item in sample_data:
-                if pd.notna(item):
+                if pd.notna(item) and item is not None:
                     first_valid = item
                     break
             
             if first_valid is not None:
-                # Check if it's a list or array
+                # Check if it's a list, tuple, or numpy array
                 if isinstance(first_valid, (list, tuple, np.ndarray)):
                     # Determine the array element type
-                    if len(first_valid) > 0:
+                    if isinstance(first_valid, np.ndarray) and len(first_valid) > 0:
+                        # Handle numpy arrays
+                        element_type = type(first_valid.flat[0])
+                        if element_type in (int, np.integer):
+                            return 'INTEGER[]'
+                        elif element_type in (float, np.floating):
+                            return 'DOUBLE PRECISION[]'
+                        elif element_type in (str, np.str_):
+                            return 'TEXT[]'
+                        elif element_type in (bool, np.bool_):
+                            return 'BOOLEAN[]'
+                        return 'TEXT[]'  # Default for numpy arrays
+                    elif isinstance(first_valid, (list, tuple)) and len(first_valid) > 0:
+                        # Handle regular lists/tuples
                         element_type = type(first_valid[0])
                         if element_type in (int, np.integer):
                             return 'INTEGER[]'
@@ -175,6 +188,7 @@ class PostgreSQLParquetLoader:
             'float32': 'REAL',
             'bool': 'BOOLEAN',
             'datetime64[ns]': 'TIMESTAMP',
+            'datetime64[us]': 'TIMESTAMP',
             'object': 'TEXT',
             'category': 'TEXT'
         }
@@ -246,6 +260,9 @@ class PostgreSQLParquetLoader:
             # Clean table name
             table_name = table_name.replace(' ', '_').replace('-', '_').replace('.', '_')
             
+            # Pre-process DataFrame to handle problematic columns
+            df = self._preprocess_dataframe(df)
+            
             # Create table
             if not self.create_table_from_dataframe(df, table_name):
                 return False
@@ -270,9 +287,9 @@ class PostgreSQLParquetLoader:
                 prepared_df.to_sql(table_name, engine, if_exists='append', index=False, method='multi')
                 logger.info(f"Data inserted into table '{table_name}' successfully")
                 
-            except ImportError:
+            except (ImportError, Exception) as e:
                 # Fallback method without SQLAlchemy
-                logger.warning("SQLAlchemy not available, using manual insertion method")
+                logger.warning(f"SQLAlchemy method failed ({e}), using manual insertion method")
                 self._insert_data_manually(df, table_name)
             
             return True
@@ -280,6 +297,33 @@ class PostgreSQLParquetLoader:
         except Exception as e:
             logger.error(f"Failed to load parquet file '{parquet_file}': {e}")
             return False
+    
+    def _preprocess_dataframe(self, df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Pre-process DataFrame to handle problematic columns before insertion
+        
+        Args:
+            df: Original DataFrame
+            
+        Returns:
+            Preprocessed DataFrame
+        """
+        df_copy = df.copy()
+        
+        # Convert numpy arrays to strings for problematic columns
+        for col in df_copy.columns:
+            if df_copy[col].dtype == 'object':
+                # Check if column contains numpy arrays
+                sample = df_copy[col].dropna().head(1)
+                if len(sample) > 0:
+                    val = sample.iloc[0]
+                    if isinstance(val, np.ndarray):
+                        # Convert all numpy arrays to strings
+                        df_copy[col] = df_copy[col].apply(
+                            lambda x: str(x.tolist()) if isinstance(x, np.ndarray) else x
+                        )
+        
+        return df_copy
     
     def prepare_data_for_insertion(self, df: pd.DataFrame) -> pd.DataFrame:
         """
@@ -296,18 +340,32 @@ class PostgreSQLParquetLoader:
         for col in df_copy.columns:
             # Check if column contains arrays/lists
             if len(df_copy) > 0 and df_copy[col].notna().any():
-                first_valid = df_copy[col].dropna().iloc[0]
+                # Get first valid value to check type
+                first_valid = None
+                for val in df_copy[col].dropna():
+                    if val is not None:
+                        first_valid = val
+                        break
                 
-                if isinstance(first_valid, (list, tuple, np.ndarray)):
-                    # Convert arrays to PostgreSQL array format
-                    df_copy[col] = df_copy[col].apply(
-                        lambda x: self._format_array_for_postgres(x) if pd.notna(x) else None
-                    )
-                elif isinstance(first_valid, dict):
-                    # Convert dict to JSON string
-                    df_copy[col] = df_copy[col].apply(
-                        lambda x: json.dumps(x) if pd.notna(x) else None
-                    )
+                if first_valid is not None:
+                    if isinstance(first_valid, (list, tuple, np.ndarray)):
+                        # Convert arrays to PostgreSQL array format
+                        def safe_format_array(x):
+                            if pd.isna(x) or x is None:
+                                return None
+                            try:
+                                return self._format_array_for_postgres(x)
+                            except:
+                                # If formatting fails, convert to string
+                                return str(x)
+                        
+                        df_copy[col] = df_copy[col].apply(safe_format_array)
+                        
+                    elif isinstance(first_valid, dict):
+                        # Convert dict to JSON string
+                        df_copy[col] = df_copy[col].apply(
+                            lambda x: json.dumps(x) if pd.notna(x) and x is not None else None
+                        )
         
         return df_copy
     
