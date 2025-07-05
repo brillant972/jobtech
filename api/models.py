@@ -33,7 +33,7 @@ class Adzuna(models.Model):
         db_table = 'adzuna_jobs_clean'
 
 class GithubStats(models.Model):
-    language = models.CharField(max_length=100, null=True, blank=True)
+    language = models.CharField(max_length=100, primary_key=True)
     trending_repos_count = models.BigIntegerField(null=True, blank=True)
     total_stars = models.BigIntegerField(null=True, blank=True)
     total_forks = models.BigIntegerField(null=True, blank=True)
