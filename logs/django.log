@@ -1,0 +1,12 @@
+Watching for file changes with StatReloader
+C:\Users\eleah\jobtech\jobtech_api\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\eleah\jobtech\jobtech_api\settings.py changed, reloading.
+INFO 2025-07-02 13:38:31,265 autoreload 27420 32588 Watching for file changes with StatReloader
+WARNING 2025-07-02 13:38:35,647 log 27420 26068 Not Found: /
+WARNING 2025-07-02 13:38:35,649 basehttp 27420 26068 "GET / HTTP/1.1" 404 2674
+INFO 2025-07-02 14:15:58,524 autoreload 13888 15204 Watching for file changes with StatReloader
+WARNING 2025-07-02 14:20:46,156 log 24972 6748 Not Found: /
+WARNING 2025-07-02 14:20:46,650 log 24972 6296 Not Found: /favicon.ico
+WARNING 2025-07-02 14:22:43,748 log 24972 20572 Not Found: /
+WARNING 2025-07-02 14:23:01,311 log 24972 29924 Not Found: /skills

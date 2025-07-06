@@ -1,0 +1,26 @@
+keyword,country,timeframe,avg_interest,max_interest,min_interest,trend_direction,trend_strength,data_points,analysis_date,category
+Python programming,NL,today 12-m,47.17,100,0,decreasing,21.38,53,2025-07-01,Programming Language
+JavaScript programming,NL,today 12-m,0.23,8,0,increasing,0.92,53,2025-07-01,Programming Language
+Java programming,NL,today 12-m,4.96,70,0,decreasing,8.15,53,2025-07-01,Programming Language
+TypeScript programming,NL,today 12-m,0.77,41,0,decreasing,3.15,53,2025-07-01,Programming Language
+C# programming,NL,today 12-m,1.09,43,0,increasing,1.15,53,2025-07-01,Programming Language
+React framework,NL,today 12-m,0.85,26,0,increasing,3.46,53,2025-07-01,Framework
+Angular framework,NL,today 12-m,0.28,9,0,increasing,1.15,53,2025-07-01,Framework
+Vue.js framework,NL,today 12-m,1.89,100,0,increasing,7.69,53,2025-07-01,Framework
+Node.js programming,NL,today 12-m,0.0,0,0,stable,0.0,53,2025-07-01,Framework
+Django framework,NL,today 12-m,2.11,84,0,decreasing,4.31,53,2025-07-01,Framework
+Docker container,NL,today 12-m,32.47,41,20,decreasing,3.38,53,2025-07-01,DevOps/Cloud
+Kubernetes,NL,today 12-m,66.36,81,32,stable,6.69,53,2025-07-01,DevOps/Cloud
+AWS cloud,NL,today 12-m,6.43,13,0,stable,0.31,53,2025-07-01,DevOps/Cloud
+Azure cloud,NL,today 12-m,9.43,14,0,stable,0.69,53,2025-07-01,DevOps/Cloud
+DevOps,NL,today 12-m,83.15,100,36,decreasing,11.08,53,2025-07-01,DevOps/Cloud
+Machine Learning,NL,today 12-m,72.77,100,35,stable,3.08,53,2025-07-01,AI/Data Science
+Data Science,NL,today 12-m,62.06,80,27,stable,4.08,53,2025-07-01,AI/Data Science
+Artificial Intelligence,NL,today 12-m,54.02,73,33,stable,1.85,53,2025-07-01,Technology
+TensorFlow,NL,today 12-m,15.32,24,8,stable,0.23,53,2025-07-01,AI/Data Science
+PyTorch,NL,today 12-m,35.04,54,16,increasing,3.23,53,2025-07-01,Technology
+PostgreSQL,NL,today 12-m,43.15,58,20,stable,3.38,53,2025-07-01,Database
+MongoDB,NL,today 12-m,24.75,40,12,stable,1.92,53,2025-07-01,Database
+MySQL,NL,today 12-m,80.77,100,49,decreasing,18.31,53,2025-07-01,Database
+Redis database,NL,today 12-m,0.02,1,0,increasing,0.08,53,2025-07-01,Database
+Elasticsearch,NL,today 12-m,15.57,22,7,decreasing,3.0,53,2025-07-01,Technology
